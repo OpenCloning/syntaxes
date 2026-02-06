@@ -1,11 +1,16 @@
+"""
+Add plasmids from the kits to the plasmids directory if they are not already present.
+"""
+
 import glob
 from opencloning.dna_functions import request_from_addgene
 import asyncio
 import time
 
 kits = glob.glob("kits/*")
-existing_plasmids = glob.glob("plasmids/*.gb")
-existing_addgene_ids = [p[:-3] for p in existing_plasmids]
+existing_plasmids = glob.glob("addgene_plasmids/*.gb")
+existing_addgene_ids = [p.split("/")[-1][:-3] for p in existing_plasmids]
+
 for kit in kits:
     plasmids = glob.glob(f"{kit}/plasmids.tsv")
     if len(plasmids) != 1:
@@ -19,9 +24,10 @@ for kit in kits:
     for addgene_id in addgene_ids:
         if addgene_id in existing_addgene_ids:
             continue
+        print(f"Requesting {addgene_id}")
         seq = asyncio.run(request_from_addgene(addgene_id))
         requests_made += 1
-        with open(f"plasmids/{addgene_id}.gb", "w") as f:
+        with open(f"addgene_plasmids/{addgene_id}.gb", "w") as f:
             f.write(seq.format("genbank"))
 
         if requests_made % 10 == 0:

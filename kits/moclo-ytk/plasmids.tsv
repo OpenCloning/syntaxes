@@ -1,97 +1,97 @@
-well	name	addgene_id	resistance
-A / 1	pYTK001	65108	Chloramphenicol
-A / 2	pYTK002	65109	Chloramphenicol
-A / 3	pYTK003	65110	Chloramphenicol
-A / 4	pYTK004	65111	Chloramphenicol
-A / 5	pYTK005	65112	Chloramphenicol
-A / 6	pYTK006	65113	Chloramphenicol
-A / 7	pYTK007	65114	Chloramphenicol
-A / 8	pYTK008	65115	Chloramphenicol
-A / 9	pYTK009	65116	Chloramphenicol
-A / 10	pYTK010	65117	Chloramphenicol
-A / 11	pYTK011	65118	Chloramphenicol
-A / 12	pYTK012	65119	Chloramphenicol
-B / 1	pYTK013	65120	Chloramphenicol
-B / 2	pYTK014	65121	Chloramphenicol
-B / 3	pYTK015	65122	Chloramphenicol
-B / 4	pYTK016	65123	Chloramphenicol
-B / 5	pYTK017	65124	Chloramphenicol
-B / 6	pYTK018	65125	Chloramphenicol
-B / 7	pYTK019	65126	Chloramphenicol
-B / 8	pYTK020	65127	Chloramphenicol
-B / 9	pYTK021	65128	Chloramphenicol
-B / 10	pYTK022	65129	Chloramphenicol
-B / 11	pYTK023	65130	Chloramphenicol
-B / 12	pYTK024	65131	Chloramphenicol
-C / 1	pYTK025	65132	Chloramphenicol
-C / 2	pYTK026	65133	Chloramphenicol
-C / 3	pYTK027	65134	Chloramphenicol
-C / 4	pYTK028	65135	Chloramphenicol
-C / 5	pYTK029	65136	Chloramphenicol
-C / 6	pYTK030	65137	Chloramphenicol
-C / 7	pYTK031	65138	Chloramphenicol
-C / 8	pYTK032	65139	Chloramphenicol
-C / 9	pYTK033	65140	Chloramphenicol
-C / 10	pYTK034	65141	Chloramphenicol
-C / 11	pYTK035	65142	Chloramphenicol
-C / 12	pYTK036	65143	Chloramphenicol
-D / 1	pYTK037	65144	Chloramphenicol
-D / 2	pYTK038	65145	Chloramphenicol
-D / 3	pYTK039	65146	Chloramphenicol
-D / 4	pYTK040	65147	Chloramphenicol
-D / 5	pYTK041	65148	Chloramphenicol
-D / 6	pYTK042	65149	Chloramphenicol
-D / 7	pYTK043	65150	Chloramphenicol
-D / 8	pYTK044	65151	Chloramphenicol
-D / 9	pYTK045	65152	Chloramphenicol
-D / 10	pYTK046	65153	Chloramphenicol
-D / 11	pYTK047	65154	Chloramphenicol
-D / 12	pYTK048	65155	Chloramphenicol
-E / 1	pYTK049	65156	Chloramphenicol
-E / 2	pYTK050	65157	Chloramphenicol
-E / 3	pYTK051	65158	Chloramphenicol
-E / 4	pYTK052	65159	Chloramphenicol
-E / 5	pYTK053	65160	Chloramphenicol
-E / 6	pYTK054	65161	Chloramphenicol
-E / 7	pYTK055	65162	Chloramphenicol
-E / 8	pYTK056	65163	Chloramphenicol
-E / 9	pYTK057	65164	Chloramphenicol
-E / 10	pYTK058	65165	Chloramphenicol
-E / 11	pYTK059	65166	Chloramphenicol
-E / 12	pYTK060	65167	Chloramphenicol
-F / 1	pYTK061	65168	Chloramphenicol
-F / 2	pYTK062	65169	Chloramphenicol
-F / 3	pYTK063	65170	Chloramphenicol
-F / 4	pYTK064	65171	Chloramphenicol
-F / 5	pYTK065	65172	Chloramphenicol
-F / 6	pYTK066	65173	Chloramphenicol
-F / 7	pYTK067	65174	Chloramphenicol
-F / 8	pYTK068	65175	Chloramphenicol
-F / 9	pYTK069	65176	Chloramphenicol
-F / 10	pYTK070	65177	Chloramphenicol
-F / 11	pYTK071	65178	Chloramphenicol
-F / 12	pYTK072	65179	Chloramphenicol
-G / 1	pYTK073	65180	Chloramphenicol
-G / 2	pYTK074	65181	Chloramphenicol
-G / 3	pYTK075	65182	Chloramphenicol
-G / 4	pYTK076	65183	Chloramphenicol
-G / 5	pYTK077	65184	Chloramphenicol
-G / 6	pYTK078	65185	Chloramphenicol
-G / 7	pYTK079	65186	Chloramphenicol
-G / 8	pYTK080	65187	Chloramphenicol
-G / 9	pYTK081	65188	Chloramphenicol
-G / 10	pYTK082	65189	Chloramphenicol
-G / 11	pYTK083	65190	Ampicillin
-G / 12	pYTK084	65191	Kanamycin
-H / 1	pYTK085	65192	Spectinomycin
-H / 2	pYTK086	65193	Chloramphenicol
-H / 3	pYTK087	65194	Chloramphenicol
-H / 4	pYTK088	65195	Chloramphenicol
-H / 5	pYTK089	65196	Ampicillin
-H / 6	pYTK090	65197	Kanamycin
-H / 7	pYTK091	65198	Spectinomycin
-H / 8	pYTK092	65199	Chloramphenicol
-H / 9	pYTK093	65200	Chloramphenicol
-H / 10	pYTK094	65201	Chloramphenicol
-H / 11	pYTK095	65202	Ampicillin
-H / 12	pYTK096	65203	Kanamycin
+well	name	addgene_id	resistance	content
+A / 1	pYTK001	65108	Chloramphenicol	
+A / 2	pYTK002	65109	Chloramphenicol	ConS
+A / 3	pYTK003	65110	Chloramphenicol	Con1
+A / 4	pYTK004	65111	Chloramphenicol	Con2
+A / 5	pYTK005	65112	Chloramphenicol	Con3
+A / 6	pYTK006	65113	Chloramphenicol	Con4
+A / 7	pYTK007	65114	Chloramphenicol	Con5
+A / 8	pYTK008	65115	Chloramphenicol	ConS
+A / 9	pYTK009	65116	Chloramphenicol	ScTDH3 Promoter
+A / 10	pYTK010	65117	Chloramphenicol	ScCCW12 Promoter
+A / 11	pYTK011	65118	Chloramphenicol	ScPGK1 Promoter
+A / 12	pYTK012	65119	Chloramphenicol	ScHHF2 Promoter
+B / 1	pYTK013	65120	Chloramphenicol	ScTEF1 Promoter
+B / 2	pYTK014	65121	Chloramphenicol	ScTEF2 Promoter
+B / 3	pYTK015	65122	Chloramphenicol	ScHHF1 Promoter
+B / 4	pYTK016	65123	Chloramphenicol	ScHTB2 Promoter
+B / 5	pYTK017	65124	Chloramphenicol	ScRPL18B Promoter
+B / 6	pYTK018	65125	Chloramphenicol	ScALD6 Promoter
+B / 7	pYTK019	65126	Chloramphenicol	ScPAB1 Promoter
+B / 8	pYTK020	65127	Chloramphenicol	ScRET2 Promoter
+B / 9	pYTK021	65128	Chloramphenicol	ScRNR1 Promoter
+B / 10	pYTK022	65129	Chloramphenicol	ScSAC6 Promoter
+B / 11	pYTK023	65130	Chloramphenicol	ScRNR2 Promoter
+B / 12	pYTK024	65131	Chloramphenicol	ScPOP6 Promoter
+C / 1	pYTK025	65132	Chloramphenicol	ScRAD27 Promoter
+C / 2	pYTK026	65133	Chloramphenicol	ScPSP2 Promoter
+C / 3	pYTK027	65134	Chloramphenicol	ScREV1 Promoter
+C / 4	pYTK028	65135	Chloramphenicol	ScMFA1 Promoter
+C / 5	pYTK029	65136	Chloramphenicol	ScMF(alpha)2 Promoter
+C / 6	pYTK030	65137	Chloramphenicol	ScGAL1 Promoter
+C / 7	pYTK031	65138	Chloramphenicol	ScCUP1 Promoter
+C / 8	pYTK032	65139	Chloramphenicol	mTurquoise2
+C / 9	pYTK033	65140	Chloramphenicol	Venus
+C / 10	pYTK034	65141	Chloramphenicol	mRuby2
+C / 11	pYTK035	65142	Chloramphenicol	I-SceI
+C / 12	pYTK036	65143	Chloramphenicol	Cas9
+D / 1	pYTK037	65144	Chloramphenicol	mTurquoise2
+D / 2	pYTK038	65145	Chloramphenicol	Venus
+D / 3	pYTK039	65146	Chloramphenicol	mRuby2
+D / 4	pYTK040	65147	Chloramphenicol	3X_FLAG
+D / 5	pYTK041	65148	Chloramphenicol	Ubiquitin
+D / 6	pYTK042	65149	Chloramphenicol	Ubiquitin
+D / 7	pYTK043	65150	Chloramphenicol	Ubiquitin
+D / 8	pYTK044	65151	Chloramphenicol	mTurquoise2
+D / 9	pYTK045	65152	Chloramphenicol	Venus
+D / 10	pYTK046	65153	Chloramphenicol	mRuby2
+D / 11	pYTK047	65154	Chloramphenicol	ColE1
+D / 12	pYTK048	65155	Chloramphenicol	Spacer
+E / 1	pYTK049	65156	Chloramphenicol	I-SceI Recognition Site
+E / 2	pYTK050	65157	Chloramphenicol	sfGFP
+E / 3	pYTK051	65158	Chloramphenicol	ScENO1 Terminator
+E / 4	pYTK052	65159	Chloramphenicol	ScSSA1 Terminator
+E / 5	pYTK053	65160	Chloramphenicol	ScADH1 Terminator
+E / 6	pYTK054	65161	Chloramphenicol	ScPGK1 Terminator
+E / 7	pYTK055	65162	Chloramphenicol	ScENO2 Terminator
+E / 8	pYTK056	65163	Chloramphenicol	ScTDH1 Terminator
+E / 9	pYTK057	65164	Chloramphenicol	mTurquoise2
+E / 10	pYTK058	65165	Chloramphenicol	Venus
+E / 11	pYTK059	65166	Chloramphenicol	mRuby2
+E / 12	pYTK060	65167	Chloramphenicol	3X_FLAG
+F / 1	pYTK061	65168	Chloramphenicol	ScENO1 Terminator
+F / 2	pYTK062	65169	Chloramphenicol	ScSSA1 Terminator
+F / 3	pYTK063	65170	Chloramphenicol	ScADH1 Terminator
+F / 4	pYTK064	65171	Chloramphenicol	ScPGK1 Terminator
+F / 5	pYTK065	65172	Chloramphenicol	ScENO2 Terminator
+F / 6	pYTK066	65173	Chloramphenicol	ScTDH1 Terminator
+F / 7	pYTK067	65174	Chloramphenicol	Con1
+F / 8	pYTK068	65175	Chloramphenicol	Con2
+F / 9	pYTK069	65176	Chloramphenicol	Con3
+F / 10	pYTK070	65177	Chloramphenicol	Con4
+F / 11	pYTK071	65178	Chloramphenicol	Con5
+F / 12	pYTK072	65179	Chloramphenicol	ConE
+G / 1	pYTK073	65180	Chloramphenicol	ConE
+G / 2	pYTK074	65181	Chloramphenicol	URA3
+G / 3	pYTK075	65182	Chloramphenicol	LEU2
+G / 4	pYTK076	65183	Chloramphenicol	HIS3
+G / 5	pYTK077	65184	Chloramphenicol	KanR
+G / 6	pYTK078	65185	Chloramphenicol	NAT (Nourseothricin Acetyltransferase)
+G / 7	pYTK079	65186	Chloramphenicol	HPH (Hygromycin Phosphotransferase)
+G / 8	pYTK080	65187	Chloramphenicol	AgTEF Promoter
+G / 9	pYTK081	65188	Chloramphenicol	ARS4
+G / 10	pYTK082	65189	Chloramphenicol	2micron
+G / 11	pYTK083	65190	Ampicillin	AmpR
+G / 12	pYTK084	65191	Kanamycin	KanR
+H / 1	pYTK085	65192	Spectinomycin	SpecR
+H / 2	pYTK086	65193	Chloramphenicol	URA3 3' Homology
+H / 3	pYTK087	65194	Chloramphenicol	LEU2 3' Homology
+H / 4	pYTK088	65195	Chloramphenicol	HO 3' Homology
+H / 5	pYTK089	65196	Ampicillin	AmpR
+H / 6	pYTK090	65197	Kanamycin	KanR
+H / 7	pYTK091	65198	Spectinomycin	SpecR
+H / 8	pYTK092	65199	Chloramphenicol	URA3 5' Homology
+H / 9	pYTK093	65200	Chloramphenicol	LEU2 5' Homology
+H / 10	pYTK094	65201	Chloramphenicol	HO 5' Homology
+H / 11	pYTK095	65202	Ampicillin	AmpR
+H / 12	pYTK096	65203	Kanamycin	KanR

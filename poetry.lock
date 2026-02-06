@@ -734,7 +734,7 @@ files = [
 
 [[package]]
 name = "opencloning"
-version = "1.0.0"
+version = "1.0.0.post3.dev0+1988c71"
 description = "Backend of OpenCloning, a web application to generate molecular cloning strategies in json format, and share them with others."
 optional = false
 python-versions = "^3.11"
@@ -762,8 +762,8 @@ uvicorn = "*"
 [package.source]
 type = "git"
 url = "https://github.com/manulera/opencloning_backend"
-reference = "HEAD"
-resolved_reference = "483d5ead18e8341c8ed71dbc79b957233fa55c41"
+reference = "syntax-builder"
+resolved_reference = "1988c712c669960fc67925e9c4c0917e87081507"
 
 [[package]]
 name = "opencloning-linkml"
@@ -1890,4 +1890,4 @@ test = ["pytest (>=6.0.0)", "setuptools (>=77)"]
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.11"
-content-hash = "b8b7425432f1717637f32d491ec65364c73dc1f7324571bfdd5dc8ac969004da"
+content-hash = "ed12b10e0ff3138965689592d220e3ecf489b0ec62f0c065cab3a8b9af604d56"
