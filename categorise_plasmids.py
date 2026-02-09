@@ -9,18 +9,24 @@ index = json.load(open(index_file))
 for syntax_entry in index:
     # Load the syntax
     syntax_path = syntax_entry["path"]
-    syntax_file = os.path.join("syntaxes", syntax_path, "syntax.json")
+    if "uses_syntax" in syntax_entry:
+        syntax_file = os.path.join("syntaxes", syntax_entry["uses_syntax"], "syntax.json")
+    else:
+        syntax_file = os.path.join("syntaxes", syntax_path, "syntax.json")
+
     syntax = Syntax.model_validate_json(open(syntax_file).read())
 
-    # Get associated kits paths
-    kits_paths = [os.path.join("kits", kit) for kit in syntax_entry["kits"]]
-
     plasmids = list()
-    for kit in kits_paths:
-        associated_plasmids_tsv = os.path.join(kit, "plasmids.tsv")
+    for associated_kit in syntax_entry["kits"]:
+        associated_kit: dict
+        kit_path = os.path.join("kits", associated_kit["kit"])
+        plasmid_names = associated_kit.get("names", None)
+        associated_plasmids_tsv = os.path.join(kit_path, "plasmids.tsv")
         associated_plasmids_tsv_lines = open(associated_plasmids_tsv).readlines()
         for line in associated_plasmids_tsv_lines[1:]:
             well, name, addgene_id, resistance, content = line.split("\t")
+            if plasmid_names is not None and name not in plasmid_names:
+                continue
             content = content.strip()
             seq = parse(f'addgene_plasmids/{addgene_id}.gb')[0]
             resp = syntax.assign_plasmid_to_syntax_part(seq)
@@ -56,5 +62,7 @@ for syntax_entry in index:
             }
             plasmids.append(plasmid)
 
+    if not os.path.exists(f'syntaxes/{syntax_path}'):
+        os.makedirs(f'syntaxes/{syntax_path}')
     with open(f'syntaxes/{syntax_path}/plasmids.json', 'w') as f:
         json.dump(plasmids, f, indent=4)

@@ -4,7 +4,79 @@
     "path": "moclo_ytk",
     "description": "Single and multi-gene constructs for S. cerevisiae expression from plasmids or integrated into the genome",
     "kits": [
-      "moclo-ytk"
+      {
+        "kit": "moclo-ytk"
+      }
+    ]
+  },
+  {
+    "name": "POMBOX",
+    "path": "pombox",
+    "uses_syntax": "moclo_ytk",
+    "description": "YTK-based Fission Yeast Cloning Toolkit for Molecular and Synthetic Biology",
+    "kits": [
+      {
+        "kit": "pluskal-pombox"
+      },
+      {
+        "kit": "moclo-ytk",
+        "names": [
+          "pYTK002",
+          "pYTK003",
+          "pYTK004",
+          "pYTK005",
+          "pYTK006",
+          "pYTK007",
+          "pYTK008",
+          "pYTK032",
+          "pYTK033",
+          "pYTK034",
+          "pYTK036",
+          "pYTK037",
+          "pYTK038",
+          "pYTK039",
+          "pYTK040",
+          "pYTK044",
+          "pYTK045",
+          "pYTK046",
+          "pYTK047",
+          "pYTK048",
+          "pYTK050",
+          "pYTK051",
+          "pYTK052",
+          "pYTK053",
+          "pYTK054",
+          "pYTK055",
+          "pYTK056",
+          "pYTK057",
+          "pYTK058",
+          "pYTK059",
+          "pYTK060",
+          "pYTK061",
+          "pYTK062",
+          "pYTK063",
+          "pYTK064",
+          "pYTK065",
+          "pYTK066",
+          "pYTK067",
+          "pYTK068",
+          "pYTK069",
+          "pYTK070",
+          "pYTK071",
+          "pYTK072",
+          "pYTK073",
+          "pYTK077",
+          "pYTK078",
+          "pYTK079",
+          "pYTK080",
+          "pYTK083",
+          "pYTK084",
+          "pYTK085",
+          "pYTK089",
+          "pYTK090",
+          "pYTK091"
+        ]
+      }
     ]
   }
 ]

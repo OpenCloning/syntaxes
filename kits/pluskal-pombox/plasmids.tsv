@@ -1,0 +1,39 @@
+well	name	addgene_id	resistance	content
+A / 1	pPOM001_P1_ConL6	216426	Chloramphenicol	Connector L6
+A / 2	pPOM002_P1_ConL7	216427	Chloramphenicol	Connector L7
+A / 3	pPOM003_P1_ConL8	216428	Chloramphenicol	Connector L8
+A / 4	pPOM004_P1_ConL9	216429	Chloramphenicol	Connector L9
+A / 5	pPOM005_P1_ConL10	216430	Chloramphenicol	Connector L10
+A / 6	pPOM006_P1_ConL11	216431	Chloramphenicol	Connector L11
+A / 7	pPOM007_P5_ConR6	216432	Chloramphenicol	Connector R6
+A / 8	pPOM008_P5_ConR7	216433	Chloramphenicol	Connector R7
+A / 9	pPOM009_P5_ConR8	216434	Chloramphenicol	Connector R8
+A / 10	pPOM010_P5_ConR9	216435	Chloramphenicol	Connector R9
+A / 11	pPOM011_P5_ConR10	216436	Chloramphenicol	Connector R10
+A / 12	pPOM012_P5_ConR11	216437	Chloramphenicol	Connector R11
+B / 1	pPOM013_P2_pENO101	216438	Chloramphenicol	Promoter eno101
+B / 2	pPOM014_P2_pGPM1	216439	Chloramphenicol	Promoter gpm1
+B / 3	pPOM015_P2_pADH1	216440	Chloramphenicol	Promoter adh1
+B / 4	pPOM016_P2_pRPL2501	216441	Chloramphenicol	Promoter rpl2501
+B / 5	pPOM017_P2_pTIF51	216442	Chloramphenicol	Promoter tif51
+B / 6	pPOM018_P2_pRPL701	216443	Chloramphenicol	Promoter rpl701
+B / 7	pPOM019_P2_pRPL2102	216444	Chloramphenicol	Promoter rpl2102
+B / 8	pPOM020_P2_pTRS1	216445	Chloramphenicol	Promoter trs1
+B / 9	pPOM021_P2_pTUB1	216446	Chloramphenicol	Promoter tub1
+B / 10	pPOM022_P2_pRPS1002	216447	Chloramphenicol	Promoter rps1002
+B / 11	pPOM023_P2_pAPL4	216448	Chloramphenicol	Promoter apl4
+B / 12	pPOM024_P2_pMPA1	216449	Chloramphenicol	Promoter mpa1
+C / 1	pPOM025_P2_pTUP11	216450	Chloramphenicol	Promoter tup11
+C / 2	pPOM026_P2_pNMT1	216451	Chloramphenicol	Promoter nmt1
+C / 3	"pPOM034_P7_3""Lys3"	216459	Chloramphenicol	3'Lys3
+C / 4	pPOM040_P8b_5'Ura4	216461	Chloramphenicol	5'Ura4
+C / 5	"pPOM036_P7_3""Ura4"	216465	Chloramphenicol	3'Ura4
+C / 6	pPOM027_P4_tSynthGuo	216452	Ampicillin	Terminator guo
+C / 7	pPOM028_P4_tSynth3	216453	Ampicillin	Terminator synth3
+C / 8	pPOM029_P4_tSynth25	216454	Ampicillin	Terminator synth25
+C / 9	pPOM030_P4_tSynth27	216455	Ampicillin	Terminator synth27
+C / 10	pPOM031_P4_tSynth29	216456	Ampicillin	Terminator synth29
+C / 11	pPOM032_P4_tSynth30	216457	Ampicillin	Terminator synth30
+C / 12	pPOM038_P8b_5'Lys3	216463	Ampicillin	5'Lys3
+D / 1	pPOM041_P15678_SingleGeneBackbone	216466	Ampicillin	Single Gene Backbone
+D / 2	pPOM042_P15678_MultiGeneBackbone	216467	Spectinomycin	Multi Gene Backbone
