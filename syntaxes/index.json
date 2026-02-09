@@ -78,5 +78,16 @@
         ]
       }
     ]
+  },
+  {
+    "name": "MoClo YSD",
+    "path": "young-moclo-ysd",
+    "extends_syntax": "moclo_ytk",
+    "description": "Extension to the MoClo YTK kit to optimize secretion and cell surface display of proteins of interest",
+    "kits": [
+      {
+        "kit": "pluskal-pombox"
+      }
+    ]
   }
 ]
