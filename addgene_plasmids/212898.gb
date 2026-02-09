@@ -1,0 +1,85 @@
+LOCUS       pYSD001                 1716 bp    DNA     circular SYN 15-DEC-2025
+DEFINITION  Encodes S.cerevisiae AGA2 pre- signal peptide as a Type 3a' part to
+            be used in the yeast secretion/display (YSD) extension of the MoClo
+            yeast toolkit (YTK).
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+            .
+REFERENCE   1  (bases 1 to 1716)
+  AUTHORS   O'Riordan NM, Juric V, O'Neill SK, Roche AP, Young PW
+  TITLE     A Yeast Modular Cloning (MoClo) Toolkit Expansion for Optimization
+            of Heterologous Protein Secretion and Surface Display in
+            Saccharomyces cerevisiae.
+  JOURNAL   ACS Synth Biol. 2024 Mar 14. doi: 10.1021/acssynbio.3c00743.
+   PUBMED   38483353
+REFERENCE   2  (bases 1 to 1716)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Dec 15, 2025 from SnapGene Server 8.0.1
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; journalName: "ACS Synth
+            Biol. 2024 Mar 14. doi: 10.1021/acssynbio.3c00743."
+            Sequence Label: pYSD001
+FEATURES             Location/Qualifiers
+     source          1..1716
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     rep_origin      153..741
+                     /direction=RIGHT
+                     /label="ori"
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+     primer_bind     642..661
+                     /label="pBR322ori-F"
+                     /note="pBR322 origin, forward primer"
+     terminator      complement(923..957)
+                     /label="lambda t0 terminator"
+                     /note="minimal transcription terminator from phage lambda
+                     (Scholtissek and Grosse, 1987)"
+     CDS             complement(1028..1687)
+                     /codon_start=1
+                     /gene="cat"
+                     /product="chloramphenicol acetyltransferase"
+                     /label="CmR"
+                     /note="confers resistance to chloramphenicol"
+                     /translation="MEKKITGYTTVDISQWHRKEHFEAFQSVAQCTYNQTVQLDITAFL
+                     KTVKKNKHKFYPAFIHILARLMNAHPEFRMAMKDGELVIWDSVHPCYTVFHEQTETFSS
+                     LWSEYHDDFRQFLHIYSQDVACYGENLAYFPKGFIENMFFVSANPWVSFTSFDLNVANM
+                     DNFFAPVFTMGKYYTQGDKVLMPLAIQVHHAVCDGFHVGRMLNELQQYCDEWQGGA"
+     primer_bind     1602..1621
+                     /label="CAT-R"
+                     /note="Chloramphenicol resistance gene, reverse primer"
+ORIGIN
+        1 ataactcaaa aaatacgccc ggtagtgatc ttatttcatt atggtgaaag ttggaacctc
+       61 ttacgtgccc gatcaatcat gaccaaaatc ccttaacgtg agttttcgtt ccactgagcg
+      121 tcagaccccg tagaaaagat caaaggatct tcttgagatc ctttttttct gcgcgtaatc
+      181 tgctgcttgc aaacaaaaaa accaccgcta ccagcggtgg tttgtttgcc ggatcaagag
+      241 ctaccaactc tttttccgaa ggtaactggc ttcagcagag cgcagatacc aaatactgtt
+      301 cttctagtgt agccgtagtt aggccaccac ttcaagaact ctgtagcacc gcctacatac
+      361 ctcgctctgc taatcctgtt accagtggct gctgccagtg gcgataagtc gtgtcttacc
+      421 gggttggact caagacgata gttaccggat aaggcgcagc ggtcgggctg aacggggggt
+      481 tcgtgcacac agcccagctt ggagcgaacg acctacaccg aactgagata cctacagcgt
+      541 gagctatgag aaagcgccac gcttcccgaa gggagaaagg cggacaggta tccggtaagc
+      601 ggcagggtcg gaacaggaga gcgcacgagg gagcttccag ggggaaacgc ctggtatctt
+      661 tatagtcctg tcgggtttcg ccacctctga cttgagcgtc gatttttgtg atgctcgtca
+      721 ggggggcgga gcctatggaa aaacgccagc aacgcggcct ttttacggtt cctggccttt
+      781 tgctggcctt ttgctcacat gttctttcct gcgttatccc ctgattctgt ggataaccgt
+      841 agtcggtctc atatgatgca gttacttcgc tgtttttcaa tattttctgt tattgcttca
+      901 gttcttgctt gagaccagac caataaaaaa cgcccggcgg caaccgagcg ttctgaacaa
+      961 atccagatgg agttctgagg tcattactgg atctatcaac aggagtccaa gcgagctcga
+     1021 tatcaaatta cgccccgccc tgccactcat cgcagtactg ttgtaattca ttaagcattc
+     1081 tgccgacatg gaagccatca caaacggcat gatgaacctg aatcgccagc ggcatcagca
+     1141 ccttgtcgcc ttgcgtataa tatttgccca tggtgaaaac gggggcgaag aagttgtcca
+     1201 tattggccac gtttaaatca aaactggtga aactcaccca gggattggct gaaacgaaaa
+     1261 acatattctc aataaaccct ttagggaaat aggccaggtt ttcaccgtaa cacgccacat
+     1321 cttgcgaata tatgtgtaga aactgccgga aatcgtcgtg gtattcactc cagagcgatg
+     1381 aaaacgtttc agtttgctca tggaaaacgg tgtaacaagg gtgaacacta tcccatatca
+     1441 ccagctcacc gtctttcatt gccatacgaa attccggatg agcattcatc aggcgggcaa
+     1501 gaatgtgaat aaaggccgga taaaacttgt gcttattttt ctttacggtc tttaaaaagg
+     1561 ccgtaatatc cagctgaacg gtctggttat aggtacattg agcaactgac tgaaatgcct
+     1621 caaaatgttc tttacgatgc cattgggata tatcaacggt ggtatatcca gtgatttttt
+     1681 tctccatttt agcttcctta gctcctgaaa atctcg
+//

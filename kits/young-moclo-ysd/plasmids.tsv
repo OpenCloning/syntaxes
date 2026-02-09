@@ -1,0 +1,35 @@
+well	name	addgene_id	resistance	content
+A / 1	pYSD001	212898	Chloramphenicol	AGA2 pre-SP
+A / 2	pYSD002	212899	Chloramphenicol	CRH1 pre-SP
+A / 3	pYSD003	212900	Chloramphenicol	ECM14 pre-SP
+A / 4	pYSD004	212901	Chloramphenicol	SUC2 (Invertase) pre-SP
+A / 5	pYSD005	212902	Chloramphenicol	KSH1 pre-SP
+A / 6	pYSD006	212903	Chloramphenicol	MFalpha1 pre-SP
+A / 7	pYSD007	212904	Chloramphenicol	OST1 pre-SP
+A / 8	pYSD008	212905	Chloramphenicol	PLB1 pre-SP
+A / 9	pYSD009	212906	Chloramphenicol	SRL1 pre-SP
+A / 10	pYSD021	212907	Chloramphenicol	MFalpha1 PrePro-app8 SP
+A / 11	pYSD022	212908	Chloramphenicol	MFalpha1 PrePro-OPT SP
+A / 12	pYSD023	212909	Chloramphenicol	OST1-Pre-MFalpha1 Pro SP
+B / 1	pYSD024	212910	Chloramphenicol	MFalpha1 PrePro-WT SP
+B / 2	pYSD041	212911	Chloramphenicol	YAR066W TFP
+B / 3	pYSD042	212912	Chloramphenicol	HSP150 TFP
+B / 4	pYSD043	212913	Chloramphenicol	SCW4 (111AA) TFP
+B / 5	pYSD044	212914	Chloramphenicol	SCW4 (142AA) TFP
+B / 6	pYSD061	212915	Chloramphenicol	Invertase (SUC2)
+B / 7	pYSD063	212916	Chloramphenicol	mRuby2
+B / 8	pYSD080	212917	Chloramphenicol	AGA1p
+B / 9	pYSD081	212918	Chloramphenicol	AGA2p display anchor
+B / 10	pYSD082	212919	Chloramphenicol	CWP2p display anchor
+B / 11	pYSD083	212920	Chloramphenicol	SED1p display anchor
+B / 12	pYSD084	212921	Chloramphenicol	TIP1p display anchor
+C / 1	pYSD085	212922	Chloramphenicol	649 stalk display anchor
+C / 2	pYSD099	212923	Ampicillin	"LEU2, CEN/ARS empty vector (GFP dropout)"
+C / 3	pYSD100	212924	Ampicillin	
+C / 4	pYSD101	212925	Ampicillin	
+C / 5	pYSD113	212926	Ampicillin	
+C / 6	pYSD140	212927	Ampicillin	
+C / 7	pYSD141	212928	Ampicillin	
+C / 8	pYSD153	212929	Ampicillin	
+C / 9	pYSD300	212930	Ampicillin	
+C / 10	pYSD313	212931	Ampicillin	

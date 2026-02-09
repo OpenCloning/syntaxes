@@ -16,6 +16,9 @@ repository = "https://github.com/opencloning/syntaxes"
 [tool.poetry.dependencies]
 python = "^3.11"
 pydantic = "^2.12.5"
+opencloning = {git = "https://github.com/manulera/opencloning_backend", rev = "syntax-builder"}
+beautifulsoup4 = "^4.14.3"
+requests = "^2.31.0"
 
 [tool.poetry.group.dev.dependencies]
 autopep8 = "^2.0.4"

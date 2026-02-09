@@ -1,0 +1,84 @@
+LOCUS       pYTK066                 1901 bp    DNA     circular SYN 15-DEC-2025
+DEFINITION  Encodes tTDH1 as a Type 4b part to be used in the Dueber YTK system.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+            .
+REFERENCE   1  (bases 1 to 1901)
+  AUTHORS   Lee ME, DeLoache WC, Cervantes B, Dueber JE
+  TITLE     A Highly Characterized Yeast Toolkit for Modular, Multipart Assembly
+  JOURNAL   ACS Synth Biol. 2015 Apr 14.
+   PUBMED   25871405
+REFERENCE   2  (bases 1 to 1901)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Dec 15, 2025 from SnapGene Server 8.0.1
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; journalName: "ACS Synth
+            Biol. 2015 Apr 14."
+            Sequence Label: pYTK066
+FEATURES             Location/Qualifiers
+     source          1..1901
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     terminator      complement(255..289)
+                     /label="lambda t0 terminator"
+                     /note="minimal transcription terminator from phage lambda
+                     (Scholtissek and Grosse, 1987)"
+     CDS             complement(360..1019)
+                     /codon_start=1
+                     /gene="cat"
+                     /product="chloramphenicol acetyltransferase"
+                     /label="CmR"
+                     /note="confers resistance to chloramphenicol"
+                     /translation="MEKKITGYTTVDISQWHRKEHFEAFQSVAQCTYNQTVQLDITAFL
+                     KTVKKNKHKFYPAFIHILARLMNAHPEFRMAMKDGELVIWDSVHPCYTVFHEQTETFSS
+                     LWSEYHDDFRQFLHIYSQDVACYGENLAYFPKGFIENMFFVSANPWVSFTSFDLNVANM
+                     DNFFAPVFTMGKYYTQGDKVLMPLAIQVHHAVCDGFHVGRMLNELQQYCDEWQGGA"
+     primer_bind     934..953
+                     /label="CAT-R"
+                     /note="Chloramphenicol resistance gene, reverse primer"
+     rep_origin      1201..1789
+                     /direction=RIGHT
+                     /label="ori"
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+     primer_bind     1690..1709
+                     /label="pBR322ori-F"
+                     /note="pBR322 origin, forward primer"
+ORIGIN
+        1 tcggtctcct ggcataaagc aatcttgatg aggataatga tttttttttg aatatacata
+       61 aatactaccg tttttctgct agattttgtg atgacgtaaa taagtacata ttacttttta
+      121 agccaagaca agattaagca ttaactttac ccttttcttt ctaagtttca atattagtta
+      181 tcactgttta aaagttatgg cgagaacgtc ggcggttaaa atatattacc ctgaacggct
+      241 gtgagaccag accaataaaa aacgcccggc ggcaaccgag cgttctgaac aaatccagat
+      301 ggagttctga ggtcattact ggatctatca acaggagtcc aagcgagctc gatatcaaat
+      361 tacgccccgc cctgccactc atcgcagtac tgttgtaatt cattaagcat tctgccgaca
+      421 tggaagccat cacaaacggc atgatgaacc tgaatcgcca gcggcatcag caccttgtcg
+      481 ccttgcgtat aatatttgcc catggtgaaa acgggggcga agaagttgtc catattggcc
+      541 acgtttaaat caaaactggt gaaactcacc cagggattgg ctgaaacgaa aaacatattc
+      601 tcaataaacc ctttagggaa ataggccagg ttttcaccgt aacacgccac atcttgcgaa
+      661 tatatgtgta gaaactgccg gaaatcgtcg tggtattcac tccagagcga tgaaaacgtt
+      721 tcagtttgct catggaaaac ggtgtaacaa gggtgaacac tatcccatat caccagctca
+      781 ccgtctttca ttgccatacg aaattccgga tgagcattca tcaggcgggc aagaatgtga
+      841 ataaaggccg gataaaactt gtgcttattt ttctttacgg tctttaaaaa ggccgtaata
+      901 tccagctgaa cggtctggtt ataggtacat tgagcaactg actgaaatgc ctcaaaatgt
+      961 tctttacgat gccattggga tatatcaacg gtggtatatc cagtgatttt tttctccatt
+     1021 ttagcttcct tagctcctga aaatctcgat aactcaaaaa atacgcccgg tagtgatctt
+     1081 atttcattat ggtgaaagtt ggaacctctt acgtgcccga tcaatcatga ccaaaatccc
+     1141 ttaacgtgag ttttcgttcc actgagcgtc agaccccgta gaaaagatca aaggatcttc
+     1201 ttgagatcct ttttttctgc gcgtaatctg ctgcttgcaa acaaaaaaac caccgctacc
+     1261 agcggtggtt tgtttgccgg atcaagagct accaactctt tttccgaagg taactggctt
+     1321 cagcagagcg cagataccaa atactgttct tctagtgtag ccgtagttag gccaccactt
+     1381 caagaactct gtagcaccgc ctacatacct cgctctgcta atcctgttac cagtggctgc
+     1441 tgccagtggc gataagtcgt gtcttaccgg gttggactca agacgatagt taccggataa
+     1501 ggcgcagcgg tcgggctgaa cggggggttc gtgcacacag cccagcttgg agcgaacgac
+     1561 ctacaccgaa ctgagatacc tacagcgtga gctatgagaa agcgccacgc ttcccgaagg
+     1621 gagaaaggcg gacaggtatc cggtaagcgg cagggtcgga acaggagagc gcacgaggga
+     1681 gcttccaggg ggaaacgcct ggtatcttta tagtcctgtc gggtttcgcc acctctgact
+     1741 tgagcgtcga tttttgtgat gctcgtcagg ggggcggagc ctatggaaaa acgccagcaa
+     1801 cgcggccttt ttacggttcc tggccttttg ctggcctttt gctggccttt tgctcacatg
+     1861 ttctttcctg cgttatcccc tgattctgtg gataaccgta g
+//
