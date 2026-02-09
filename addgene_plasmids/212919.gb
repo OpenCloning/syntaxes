@@ -1,0 +1,100 @@
+LOCUS       pYSD082                 1972 bp    DNA     circular SYN 15-DEC-2025
+DEFINITION  Encodes the HA-tagged S. cerevisiae Cwp2p yeast surface display
+            anchor protein as a Type 4a part to be used in the yeast
+            secretion/display (YSD) extension of the MoClo yeast toolkit (YTK).
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+            .
+REFERENCE   1  (bases 1 to 1972)
+  AUTHORS   O'Riordan NM, Juric V, O'Neill SK, Roche AP, Young PW
+  TITLE     A Yeast Modular Cloning (MoClo) Toolkit Expansion for Optimization
+            of Heterologous Protein Secretion and Surface Display in
+            Saccharomyces cerevisiae.
+  JOURNAL   ACS Synth Biol. 2024 Mar 14. doi: 10.1021/acssynbio.3c00743.
+   PUBMED   38483353
+REFERENCE   2  (bases 1 to 1972)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Dec 15, 2025 from SnapGene Server 8.0.1
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; journalName: "ACS Synth
+            Biol. 2024 Mar 14. doi: 10.1021/acssynbio.3c00743."
+            Sequence Label: pYSD082
+FEATURES             Location/Qualifiers
+     source          1..1972
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     primer_bind     62..81
+                     /label="CAT-R"
+                     /note="Chloramphenicol resistance gene, reverse primer"
+     rep_origin      329..917
+                     /direction=RIGHT
+                     /label="ori"
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+     primer_bind     818..837
+                     /label="pBR322ori-F"
+                     /note="pBR322 origin, forward primer"
+     CDS             1062..1088
+                     /codon_start=1
+                     /product="HA (human influenza hemagglutinin) epitope tag"
+                     /label="HA"
+                     /translation="YPYDVPDYA"
+     CDS             1092..1112
+                     /codon_start=1
+                     /product="tobacco etch virus (TEV) protease recognition and
+                     cleavage site"
+                     /label="TEV site"
+                     /translation="ENLYFQS"
+     terminator      complement(1355..1389)
+                     /label="lambda t0 terminator"
+                     /note="minimal transcription terminator from phage lambda
+                     (Scholtissek and Grosse, 1987)"
+     CDS             complement(join(1460..1972,1..147))
+                     /codon_start=1
+                     /gene="cat"
+                     /product="chloramphenicol acetyltransferase"
+                     /label="CmR"
+                     /note="confers resistance to chloramphenicol"
+                     /translation="MEKKITGYTTVDISQWHRKEHFEAFQSVAQCTYNQTVQLDITAFL
+                     KTVKKNKHKFYPAFIHILARLMNAHPEFRMAMKDGELVIWDSVHPCYTVFHEQTETFSS
+                     LWSEYHDDFRQFLHIYSQDVACYGENLAYFPKGFIENMFFVSANPWVSFTSFDLNVANM
+                     DNFFAPVFTMGKYYTQGDKVLMPLAIQVHHAVCDGFHVGRMLNELQQYCDEWQGGA"
+ORIGIN
+        1 ctttacggtc tttaaaaagg ccgtaatatc cagctgaacg gtctggttat aggtacattg
+       61 agcaactgac tgaaatgcct caaaatgttc tttacgatgc cattgggata tatcaacggt
+      121 ggtatatcca gtgatttttt tctccatttt agcttcctta gctcctgaaa atctcgataa
+      181 ctcaaaaaat acgcccggta gtgatcttat ttcattatgg tgaaagttgg aacctcttac
+      241 gtgcccgatc aatcatgacc aaaatccctt aacgtgagtt ttcgttccac tgagcgtcag
+      301 accccgtaga aaagatcaaa ggatcttctt gagatccttt ttttctgcgc gtaatctgct
+      361 gcttgcaaac aaaaaaacca ccgctaccag cggtggtttg tttgccggat caagagctac
+      421 caactctttt tccgaaggta actggcttca gcagagcgca gataccaaat actgttcttc
+      481 tagtgtagcc gtagttaggc caccacttca agaactctgt agcaccgcct acatacctcg
+      541 ctctgctaat cctgttacca gtggctgctg ccagtggcga taagtcgtgt cttaccgggt
+      601 tggactcaag acgatagtta ccggataagg cgcagcggtc gggctgaacg gggggttcgt
+      661 gcacacagcc cagcttggag cgaacgacct acaccgaact gagataccta cagcgtgagc
+      721 tatgagaaag cgccacgctt cccgaaggga gaaaggcgga caggtatccg gtaagcggca
+      781 gggtcggaac aggagagcgc acgagggagc ttccaggggg aaacgcctgg tatctttata
+      841 gtcctgtcgg gtttcgccac ctctgacttg agcgtcgatt tttgtgatgc tcgtcagggg
+      901 ggcggagcct atggaaaaac gccagcaacg cggccttttt acggttcctg gccttttgct
+      961 ggccttttgc tcacatgttc tttcctgcgt tatcccctga ttctgtggat aaccgtagtc
+     1021 ggtctcaatc cggtggaggg ggttctggtg gtggcggatc atacccatac gatgttccag
+     1081 attacgctaa ggaaaatttg tattttcaat ctgaatccgc tgccgccatt tctcaaatca
+     1141 ctgacggtca aatccaagct actaccactg ctaccaccga agctaccacc actgctgccc
+     1201 catcttccac cgttgaaact gtttctccat ccagcaccga aactatctct caacaaactg
+     1261 aaaatggtgc tgctaaggcc gctgtcggta tgggtgccgg tgctctagct gctgctgcta
+     1321 tgttgttata actcgagtgg ctgagaccag accaataaaa aacgcccggc ggcaaccgag
+     1381 cgttctgaac aaatccagat ggagttctga ggtcattact ggatctatca acaggagtcc
+     1441 aagcgagctc gatatcaaat tacgccccgc cctgccactc atcgcagtac tgttgtaatt
+     1501 cattaagcat tctgccgaca tggaagccat cacaaacggc atgatgaacc tgaatcgcca
+     1561 gcggcatcag caccttgtcg ccttgcgtat aatatttgcc catggtgaaa acgggggcga
+     1621 agaagttgtc catattggcc acgtttaaat caaaactggt gaaactcacc cagggattgg
+     1681 ctgaaacgaa aaacatattc tcaataaacc ctttagggaa ataggccagg ttttcaccgt
+     1741 aacacgccac atcttgcgaa tatatgtgta gaaactgccg gaaatcgtcg tggtattcac
+     1801 tccagagcga tgaaaacgtt tcagtttgct catggaaaac ggtgtaacaa gggtgaacac
+     1861 tatcccatat caccagctca ccgtctttca ttgccatacg aaattccgga tgagcattca
+     1921 tcaggcgggc aagaatgtga ataaaggccg gataaaactt gtgcttattt tt
+//

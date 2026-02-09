@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "plasmid_name": "pPOM001_P1_ConL6 (Connector L6)",
+        "plasmid_name": "pYTK002 (ConS)",
         "left_overhang": "CCCT",
         "right_overhang": "AACG",
         "key": "CCCT-AACG",
@@ -10,12 +10,12 @@
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216426"
+            "repository_id": "65109"
         }
     },
     {
         "id": 2,
-        "plasmid_name": "pPOM002_P1_ConL7 (Connector L7)",
+        "plasmid_name": "pYTK003 (Con1)",
         "left_overhang": "CCCT",
         "right_overhang": "AACG",
         "key": "CCCT-AACG",
@@ -24,12 +24,12 @@
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216427"
+            "repository_id": "65110"
         }
     },
     {
         "id": 3,
-        "plasmid_name": "pPOM003_P1_ConL8 (Connector L8)",
+        "plasmid_name": "pYTK004 (Con2)",
         "left_overhang": "CCCT",
         "right_overhang": "AACG",
         "key": "CCCT-AACG",
@@ -38,12 +38,12 @@
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216428"
+            "repository_id": "65111"
         }
     },
     {
         "id": 4,
-        "plasmid_name": "pPOM004_P1_ConL9 (Connector L9)",
+        "plasmid_name": "pYTK005 (Con3)",
         "left_overhang": "CCCT",
         "right_overhang": "AACG",
         "key": "CCCT-AACG",
@@ -52,12 +52,12 @@
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216429"
+            "repository_id": "65112"
         }
     },
     {
         "id": 5,
-        "plasmid_name": "pPOM005_P1_ConL10 (Connector L10)",
+        "plasmid_name": "pYTK006 (Con4)",
         "left_overhang": "CCCT",
         "right_overhang": "AACG",
         "key": "CCCT-AACG",
@@ -66,12 +66,12 @@
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216430"
+            "repository_id": "65113"
         }
     },
     {
         "id": 6,
-        "plasmid_name": "pPOM006_P1_ConL11 (Connector L11)",
+        "plasmid_name": "pYTK007 (Con5)",
         "left_overhang": "CCCT",
         "right_overhang": "AACG",
         "key": "CCCT-AACG",
@@ -80,82 +80,838 @@
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216431"
+            "repository_id": "65114"
         }
     },
     {
         "id": 7,
-        "plasmid_name": "pPOM007_P5_ConR6 (Connector R6)",
-        "left_overhang": "GCTG",
-        "right_overhang": "TACA",
-        "key": "GCTG-TACA",
+        "plasmid_name": "pYTK008 (ConS)",
+        "left_overhang": "CCCT",
+        "right_overhang": "AACG",
+        "key": "CCCT-AACG",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216432"
+            "repository_id": "65115"
         }
     },
     {
         "id": 8,
-        "plasmid_name": "pPOM008_P5_ConR7 (Connector R7)",
-        "left_overhang": "GCTG",
-        "right_overhang": "TACA",
-        "key": "GCTG-TACA",
+        "plasmid_name": "pYTK009 (ScTDH3 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216433"
+            "repository_id": "65116"
         }
     },
     {
         "id": 9,
-        "plasmid_name": "pPOM009_P5_ConR8 (Connector R8)",
-        "left_overhang": "GCTG",
-        "right_overhang": "TACA",
-        "key": "GCTG-TACA",
+        "plasmid_name": "pYTK010 (ScCCW12 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216434"
+            "repository_id": "65117"
         }
     },
     {
         "id": 10,
-        "plasmid_name": "pPOM010_P5_ConR9 (Connector R9)",
-        "left_overhang": "GCTG",
-        "right_overhang": "TACA",
-        "key": "GCTG-TACA",
+        "plasmid_name": "pYTK011 (ScPGK1 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216435"
+            "repository_id": "65118"
         }
     },
     {
         "id": 11,
-        "plasmid_name": "pPOM011_P5_ConR10 (Connector R10)",
-        "left_overhang": "GCTG",
-        "right_overhang": "TACA",
-        "key": "GCTG-TACA",
+        "plasmid_name": "pYTK012 (ScHHF2 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216436"
+            "repository_id": "65119"
         }
     },
     {
         "id": 12,
-        "plasmid_name": "pPOM012_P5_ConR11 (Connector R11)",
+        "plasmid_name": "pYTK013 (ScTEF1 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65120"
+        }
+    },
+    {
+        "id": 13,
+        "plasmid_name": "pYTK014 (ScTEF2 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65121"
+        }
+    },
+    {
+        "id": 14,
+        "plasmid_name": "pYTK015 (ScHHF1 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65122"
+        }
+    },
+    {
+        "id": 15,
+        "plasmid_name": "pYTK016 (ScHTB2 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65123"
+        }
+    },
+    {
+        "id": 16,
+        "plasmid_name": "pYTK017 (ScRPL18B Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65124"
+        }
+    },
+    {
+        "id": 17,
+        "plasmid_name": "pYTK018 (ScALD6 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65125"
+        }
+    },
+    {
+        "id": 18,
+        "plasmid_name": "pYTK019 (ScPAB1 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65126"
+        }
+    },
+    {
+        "id": 19,
+        "plasmid_name": "pYTK020 (ScRET2 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65127"
+        }
+    },
+    {
+        "id": 20,
+        "plasmid_name": "pYTK021 (ScRNR1 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65128"
+        }
+    },
+    {
+        "id": 21,
+        "plasmid_name": "pYTK022 (ScSAC6 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65129"
+        }
+    },
+    {
+        "id": 22,
+        "plasmid_name": "pYTK023 (ScRNR2 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65130"
+        }
+    },
+    {
+        "id": 23,
+        "plasmid_name": "pYTK024 (ScPOP6 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65131"
+        }
+    },
+    {
+        "id": 24,
+        "plasmid_name": "pYTK025 (ScRAD27 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65132"
+        }
+    },
+    {
+        "id": 25,
+        "plasmid_name": "pYTK026 (ScPSP2 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65133"
+        }
+    },
+    {
+        "id": 26,
+        "plasmid_name": "pYTK027 (ScREV1 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65134"
+        }
+    },
+    {
+        "id": 27,
+        "plasmid_name": "pYTK028 (ScMFA1 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65135"
+        }
+    },
+    {
+        "id": 28,
+        "plasmid_name": "pYTK029 (ScMF(alpha)2 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65136"
+        }
+    },
+    {
+        "id": 29,
+        "plasmid_name": "pYTK030 (ScGAL1 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65137"
+        }
+    },
+    {
+        "id": 30,
+        "plasmid_name": "pYTK031 (ScCUP1 Promoter)",
+        "left_overhang": "AACG",
+        "right_overhang": "TATG",
+        "key": "AACG-TATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65138"
+        }
+    },
+    {
+        "id": 31,
+        "plasmid_name": "pYTK032 (mTurquoise2)",
+        "left_overhang": "TATG",
+        "right_overhang": "ATCC",
+        "key": "TATG-ATCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65139"
+        }
+    },
+    {
+        "id": 32,
+        "plasmid_name": "pYTK033 (Venus)",
+        "left_overhang": "TATG",
+        "right_overhang": "ATCC",
+        "key": "TATG-ATCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65140"
+        }
+    },
+    {
+        "id": 33,
+        "plasmid_name": "pYTK034 (mRuby2)",
+        "left_overhang": "TATG",
+        "right_overhang": "ATCC",
+        "key": "TATG-ATCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65141"
+        }
+    },
+    {
+        "id": 34,
+        "plasmid_name": "pYTK035 (I-SceI)",
+        "left_overhang": "TATG",
+        "right_overhang": "ATCC",
+        "key": "TATG-ATCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65142"
+        }
+    },
+    {
+        "id": 35,
+        "plasmid_name": "pYTK036 (Cas9)",
+        "left_overhang": "TATG",
+        "right_overhang": "ATCC",
+        "key": "TATG-ATCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65143"
+        }
+    },
+    {
+        "id": 36,
+        "plasmid_name": "pYTK037 (mTurquoise2)",
+        "left_overhang": "TATG",
+        "right_overhang": "TTCT",
+        "key": "TATG-TTCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65144"
+        }
+    },
+    {
+        "id": 37,
+        "plasmid_name": "pYTK038 (Venus)",
+        "left_overhang": "TATG",
+        "right_overhang": "TTCT",
+        "key": "TATG-TTCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65145"
+        }
+    },
+    {
+        "id": 38,
+        "plasmid_name": "pYTK039 (mRuby2)",
+        "left_overhang": "TATG",
+        "right_overhang": "TTCT",
+        "key": "TATG-TTCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65146"
+        }
+    },
+    {
+        "id": 39,
+        "plasmid_name": "pYTK040 (3X_FLAG)",
+        "left_overhang": "TATG",
+        "right_overhang": "TTCT",
+        "key": "TATG-TTCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65147"
+        }
+    },
+    {
+        "id": 40,
+        "plasmid_name": "pYTK041 (Ubiquitin)",
+        "left_overhang": "TATG",
+        "right_overhang": "TTCT",
+        "key": "TATG-TTCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65148"
+        }
+    },
+    {
+        "id": 41,
+        "plasmid_name": "pYTK042 (Ubiquitin)",
+        "left_overhang": "TATG",
+        "right_overhang": "TTCT",
+        "key": "TATG-TTCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65149"
+        }
+    },
+    {
+        "id": 42,
+        "plasmid_name": "pYTK043 (Ubiquitin)",
+        "left_overhang": "TATG",
+        "right_overhang": "TTCT",
+        "key": "TATG-TTCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65150"
+        }
+    },
+    {
+        "id": 43,
+        "plasmid_name": "pYTK044 (mTurquoise2)",
+        "left_overhang": "TTCT",
+        "right_overhang": "ATCC",
+        "key": "TTCT-ATCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65151"
+        }
+    },
+    {
+        "id": 44,
+        "plasmid_name": "pYTK045 (Venus)",
+        "left_overhang": "TTCT",
+        "right_overhang": "ATCC",
+        "key": "TTCT-ATCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65152"
+        }
+    },
+    {
+        "id": 45,
+        "plasmid_name": "pYTK046 (mRuby2)",
+        "left_overhang": "TTCT",
+        "right_overhang": "ATCC",
+        "key": "TTCT-ATCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65153"
+        }
+    },
+    {
+        "id": 46,
+        "plasmid_name": "pYTK047 (ColE1)",
+        "left_overhang": "GCTG",
+        "right_overhang": "AACG",
+        "key": "GCTG-AACG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65154"
+        }
+    },
+    {
+        "id": 47,
+        "plasmid_name": "pYTK048 (Spacer)",
+        "left_overhang": "AACG",
+        "right_overhang": "GCTG",
+        "key": "AACG-GCTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65155"
+        }
+    },
+    {
+        "id": 48,
+        "plasmid_name": "pYTK049 (I-SceI Recognition Site)",
+        "left_overhang": "AACG",
+        "right_overhang": "GCTG",
+        "key": "AACG-GCTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65156"
+        }
+    },
+    {
+        "id": 49,
+        "plasmid_name": "pYTK050 (sfGFP)",
+        "left_overhang": "AACG",
+        "right_overhang": "GCTG",
+        "key": "AACG-GCTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65157"
+        }
+    },
+    {
+        "id": 50,
+        "plasmid_name": "pYTK051 (ScENO1 Terminator)",
+        "left_overhang": "ATCC",
+        "right_overhang": "GCTG",
+        "key": "ATCC-GCTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65158"
+        }
+    },
+    {
+        "id": 51,
+        "plasmid_name": "pYTK052 (ScSSA1 Terminator)",
+        "left_overhang": "ATCC",
+        "right_overhang": "GCTG",
+        "key": "ATCC-GCTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65159"
+        }
+    },
+    {
+        "id": 52,
+        "plasmid_name": "pYTK053 (ScADH1 Terminator)",
+        "left_overhang": "ATCC",
+        "right_overhang": "GCTG",
+        "key": "ATCC-GCTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65160"
+        }
+    },
+    {
+        "id": 53,
+        "plasmid_name": "pYTK054 (ScPGK1 Terminator)",
+        "left_overhang": "ATCC",
+        "right_overhang": "GCTG",
+        "key": "ATCC-GCTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65161"
+        }
+    },
+    {
+        "id": 54,
+        "plasmid_name": "pYTK055 (ScENO2 Terminator)",
+        "left_overhang": "ATCC",
+        "right_overhang": "GCTG",
+        "key": "ATCC-GCTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65162"
+        }
+    },
+    {
+        "id": 55,
+        "plasmid_name": "pYTK056 (ScTDH1 Terminator)",
+        "left_overhang": "ATCC",
+        "right_overhang": "GCTG",
+        "key": "ATCC-GCTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65163"
+        }
+    },
+    {
+        "id": 56,
+        "plasmid_name": "pYTK057 (mTurquoise2)",
+        "left_overhang": "ATCC",
+        "right_overhang": "TGGC",
+        "key": "ATCC-TGGC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65164"
+        }
+    },
+    {
+        "id": 57,
+        "plasmid_name": "pYTK058 (Venus)",
+        "left_overhang": "ATCC",
+        "right_overhang": "TGGC",
+        "key": "ATCC-TGGC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65165"
+        }
+    },
+    {
+        "id": 58,
+        "plasmid_name": "pYTK059 (mRuby2)",
+        "left_overhang": "ATCC",
+        "right_overhang": "TGGC",
+        "key": "ATCC-TGGC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65166"
+        }
+    },
+    {
+        "id": 59,
+        "plasmid_name": "pYTK060 (3X_FLAG)",
+        "left_overhang": "ATCC",
+        "right_overhang": "TGGC",
+        "key": "ATCC-TGGC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65167"
+        }
+    },
+    {
+        "id": 60,
+        "plasmid_name": "pYTK061 (ScENO1 Terminator)",
+        "left_overhang": "TGGC",
+        "right_overhang": "GCTG",
+        "key": "TGGC-GCTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65168"
+        }
+    },
+    {
+        "id": 61,
+        "plasmid_name": "pYTK062 (ScSSA1 Terminator)",
+        "left_overhang": "TGGC",
+        "right_overhang": "GCTG",
+        "key": "TGGC-GCTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65169"
+        }
+    },
+    {
+        "id": 62,
+        "plasmid_name": "pYTK063 (ScADH1 Terminator)",
+        "left_overhang": "TGGC",
+        "right_overhang": "GCTG",
+        "key": "TGGC-GCTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65170"
+        }
+    },
+    {
+        "id": 63,
+        "plasmid_name": "pYTK064 (ScPGK1 Terminator)",
+        "left_overhang": "TGGC",
+        "right_overhang": "GCTG",
+        "key": "TGGC-GCTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65171"
+        }
+    },
+    {
+        "id": 64,
+        "plasmid_name": "pYTK065 (ScENO2 Terminator)",
+        "left_overhang": "TGGC",
+        "right_overhang": "GCTG",
+        "key": "TGGC-GCTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65172"
+        }
+    },
+    {
+        "id": 65,
+        "plasmid_name": "pYTK066 (ScTDH1 Terminator)",
+        "left_overhang": "TGGC",
+        "right_overhang": "GCTG",
+        "key": "TGGC-GCTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65173"
+        }
+    },
+    {
+        "id": 66,
+        "plasmid_name": "pYTK067 (Con1)",
         "left_overhang": "GCTG",
         "right_overhang": "TACA",
         "key": "GCTG-TACA",
@@ -164,208 +920,194 @@
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216437"
+            "repository_id": "65174"
         }
     },
     {
-        "id": 13,
-        "plasmid_name": "pPOM013_P2_pENO101 (Promoter eno101)",
-        "left_overhang": "AACG",
-        "right_overhang": "TATG",
-        "key": "AACG-TATG",
+        "id": 67,
+        "plasmid_name": "pYTK068 (Con2)",
+        "left_overhang": "GCTG",
+        "right_overhang": "TACA",
+        "key": "GCTG-TACA",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216438"
+            "repository_id": "65175"
         }
     },
     {
-        "id": 14,
-        "plasmid_name": "pPOM014_P2_pGPM1 (Promoter gpm1)",
-        "left_overhang": "AACG",
-        "right_overhang": "TATG",
-        "key": "AACG-TATG",
+        "id": 68,
+        "plasmid_name": "pYTK069 (Con3)",
+        "left_overhang": "GCTG",
+        "right_overhang": "TACA",
+        "key": "GCTG-TACA",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216439"
+            "repository_id": "65176"
         }
     },
     {
-        "id": 15,
-        "plasmid_name": "pPOM015_P2_pADH1 (Promoter adh1)",
-        "left_overhang": "AACG",
-        "right_overhang": "TATG",
-        "key": "AACG-TATG",
+        "id": 69,
+        "plasmid_name": "pYTK070 (Con4)",
+        "left_overhang": "GCTG",
+        "right_overhang": "TACA",
+        "key": "GCTG-TACA",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216440"
+            "repository_id": "65177"
         }
     },
     {
-        "id": 16,
-        "plasmid_name": "pPOM016_P2_pRPL2501 (Promoter rpl2501)",
-        "left_overhang": "AACG",
-        "right_overhang": "TATG",
-        "key": "AACG-TATG",
+        "id": 70,
+        "plasmid_name": "pYTK071 (Con5)",
+        "left_overhang": "GCTG",
+        "right_overhang": "TACA",
+        "key": "GCTG-TACA",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216441"
+            "repository_id": "65178"
         }
     },
     {
-        "id": 17,
-        "plasmid_name": "pPOM017_P2_pTIF51 (Promoter tif51)",
-        "left_overhang": "AACG",
-        "right_overhang": "TATG",
-        "key": "AACG-TATG",
+        "id": 71,
+        "plasmid_name": "pYTK072 (ConE)",
+        "left_overhang": "GCTG",
+        "right_overhang": "TACA",
+        "key": "GCTG-TACA",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216442"
+            "repository_id": "65179"
         }
     },
     {
-        "id": 18,
-        "plasmid_name": "pPOM018_P2_pRPL701 (Promoter rpl701)",
-        "left_overhang": "AACG",
-        "right_overhang": "TATG",
-        "key": "AACG-TATG",
+        "id": 72,
+        "plasmid_name": "pYTK073 (ConE)",
+        "left_overhang": "GCTG",
+        "right_overhang": "TACA",
+        "key": "GCTG-TACA",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216443"
+            "repository_id": "65180"
         }
     },
     {
-        "id": 19,
-        "plasmid_name": "pPOM019_P2_pRPL2102 (Promoter rpl2102)",
-        "left_overhang": "AACG",
-        "right_overhang": "TATG",
-        "key": "AACG-TATG",
+        "id": 73,
+        "plasmid_name": "pYTK074 (URA3)",
+        "left_overhang": "TACA",
+        "right_overhang": "GAGT",
+        "key": "TACA-GAGT",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216444"
+            "repository_id": "65181"
         }
     },
     {
-        "id": 20,
-        "plasmid_name": "pPOM020_P2_pTRS1 (Promoter trs1)",
-        "left_overhang": "AACG",
-        "right_overhang": "TATG",
-        "key": "AACG-TATG",
+        "id": 74,
+        "plasmid_name": "pYTK075 (LEU2)",
+        "left_overhang": "TACA",
+        "right_overhang": "GAGT",
+        "key": "TACA-GAGT",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216445"
+            "repository_id": "65182"
         }
     },
     {
-        "id": 21,
-        "plasmid_name": "pPOM021_P2_pTUB1 (Promoter tub1)",
-        "left_overhang": "AACG",
-        "right_overhang": "TATG",
-        "key": "AACG-TATG",
+        "id": 75,
+        "plasmid_name": "pYTK076 (HIS3)",
+        "left_overhang": "TACA",
+        "right_overhang": "GAGT",
+        "key": "TACA-GAGT",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216446"
+            "repository_id": "65183"
         }
     },
     {
-        "id": 22,
-        "plasmid_name": "pPOM022_P2_pRPS1002 (Promoter rps1002)",
-        "left_overhang": "AACG",
-        "right_overhang": "TATG",
-        "key": "AACG-TATG",
+        "id": 76,
+        "plasmid_name": "pYTK077 (KanR)",
+        "left_overhang": "TACA",
+        "right_overhang": "GAGT",
+        "key": "TACA-GAGT",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216447"
+            "repository_id": "65184"
         }
     },
     {
-        "id": 23,
-        "plasmid_name": "pPOM023_P2_pAPL4 (Promoter apl4)",
-        "left_overhang": "AACG",
-        "right_overhang": "TATG",
-        "key": "AACG-TATG",
+        "id": 77,
+        "plasmid_name": "pYTK078 (NAT (Nourseothricin Acetyltransferase))",
+        "left_overhang": "TACA",
+        "right_overhang": "GAGT",
+        "key": "TACA-GAGT",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216448"
+            "repository_id": "65185"
         }
     },
     {
-        "id": 24,
-        "plasmid_name": "pPOM024_P2_pMPA1 (Promoter mpa1)",
-        "left_overhang": "AACG",
-        "right_overhang": "TATG",
-        "key": "AACG-TATG",
+        "id": 78,
+        "plasmid_name": "pYTK079 (HPH (Hygromycin Phosphotransferase))",
+        "left_overhang": "TACA",
+        "right_overhang": "GAGT",
+        "key": "TACA-GAGT",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216449"
+            "repository_id": "65186"
         }
     },
     {
-        "id": 25,
-        "plasmid_name": "pPOM025_P2_pTUP11 (Promoter tup11)",
-        "left_overhang": "AACG",
-        "right_overhang": "TATG",
-        "key": "AACG-TATG",
+        "id": 79,
+        "plasmid_name": "pYTK080 (AgTEF Promoter)",
+        "left_overhang": "TACA",
+        "right_overhang": "GAGT",
+        "key": "TACA-GAGT",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216450"
+            "repository_id": "65187"
         }
     },
     {
-        "id": 26,
-        "plasmid_name": "pPOM026_P2_pNMT1 (Promoter nmt1)",
-        "left_overhang": "AACG",
-        "right_overhang": "TATG",
-        "key": "AACG-TATG",
-        "type": "AddgeneIdSource",
-        "source": {
-            "id": 1,
-            "type": "AddgeneIdSource",
-            "input": [],
-            "repository_id": "216451"
-        }
-    },
-    {
-        "id": 27,
-        "plasmid_name": "\"pPOM034_P7_3\"\"Lys3\" (3'Lys3)",
+        "id": 80,
+        "plasmid_name": "pYTK081 (ARS4)",
         "left_overhang": "GAGT",
         "right_overhang": "CCGA",
         "key": "GAGT-CCGA",
@@ -374,26 +1116,12 @@
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216459"
+            "repository_id": "65188"
         }
     },
     {
-        "id": 28,
-        "plasmid_name": "pPOM040_P8b_5'Ura4 (5'Ura4)",
-        "left_overhang": "CAAT",
-        "right_overhang": "CCCT",
-        "key": "CAAT-CCCT",
-        "type": "AddgeneIdSource",
-        "source": {
-            "id": 1,
-            "type": "AddgeneIdSource",
-            "input": [],
-            "repository_id": "216461"
-        }
-    },
-    {
-        "id": 29,
-        "plasmid_name": "\"pPOM036_P7_3\"\"Ura4\" (3'Ura4)",
+        "id": 81,
+        "plasmid_name": "pYTK082 (2micron)",
         "left_overhang": "GAGT",
         "right_overhang": "CCGA",
         "key": "GAGT-CCGA",
@@ -402,96 +1130,138 @@
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216465"
+            "repository_id": "65189"
         }
     },
     {
-        "id": 30,
-        "plasmid_name": "pPOM027_P4_tSynthGuo (Terminator guo)",
-        "left_overhang": "ATCC",
-        "right_overhang": "GCTG",
-        "key": "ATCC-GCTG",
+        "id": 82,
+        "plasmid_name": "pYTK083 (AmpR)",
+        "left_overhang": "CCGA",
+        "right_overhang": "CCCT",
+        "key": "CCGA-CCCT",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216452"
+            "repository_id": "65190"
         }
     },
     {
-        "id": 31,
-        "plasmid_name": "pPOM028_P4_tSynth3 (Terminator synth3)",
-        "left_overhang": "ATCC",
-        "right_overhang": "GCTG",
-        "key": "ATCC-GCTG",
+        "id": 83,
+        "plasmid_name": "pYTK084 (KanR)",
+        "left_overhang": "CCGA",
+        "right_overhang": "CCCT",
+        "key": "CCGA-CCCT",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216453"
+            "repository_id": "65191"
         }
     },
     {
-        "id": 32,
-        "plasmid_name": "pPOM029_P4_tSynth25 (Terminator synth25)",
-        "left_overhang": "ATCC",
-        "right_overhang": "GCTG",
-        "key": "ATCC-GCTG",
+        "id": 84,
+        "plasmid_name": "pYTK085 (SpecR)",
+        "left_overhang": "CCGA",
+        "right_overhang": "CCCT",
+        "key": "CCGA-CCCT",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216454"
+            "repository_id": "65192"
         }
     },
     {
-        "id": 33,
-        "plasmid_name": "pPOM030_P4_tSynth27 (Terminator synth27)",
-        "left_overhang": "ATCC",
-        "right_overhang": "GCTG",
-        "key": "ATCC-GCTG",
+        "id": 85,
+        "plasmid_name": "pYTK086 (URA3 3' Homology)",
+        "left_overhang": "GAGT",
+        "right_overhang": "CCGA",
+        "key": "GAGT-CCGA",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216455"
+            "repository_id": "65193"
         }
     },
     {
-        "id": 34,
-        "plasmid_name": "pPOM031_P4_tSynth29 (Terminator synth29)",
-        "left_overhang": "ATCC",
-        "right_overhang": "GCTG",
-        "key": "ATCC-GCTG",
+        "id": 86,
+        "plasmid_name": "pYTK087 (LEU2 3' Homology)",
+        "left_overhang": "GAGT",
+        "right_overhang": "CCGA",
+        "key": "GAGT-CCGA",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216456"
+            "repository_id": "65194"
         }
     },
     {
-        "id": 35,
-        "plasmid_name": "pPOM032_P4_tSynth30 (Terminator synth30)",
-        "left_overhang": "ATCC",
-        "right_overhang": "GCTG",
-        "key": "ATCC-GCTG",
+        "id": 87,
+        "plasmid_name": "pYTK088 (HO 3' Homology)",
+        "left_overhang": "GAGT",
+        "right_overhang": "CCGA",
+        "key": "GAGT-CCGA",
         "type": "AddgeneIdSource",
         "source": {
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216457"
+            "repository_id": "65195"
         }
     },
     {
-        "id": 36,
-        "plasmid_name": "pPOM038_P8b_5'Lys3 (5'Lys3)",
+        "id": 88,
+        "plasmid_name": "pYTK089 (AmpR)",
+        "left_overhang": "CCGA",
+        "right_overhang": "CAAT",
+        "key": "CCGA-CAAT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65196"
+        }
+    },
+    {
+        "id": 89,
+        "plasmid_name": "pYTK090 (KanR)",
+        "left_overhang": "CCGA",
+        "right_overhang": "CAAT",
+        "key": "CCGA-CAAT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65197"
+        }
+    },
+    {
+        "id": 90,
+        "plasmid_name": "pYTK091 (SpecR)",
+        "left_overhang": "CCGA",
+        "right_overhang": "CAAT",
+        "key": "CCGA-CAAT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65198"
+        }
+    },
+    {
+        "id": 91,
+        "plasmid_name": "pYTK092 (URA3 5' Homology)",
         "left_overhang": "CAAT",
         "right_overhang": "CCCT",
         "key": "CAAT-CCCT",
@@ -500,12 +1270,54 @@
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216463"
+            "repository_id": "65199"
         }
     },
     {
-        "id": 37,
-        "plasmid_name": "pPOM041_P15678_SingleGeneBackbone (Single Gene Backbone)",
+        "id": 92,
+        "plasmid_name": "pYTK093 (LEU2 5' Homology)",
+        "left_overhang": "CAAT",
+        "right_overhang": "CCCT",
+        "key": "CAAT-CCCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65200"
+        }
+    },
+    {
+        "id": 93,
+        "plasmid_name": "pYTK094 (HO 5' Homology)",
+        "left_overhang": "CAAT",
+        "right_overhang": "CCCT",
+        "key": "CAAT-CCCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65201"
+        }
+    },
+    {
+        "id": 94,
+        "plasmid_name": "pYTK095 (AmpR)",
+        "left_overhang": "TACA",
+        "right_overhang": "CCCT",
+        "key": "TACA-CCCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "65202"
+        }
+    },
+    {
+        "id": 95,
+        "plasmid_name": "pYTK096 (KanR)",
         "left_overhang": "GCTG",
         "right_overhang": "AACG",
         "key": "GCTG-AACG",
@@ -514,12 +1326,362 @@
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216466"
+            "repository_id": "65203"
         }
     },
     {
-        "id": 38,
-        "plasmid_name": "pPOM042_P15678_MultiGeneBackbone (Multi Gene Backbone)",
+        "id": 96,
+        "plasmid_name": "pYSD001 (AGA2 pre-SP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212898"
+        }
+    },
+    {
+        "id": 97,
+        "plasmid_name": "pYSD002 (CRH1 pre-SP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212899"
+        }
+    },
+    {
+        "id": 98,
+        "plasmid_name": "pYSD003 (ECM14 pre-SP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212900"
+        }
+    },
+    {
+        "id": 99,
+        "plasmid_name": "pYSD004 (SUC2 (Invertase) pre-SP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212901"
+        }
+    },
+    {
+        "id": 100,
+        "plasmid_name": "pYSD005 (KSH1 pre-SP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212902"
+        }
+    },
+    {
+        "id": 101,
+        "plasmid_name": "pYSD006 (MFalpha1 pre-SP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212903"
+        }
+    },
+    {
+        "id": 102,
+        "plasmid_name": "pYSD007 (OST1 pre-SP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212904"
+        }
+    },
+    {
+        "id": 103,
+        "plasmid_name": "pYSD008 (PLB1 pre-SP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212905"
+        }
+    },
+    {
+        "id": 104,
+        "plasmid_name": "pYSD009 (SRL1 pre-SP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212906"
+        }
+    },
+    {
+        "id": 105,
+        "plasmid_name": "pYSD021 (MFalpha1 PrePro-app8 SP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212907"
+        }
+    },
+    {
+        "id": 106,
+        "plasmid_name": "pYSD022 (MFalpha1 PrePro-OPT SP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212908"
+        }
+    },
+    {
+        "id": 107,
+        "plasmid_name": "pYSD023 (OST1-Pre-MFalpha1 Pro SP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212909"
+        }
+    },
+    {
+        "id": 108,
+        "plasmid_name": "pYSD024 (MFalpha1 PrePro-WT SP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212910"
+        }
+    },
+    {
+        "id": 109,
+        "plasmid_name": "pYSD041 (YAR066W TFP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212911"
+        }
+    },
+    {
+        "id": 110,
+        "plasmid_name": "pYSD042 (HSP150 TFP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212912"
+        }
+    },
+    {
+        "id": 111,
+        "plasmid_name": "pYSD043 (SCW4 (111AA) TFP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212913"
+        }
+    },
+    {
+        "id": 112,
+        "plasmid_name": "pYSD044 (SCW4 (142AA) TFP)",
+        "left_overhang": "TATG",
+        "right_overhang": "TGCT",
+        "key": "TATG-TGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212914"
+        }
+    },
+    {
+        "id": 113,
+        "plasmid_name": "pYSD061 (Invertase (SUC2))",
+        "left_overhang": "TGCT",
+        "right_overhang": "ATCC",
+        "key": "TGCT-ATCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212915"
+        }
+    },
+    {
+        "id": 114,
+        "plasmid_name": "pYSD063 (mRuby2)",
+        "left_overhang": "TGCT",
+        "right_overhang": "ATCC",
+        "key": "TGCT-ATCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212916"
+        }
+    },
+    {
+        "id": 115,
+        "plasmid_name": "pYSD080 (AGA1p)",
+        "left_overhang": "TATG",
+        "right_overhang": "ATCC",
+        "key": "TATG-ATCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212917"
+        }
+    },
+    {
+        "id": 116,
+        "plasmid_name": "pYSD081 (AGA2p display anchor)",
+        "left_overhang": "ATCC",
+        "right_overhang": "TGGC",
+        "key": "ATCC-TGGC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212918"
+        }
+    },
+    {
+        "id": 117,
+        "plasmid_name": "pYSD082 (CWP2p display anchor)",
+        "left_overhang": "ATCC",
+        "right_overhang": "TGGC",
+        "key": "ATCC-TGGC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212919"
+        }
+    },
+    {
+        "id": 118,
+        "plasmid_name": "pYSD083 (SED1p display anchor)",
+        "left_overhang": "ATCC",
+        "right_overhang": "TGGC",
+        "key": "ATCC-TGGC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212920"
+        }
+    },
+    {
+        "id": 119,
+        "plasmid_name": "pYSD084 (TIP1p display anchor)",
+        "left_overhang": "ATCC",
+        "right_overhang": "TGGC",
+        "key": "ATCC-TGGC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212921"
+        }
+    },
+    {
+        "id": 120,
+        "plasmid_name": "pYSD085 (649 stalk display anchor)",
+        "left_overhang": "ATCC",
+        "right_overhang": "TGGC",
+        "key": "ATCC-TGGC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "212922"
+        }
+    },
+    {
+        "id": 121,
+        "plasmid_name": "pYSD099 (\"LEU2, CEN/ARS empty vector (GFP dropout)\")",
         "left_overhang": "GCTG",
         "right_overhang": "AACG",
         "key": "GCTG-AACG",
@@ -528,7 +1690,7 @@
             "id": 1,
             "type": "AddgeneIdSource",
             "input": [],
-            "repository_id": "216467"
+            "repository_id": "212923"
         }
     }
 ]

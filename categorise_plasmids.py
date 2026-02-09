@@ -9,8 +9,8 @@ def merge_syntaxes(syntax_file1: str, syntax_file2: str) -> Syntax:
     syntax1 = Syntax.model_validate_json(open(syntax_file1).read())
     syntax2 = Syntax.model_validate_json(open(syntax_file2).read())
 
-    syntax1.parts.extend(syntax2.parts)
-    syntax1.overhang_names.update(syntax2.overhang_names)
+    syntax1.parts = syntax2.parts + syntax1.parts
+    syntax1.overhangNames.update(syntax2.overhangNames)
     # Reassing ids of parts
     for i, part in enumerate(syntax1.parts):
         part.id = i + 1
@@ -40,6 +40,7 @@ for syntax_entry in index:
 
     plasmids = list()
     for associated_kit in syntax_entry["kits"]:
+        print('>', associated_kit["kit"])
         associated_kit: dict
         kit_path = os.path.join("kits", associated_kit["kit"])
         plasmid_names = associated_kit.get("names", None)
