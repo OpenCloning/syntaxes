@@ -101,6 +101,18 @@
       {
         "kit": "gasser-goldenpics"
       }
+    ],
+    "syntaxes": [
+      {
+        "name": "GoldenPiCS - Transcription Unit",
+        "description": "To build a TU with a Promoter, CDS, and Terminator",
+        "path": "golden_pics1.json"
+      },
+      {
+        "name": "GoldenPiCS - Multigene Constructs",
+        "description": "To combine multiple TUs into a multigene construct",
+        "path": "golden_pics2.json"
+      }
     ]
   }
 ]
