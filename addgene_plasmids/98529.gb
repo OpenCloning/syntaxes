@@ -1,0 +1,111 @@
+LOCUS       BB3aK_14*               2931 bp    DNA     circular SYN 15-DEC-2025
+DEFINITION  empty BB3 for insertion and overexpression of 1 gene in P. pastoris.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+            .
+REFERENCE   1  (bases 1 to 2931)
+  AUTHORS   Prielhofer R, Barrero JJ, Steuer S, Gassler T, Zahrl R, Baumann K,
+            Sauer M, Mattanovich D, Gasser B, Marx H
+  TITLE     GoldenPiCS: a Golden Gate-derived modular cloning system for applied
+            synthetic biology in the yeast Pichia pastoris.
+  JOURNAL   BMC Syst Biol. 2017 Dec 8;11(1):123. doi: 10.1186/s12918-017-0492-3.
+   PUBMED   29221460
+REFERENCE   2  (bases 1 to 2931)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Dec 15, 2025 from SnapGene Server 8.0.1
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; journalName: "BMC Syst
+            Biol."; date: "2017-12-8"; volume: "11(1):123. doi"; pages: "
+            10.1186/s12918-017-0492-3"
+            Sequence Label: BB3aK_14*
+FEATURES             Location/Qualifiers
+     source          1..2931
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     rep_origin      complement(62..650)
+                     /direction=LEFT
+                     /label="ori"
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+     primer_bind     complement(142..161)
+                     /label="pBR322ori-F"
+                     /note="pBR322 origin, forward primer"
+     gene            765..2121
+                     /label="kanMX"
+                     /note="yeast selectable marker conferring kanamycin
+                     resistance (Wach et al., 1994)"
+     promoter        765..1108
+                     /label="TEF promoter"
+                     /note="Ashbya gossypii TEF promoter"
+     CDS             1109..1918
+                     /codon_start=1
+                     /gene="aph(3')-Ia"
+                     /product="aminoglycoside phosphotransferase"
+                     /label="KanR"
+                     /note="confers resistance to kanamycin"
+                     /translation="MGKEKTHVSRPRLNSNMDADLYGYKWARDNVGQSGATIYRLYGKP
+                     DAPELFLKHGKGSVANDVTDEMVRLNWLTEFMPLPTIKHFIRTPDDAWLLTTAIPGKTA
+                     FQVLEEYPDSGENIVDALAVFLRRLHSIPVCNCPFNSDRVFRLAQAQSRMNNGLVDASD
+                     FDDERNGWPVEQVWKEMHKLLPFSPDSVVTHGDFSLDNLIFDEGKLIGCIDVGRVGIAD
+                     RYQDLAILWNCLGEFSPSLQKRLFQKYGIDNPDMNKLQFHLMLDEFF"
+     primer_bind     complement(1176..1195)
+                     /label="Kan-R"
+                     /note="Kanamycin resistance gene, reverse primer"
+     terminator      1924..2121
+                     /label="TEF terminator"
+                     /note="Ashbya gossypii TEF terminator"
+ORIGIN
+        1 cgctgtgagc aaaaggccag caaaaggcca ggaaccgtaa aaaggccgcg ttgctggcgt
+       61 ttttccatag gctccgcccc cctgacgagc atcacaaaaa tcgacgctca agtcagaggt
+      121 ggcgaaaccc gacaggacta taaagatacc aggcgtttcc ccctggaagc tccctcgtgc
+      181 gctctcctgt tccgaccctg ccgcttaccg gatacctgtc cgcctttctc ccttcgggaa
+      241 gcgtggcgct ttctcatagc tcacgctgta ggtatctcag ttcggtgtag gtcgttcgct
+      301 ccaagctggg ctgtgtgcac gaaccccccg ttcagcccga ccgctgcgcc ttatccggta
+      361 actatcgtct tgagtccaac ccggtaagac acgacttatc gccactggca gcagccactg
+      421 gtaacaggat tagcagagcg aggtatgtag gcggtgctac agagttcttg aagtggtggc
+      481 ctaactacgg ctacactaga agaacagtat ttggtatctg cgctctgctg aagccagtta
+      541 ccttcggaaa aagagttggt agctcttgat ccggcaaaca aaccaccgct ggtagcggtg
+      601 gtttttttgt ttgcaagcag cagattacgc gcagaaaaaa aggatctcaa gaagatcctt
+      661 tgatcttttc tacggggtgg agcgcaaaaa accccgcccc tgacagggcg gggttttttc
+      721 gcgatcggag gcgtcttcgg atccgaagac gccgctagct catggacatg gaggcccaga
+      781 ataccctcct tgacagtctt gacgtgcgca gctcaggggc atgatgtgac tgtcgcccgt
+      841 acatttagcc catacatccc catgtataat catttgcatc catacatttt gatggccgca
+      901 cggcgcgaag caaaaattac ggctcctcgc tgcagacgtg cgagcaggga aacgctcccc
+      961 tcacagacgc gttgaattgt ccccacgccg cgcccctgta gagaaatata aaaggttagg
+     1021 atttgccact gaggttcttc tttcatatac ttccttttaa aatcttgcta ggatacagtt
+     1081 ctcacatcac atccgaacat aaacaaccat gggtaaggaa aagactcacg tttcgaggcc
+     1141 gcgattaaat tccaacatgg atgctgattt atatgggtat aaatgggctc gcgataatgt
+     1201 cgggcaatca ggtgcgacaa tctatcgatt gtatgggaag cccgatgcgc cagagttgtt
+     1261 tctgaaacat ggcaaaggta gcgttgccaa tgatgttaca gatgagatgg tcagactaaa
+     1321 ctggctgacg gaatttatgc ctcttccgac catcaagcat tttatccgta ctcctgatga
+     1381 tgcatggtta ctcaccactg cgatccccgg caaaacagca ttccaggtat tagaagaata
+     1441 tcctgattca ggtgaaaata ttgttgatgc gctggcagtg ttcctgcgcc ggttgcattc
+     1501 gattcctgtt tgtaattgtc cttttaacag cgatcgcgta tttcgtctcg ctcaggcgca
+     1561 atcacgaatg aataacggtt tggttgatgc gagtgatttt gatgacgagc gtaatggctg
+     1621 gcctgttgaa caagtctgga aagaaatgca taagcttttg ccattctcac cggattcagt
+     1681 cgtcactcat ggtgatttct cacttgataa ccttattttt gacgagggga aattaatagg
+     1741 ttgtattgat gttggacgag tcggaatcgc agaccgatac caggatcttg ccatcctatg
+     1801 gaactgcctc ggtgagtttt ctccttcatt acagaaacgg ctttttcaaa aatatggtat
+     1861 tgataatcct gatatgaata aattgcagtt tcatttgatg ctcgatgagt ttttctaatc
+     1921 agtactgaca ataaaaagat tcttgttttc aagaacttgt catttgtata gtttttttat
+     1981 attgtagttg ttctatttta atcaaatgtt agcgtgattt atattttttt tcgcctcgac
+     2041 atcatctgcc cagatgcgaa gttaagtgcg cagaaagtaa tatcatgcgt caatcgtatg
+     2101 tgaatgctgg tcgctatact ggcttcagca acgttgtcac tgaagttggc atcagtatct
+     2161 acaaacccta catacctctt gaaggtccag aaggtaagca tttgcccgct ccattcctac
+     2221 ccgacatatc cactctacat tttatagttc aaggcaccga aaaagttcga aacaagaagt
+     2281 ttgttcctga taacaaggat ttctttattg gtgggacttc atttactgtc tccaagaagg
+     2341 acatttctgc tgtcataacc gagatagtct cacagttcga gtctactgat gaccaaaagt
+     2401 cagagaaatt taccatgaaa tctcctcctc cggttgcttt agttgggcat aatctgatag
+     2461 gaggcctcaa gacactgaag aatgcgggta tcaccattcc catacttcca atcataggat
+     2521 ccggcgcgcc gatactcgag aattatggct taatcaagtg aatacatcaa agtcaaactt
+     2581 aaaatacatt cttcgcaggc ttggcttgcc acatagtttt cttcacaatg ctgcaaatga
+     2641 cgcttattat acccttttgg catcgttgaa gcttgcacaa acgaacgtcc cacttaatct
+     2701 tctgtactct gaagaggagt gggaaatacc aagaaaaaca tcaaactcga atgattttcc
+     2761 cgaaccccta ccacaagata ttcatcagct gcgagatagg ctgatcagga gcaagctcgt
+     2821 acgagaagaa acaaaatgac aaaaaaaatc ctatactata taggttacaa ataaaaaagt
+     2881 atcaaaaatg aagcctgcat ctctcaggca aatggcattc tgacatcctc t
+//

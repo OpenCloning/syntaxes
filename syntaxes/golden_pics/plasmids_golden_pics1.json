@@ -1,0 +1,660 @@
+[
+    {
+        "id": 1,
+        "plasmid_name": "BB1_12",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98495"
+        }
+    },
+    {
+        "id": 2,
+        "plasmid_name": "BB1_23",
+        "left_overhang": "CATG",
+        "right_overhang": "GCTT",
+        "key": "CATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98496"
+        }
+    },
+    {
+        "id": 3,
+        "plasmid_name": "BB1_34",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98497"
+        }
+    },
+    {
+        "id": 4,
+        "plasmid_name": "BB1_12_pGAP",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98498"
+        }
+    },
+    {
+        "id": 5,
+        "plasmid_name": "BB1_12_pGPM1",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98499"
+        }
+    },
+    {
+        "id": 6,
+        "plasmid_name": "BB1_12_pRPP1B",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98500"
+        }
+    },
+    {
+        "id": 7,
+        "plasmid_name": "BB1_12_pPDC1",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98501"
+        }
+    },
+    {
+        "id": 8,
+        "plasmid_name": "BB1_12_pPOR1",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98502"
+        }
+    },
+    {
+        "id": 9,
+        "plasmid_name": "BB1_12_pMDH3",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98503"
+        }
+    },
+    {
+        "id": 10,
+        "plasmid_name": "BB1_12_pADH2",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98504"
+        }
+    },
+    {
+        "id": 11,
+        "plasmid_name": "BB1_12_pFBA1-1",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98505"
+        }
+    },
+    {
+        "id": 12,
+        "plasmid_name": "BB1_12_pSHB17",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98506"
+        }
+    },
+    {
+        "id": 13,
+        "plasmid_name": "BB1_12_pTEF2",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98507"
+        }
+    },
+    {
+        "id": 14,
+        "plasmid_name": "BB1_12_pRPL2A",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98508"
+        }
+    },
+    {
+        "id": 15,
+        "plasmid_name": "BB1_12_pLAT1",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98509"
+        }
+    },
+    {
+        "id": 16,
+        "plasmid_name": "BB1_12_pPFK300",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98510"
+        }
+    },
+    {
+        "id": 17,
+        "plasmid_name": "BB1_12_pGUT1",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98511"
+        }
+    },
+    {
+        "id": 18,
+        "plasmid_name": "BB1_12_pTHI11",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98512"
+        }
+    },
+    {
+        "id": 19,
+        "plasmid_name": "BB1_12_pDAS2",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98513"
+        }
+    },
+    {
+        "id": 20,
+        "plasmid_name": "BB1_12_pAOX1",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98514"
+        }
+    },
+    {
+        "id": 21,
+        "plasmid_name": "BB1_12_pDAS1",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98515"
+        }
+    },
+    {
+        "id": 22,
+        "plasmid_name": "BB1_12_pFDH1",
+        "left_overhang": "GGAG",
+        "right_overhang": "CATG",
+        "key": "GGAG-CATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98516"
+        }
+    },
+    {
+        "id": 23,
+        "plasmid_name": "BB1_23_eGFP",
+        "left_overhang": "CATG",
+        "right_overhang": "GCTT",
+        "key": "CATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98518"
+        }
+    },
+    {
+        "id": 24,
+        "plasmid_name": "BB1_34_ScCYC1tt",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98519"
+        }
+    },
+    {
+        "id": 25,
+        "plasmid_name": "BB1_34_TDH3tt",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98520"
+        }
+    },
+    {
+        "id": 26,
+        "plasmid_name": "BB1_34_RPS2tt",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98521"
+        }
+    },
+    {
+        "id": 27,
+        "plasmid_name": "BB1_34_RPP1Btt",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98522"
+        }
+    },
+    {
+        "id": 28,
+        "plasmid_name": "BB1_34_RPS17Btt",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98523"
+        }
+    },
+    {
+        "id": 29,
+        "plasmid_name": "BB1_34_chr4_0883tt",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98524"
+        }
+    },
+    {
+        "id": 30,
+        "plasmid_name": "BB1_34_IDP1tt",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98525"
+        }
+    },
+    {
+        "id": 31,
+        "plasmid_name": "BB1_34_RPS25Att",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98526"
+        }
+    },
+    {
+        "id": 32,
+        "plasmid_name": "BB1_34_RPS3tt",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98527"
+        }
+    },
+    {
+        "id": 33,
+        "plasmid_name": "BB1_34_RPL2Att",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98528"
+        }
+    },
+    {
+        "id": 34,
+        "plasmid_name": "BB3aK_14*",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98529"
+        }
+    },
+    {
+        "id": 35,
+        "plasmid_name": "BB2_AB",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98534"
+        }
+    },
+    {
+        "id": 36,
+        "plasmid_name": "BB2_BC",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98535"
+        }
+    },
+    {
+        "id": 37,
+        "plasmid_name": "BB2_CD",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98536"
+        }
+    },
+    {
+        "id": 38,
+        "plasmid_name": "BB2_DE",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98537"
+        }
+    },
+    {
+        "id": 39,
+        "plasmid_name": "BB2_EF",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98538"
+        }
+    },
+    {
+        "id": 40,
+        "plasmid_name": "BB2_FG",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98539"
+        }
+    },
+    {
+        "id": 41,
+        "plasmid_name": "BB2_GH",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98540"
+        }
+    },
+    {
+        "id": 42,
+        "plasmid_name": "BB2_HI",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98541"
+        }
+    },
+    {
+        "id": 43,
+        "plasmid_name": "BB3aZ_14*",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98542"
+        }
+    },
+    {
+        "id": 44,
+        "plasmid_name": "BB3eH_14*",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98543"
+        }
+    },
+    {
+        "id": 45,
+        "plasmid_name": "BB3aN_14*",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98548"
+        }
+    },
+    {
+        "id": 46,
+        "plasmid_name": "BB3eN_14*",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98549"
+        }
+    },
+    {
+        "id": 47,
+        "plasmid_name": "BB3rN_14*",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "98550"
+        }
+    }
+]
