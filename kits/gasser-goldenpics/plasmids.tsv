@@ -1,0 +1,63 @@
+well	name	addgene_id	resistance
+A / 1	BB1_12	98495	Kanamycin
+A / 2	BB1_23	98496	Kanamycin
+A / 3	BB1_34	98497	Kanamycin
+A / 4	BB1_12_pGAP	98498	Kanamycin
+A / 5	BB1_12_pGPM1	98499	Kanamycin
+A / 6	BB1_12_pRPP1B	98500	Kanamycin
+A / 7	BB1_12_pPDC1	98501	Kanamycin
+A / 8	BB1_12_pPOR1	98502	Kanamycin
+A / 9	BB1_12_pMDH3	98503	Kanamycin
+A / 10	BB1_12_pADH2	98504	Kanamycin
+A / 11	BB1_12_pFBA1-1	98505	Kanamycin
+A / 12	BB1_12_pSHB17	98506	Kanamycin
+B / 1	BB1_12_pTEF2	98507	Kanamycin
+B / 2	BB1_12_pRPL2A	98508	Kanamycin
+B / 3	BB1_12_pLAT1	98509	Kanamycin
+B / 4	BB1_12_pPFK300	98510	Kanamycin
+B / 5	BB1_12_pGUT1	98511	Kanamycin
+B / 6	BB1_12_pTHI11	98512	Kanamycin
+B / 7	BB1_12_pDAS2	98513	Kanamycin
+B / 8	BB1_12_pAOX1	98514	Kanamycin
+B / 9	BB1_12_pDAS1	98515	Kanamycin
+B / 10	BB1_12_pFDH1	98516	Kanamycin
+B / 12	BB1_23_eGFP	98518	Kanamycin
+C / 1	BB1_34_ScCYC1tt	98519	Kanamycin
+C / 2	BB1_34_TDH3tt	98520	Kanamycin
+C / 3	BB1_34_RPS2tt	98521	Kanamycin
+C / 4	BB1_34_RPP1Btt	98522	Kanamycin
+C / 5	BB1_34_RPS17Btt	98523	Kanamycin
+C / 6	BB1_34_chr4_0883tt	98524	Kanamycin
+C / 7	BB1_34_IDP1tt	98525	Kanamycin
+C / 8	BB1_34_RPS25Att	98526	Kanamycin
+C / 9	BB1_34_RPS3tt	98527	Kanamycin
+C / 10	BB1_34_RPL2Att	98528	Kanamycin
+C / 11	BB3aK_14*	98529	Kanamycin
+C / 12	BB3aK_AC	98530	Kanamycin
+D / 1	BB3aK_AD	98531	Kanamycin
+D / 2	BB3aK_AE	98532	Kanamycin
+D / 3	BB3aK_AF	98533	Kanamycin
+D / 4	BB2_AB	98534	Ampicillin
+D / 5	BB2_BC	98535	Ampicillin
+D / 6	BB2_CD	98536	Ampicillin
+D / 7	BB2_DE	98537	Ampicillin
+D / 8	BB2_EF	98538	Ampicillin
+D / 9	BB2_FG	98539	Ampicillin
+D / 10	BB2_GH	98540	Ampicillin
+D / 11	BB2_HI	98541	Ampicillin
+D / 12	BB3aZ_14*	98542	Bleocin (Zeocin)
+E / 1	BB3eH_14*	98543	Hygromycin
+E / 2	BB3eH_AC	98544	Hygromycin
+E / 3	BB3eH_AD	98545	Hygromycin
+E / 4	BB3eH_AE	98546	Hygromycin
+E / 5	BB3eH_AF	98547	Hygromycin
+E / 6	BB3aN_14*	98548	Nourseothricin (clonNat)
+E / 7	BB3eN_14*	98549	Nourseothricin (clonNat)
+E / 8	BB3rN_14*	98550	Nourseothricin (clonNat)
+E / 9	BB3rN_AC	98551	Nourseothricin (clonNat)
+E / 10	BB3rN_AD	98552	Nourseothricin (clonNat)
+E / 11	BB3rN_AE	98553	Nourseothricin (clonNat)
+E / 12	BB3rN_AF	98554	Nourseothricin (clonNat)
+F / 1	BB3rN_AG	98555	Nourseothricin (clonNat)
+F / 2	BB3rN_AH	98556	Nourseothricin (clonNat)
+F / 3	BB3rN_AI	98557	Nourseothricin (clonNat)

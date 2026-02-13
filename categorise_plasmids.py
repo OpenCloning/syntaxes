@@ -47,7 +47,9 @@ for syntax_entry in index:
         associated_plasmids_tsv = os.path.join(kit_path, "plasmids.tsv")
         associated_plasmids_tsv_lines = open(associated_plasmids_tsv).readlines()
         for line in associated_plasmids_tsv_lines[1:]:
-            well, name, addgene_id, resistance, content = line.split("\t")
+            ls = line.split("\t")
+            well, name, addgene_id, resistance = ls[:4]
+            content = '' if len(ls) < 5 else ls[4]
             if plasmid_names is not None and name not in plasmid_names:
                 continue
             content = content.strip()

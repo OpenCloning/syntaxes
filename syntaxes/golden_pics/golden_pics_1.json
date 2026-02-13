@@ -1,0 +1,71 @@
+{
+  "syntaxName": "GoldenPiCS - Transcription Unit",
+  "assemblyEnzyme": "BpiI",
+  "domesticationEnzyme": "BsaI",
+  "relatedDois": [
+    "10.1186/s12918-017-0492-3"
+  ],
+  "submitters": [
+    "0000-0002-8666-9746"
+  ],
+  "overhangNames": {
+    "GGAG": "1",
+    "CATG": "2",
+    "GCTT": "3",
+    "CGCT": "4"
+  },
+  "parts": [
+    {
+      "id": 2,
+      "name": "Promoter",
+      "info": "",
+      "glyph": "promoter",
+      "left_overhang": "GGAG",
+      "right_overhang": "CATG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#a9d55e"
+    },
+    {
+      "id": 3,
+      "name": "CDS",
+      "info": "",
+      "glyph": "cds",
+      "left_overhang": "CATG",
+      "right_overhang": "GCTT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 2,
+      "right_codon_start": 0,
+      "color": "#f3eb91"
+    },
+    {
+      "id": 4,
+      "name": "Terminator",
+      "info": "",
+      "glyph": "terminator",
+      "left_overhang": "GCTT",
+      "right_overhang": "CGCT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#ed8d9c"
+    },
+    {
+      "id": 8,
+      "name": "Backbone",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "CGCT",
+      "right_overhang": "GGAG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#7e7e7e"
+    }
+  ]
+}

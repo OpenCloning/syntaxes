@@ -92,5 +92,15 @@
         "kit": "young-moclo-ysd"
       }
     ]
+  },
+  {
+    "name": "Golden PiCS",
+    "path": "golden_pics",
+    "description": "Flexible modular system for advanced strain engineering in P. pastoris / K. phaffii",
+    "kits": [
+      {
+        "kit": "gasser-goldenpics"
+      }
+    ]
   }
 ]

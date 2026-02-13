@@ -1,0 +1,103 @@
+LOCUS       BB3aN_14*               2700 bp    DNA     circular SYN 15-DEC-2025
+DEFINITION  empty BB3 for insertion and overexpression of 1 gene in P. pastoris.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+            .
+REFERENCE   1  (bases 1 to 2700)
+  AUTHORS   Prielhofer R, Barrero JJ, Steuer S, Gassler T, Zahrl R, Baumann K,
+            Sauer M, Mattanovich D, Gasser B, Marx H
+  TITLE     GoldenPiCS: a Golden Gate-derived modular cloning system for applied
+            synthetic biology in the yeast Pichia pastoris.
+  JOURNAL   BMC Syst Biol. 2017 Dec 8;11(1):123. doi: 10.1186/s12918-017-0492-3.
+   PUBMED   29221460
+REFERENCE   2  (bases 1 to 2700)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Dec 15, 2025 from SnapGene Server 8.0.1
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; journalName: "BMC Syst
+            Biol."; date: "2017-12-8"; volume: "11(1):123. doi"; pages: "
+            10.1186/s12918-017-0492-3"
+            Sequence Label: BB3aN_14*
+FEATURES             Location/Qualifiers
+     source          1..2700
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     rep_origin      complement(62..650)
+                     /direction=LEFT
+                     /label="ori"
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+     primer_bind     complement(142..161)
+                     /label="pBR322ori-F"
+                     /note="pBR322 origin, forward primer"
+     gene            771..1890
+                     /label="natMX6"
+                     /note="yeast selectable marker conferring nourseothricin
+                     resistance"
+     promoter        771..1114
+                     /label="TEF promoter"
+                     /note="Ashbya gossypii TEF promoter"
+     CDS             1115..1687
+                     /codon_start=1
+                     /gene="Streptomyces noursei nat1"
+                     /product="nourseothricin acetyltransferase"
+                     /label="NrsR"
+                     /note="confers resistance to nourseothricin"
+                     /translation="MGTTLDDTAYRYRTSVPGDAEAIEALDGSFTTDTVFRVTATGDGF
+                     TLREVPVDPPLTKVFPDDESDDESDDGEDGDPDSRTFVAYGDDGDLAGFVVVSYSGWNR
+                     RLTVEDIEVAPEHRGHGVGRALMGLATEFARERGAGHLWLEVTNVNAPAIHAYRRMGFT
+                     LCGLDTALYDGTASDGEQALYMSMPCP"
+     terminator      1693..1890
+                     /label="TEF terminator"
+                     /note="Ashbya gossypii TEF terminator"
+ORIGIN
+        1 cgctgtgagc aaaaggccag caaaaggcca ggaaccgtaa aaaggccgcg ttgctggcgt
+       61 ttttccatag gctccgcccc cctgacgagc atcacaaaaa tcgacgctca agtcagaggt
+      121 ggcgaaaccc gacaggacta taaagatacc aggcgtttcc ccctggaagc tccctcgtgc
+      181 gctctcctgt tccgaccctg ccgcttaccg gatacctgtc cgcctttctc ccttcgggaa
+      241 gcgtggcgct ttctcatagc tcacgctgta ggtatctcag ttcggtgtag gtcgttcgct
+      301 ccaagctggg ctgtgtgcac gaaccccccg ttcagcccga ccgctgcgcc ttatccggta
+      361 actatcgtct tgagtccaac ccggtaagac acgacttatc gccactggca gcagccactg
+      421 gtaacaggat tagcagagcg aggtatgtag gcggtgctac agagttcttg aagtggtggc
+      481 ctaactacgg ctacactaga agaacagtat ttggtatctg cgctctgctg aagccagtta
+      541 ccttcggaaa aagagttggt agctcttgat ccggcaaaca aaccaccgct ggtagcggtg
+      601 gtttttttgt ttgcaagcag cagattacgc gcagaaaaaa aggatctcaa gaagatcctt
+      661 tgatcttttc tacggggtgg agcgcaaaaa accccgcccc tgacagggcg gggttttttc
+      721 gcgatcggag gcgtcttcgg atccctcgag gaagacgccg ctccggcatg gacatggagg
+      781 cccagaatac cctccttgac agtcttgacg tgcgcagctc aggggcatga tgtgactgtc
+      841 gcccgtacat ttagcccata catccccatg tataatcatt tgcatccata cattttgatg
+      901 gccgcacggc gcgaagcaaa aattacggct cctcgctgca gacctgcgag cagggaaacg
+      961 ctcccctcac agacgcgttg aattgtcccc acgccgcgcc cctgtagaga aatataaaag
+     1021 gttaggattt gccactgagg ttcttctttc atatacttcc ttttaaaatc ttgctaggat
+     1081 acagttctca catcacatcc gaacataaac aaccatgggt accactcttg acgacacggc
+     1141 ttaccggtac cgcaccagtg tcccggggga cgccgaggcc atcgaggcac tggatgggtc
+     1201 cttcaccacc gacaccgttt ttcgcgtcac cgccaccggg gacggcttca ccctgcggga
+     1261 ggtgccggtg gacccgcccc tgaccaaggt gttccccgac gacgaatcgg acgacgaatc
+     1321 ggacgacggg gaggacggcg acccggactc ccggacgttc gtcgcgtacg gggacgacgg
+     1381 cgacctggcg ggcttcgtgg tcgtctcgta ctccggctgg aaccgccggc tgaccgtcga
+     1441 ggacatcgag gtcgccccgg agcaccgggg gcacggggtc gggcgcgcgt tgatggggct
+     1501 cgcgacggag ttcgcccgcg agcggggcgc cgggcacctc tggctggagg tcaccaacgt
+     1561 caacgcaccg gcgatccacg cgtaccggcg gatggggttc accctctgcg gcctggacac
+     1621 cgccctgtac gacggcaccg cctcggacgg cgagcaggcg ctctacatga gcatgccctg
+     1681 cccctaatca gtactgacaa taaaaagatt cttgttttca agaacttgtc atttgtatag
+     1741 tttttttata ttgtagttgt tctattttaa tcaaatgtta gcgtgattta tatttttttt
+     1801 cgcctcgaca tcatctgccc agatgcgaag ttaagtgcgc agaaagtaat atcatgcgtc
+     1861 aatcgtatgt gaatgctggt cgctatactg gcttcagcaa cgttgtcact gaagttggca
+     1921 tcagtatcta caaaccctac atacctcttg aaggtccaga aggtaagcat ttgcccgctc
+     1981 cattcctacc cgacatatcc actctacatt ttatagttca aggcaccgaa aaagttcgaa
+     2041 acaagaagtt tgttcctgat aacaaggatt tctttattgg tgggacttca tttactgtct
+     2101 ccaagaagga catttctgct gtcataaccg agatagtctc acagttcgag tctactgatg
+     2161 accaaaagtc agagaaattt accatgaaat ctcctcctcc ggttgcttta gttgggcata
+     2221 atctgatagg aggcctcaag acactgaaga atgcgggtat caccattccc atacttccaa
+     2281 tcataggatc cggcgcgccg atactcgaga attatggctt aatcaagtga atacatcaaa
+     2341 gtcaaactta aaatacattc ttcgcaggct tggcttgcca catagttttc ttcacaatgc
+     2401 tgcaaatgac gcttattata cccttttggc atcgttgaag cttgcacaaa cgaacgtccc
+     2461 acttaatctt ctgtactctg aagaggagtg ggaaatacca agaaaaacat caaactcgaa
+     2521 tgattttccc gaacccctac cacaagatat tcatcagctg cgagataggc tgatcaggag
+     2581 caagctcgta cgagaagaaa caaaatgaca aaaaaaatcc tatactatat aggttacaaa
+     2641 taaaaaagta tcaaaaatga agcctgcatc tctcaggcaa atggcattct gacatcctct
+//
