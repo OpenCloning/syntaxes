@@ -1,0 +1,110 @@
+LOCUS       STK285_pSTK-1C-Spectino 3024 bp ds-DNA     circular     15-JAN-2025
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     CDS             complement(619..1479)
+                     /label="bla CDS"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     promoter        complement(1480..1584)
+                     /label="bla promoter"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     terminator      1674..1717
+                     /label="putative bacterial transcription terminator"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     misc_feature    1720..1739
+                     /label="BioBrick prefix for parts that start with """"ATG"""""
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     misc_feature    1742..1748
+                     /label="GG1A"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     source          1742..1748
+                     /label="source"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     primer          1761..1792
+                     /label="J.126.SpectinoCassette.Fw"
+                     /note="sequence: GGTCTCAAGAGTAACGGTCAGCTTTATTGAACAGTAATTTAAG"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    1868..2650
+                     /label=" Spectinomycin 9-O-adenylyltransferase [Staphylococcus aureus]"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature    2653..2686
+                     /label="Terminator"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     primer          complement(2670..2701)
+                     /label="J.127.SpectinoCassette.Rv"
+                     /note="sequence: GGTCTCACCGTCCGTaaaaagggcagggtggt"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     source          2695..1741
+                     /label="source"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    2695..2701
+                     /label="GG1A"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     rep_origin      complement(2884..448)
+                     /label="high-copy-number ColE1/pMB1/pBR322/pUC origin of replication"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+ORIGIN
+        1 gcttaccgga tacctgtccg cctttctccc ttcgggaagc gtggcgcttt ctcatagctc
+       61 acgctgtagg tatctcagtt cggtgtaggt cgttcgctcc aagctgggct gtgtgcacga
+      121 accccccgtt cagcccgacc gctgcgcctt atccggtaac tatcgtcttg agtccaaccc
+      181 ggtaagacac gacttatcgc cactggcagc agccactggt aacaggatta gcagagcgag
+      241 gtatgtaggc ggtgctacag agttcttgaa gtggtggcct aactacggct acactagaag
+      301 gacagtattt ggtatctgcg ctctgctgaa gccagttacc ttcggaaaaa gagttggtag
+      361 ctcttgatcc ggcaaacaaa ccaccgctgg tagcggtggt ttttttgttt gcaagcagca
+      421 gattacgcgc agaaaaaaag gatctcaaga agatcctttg atcttttcta cggggtctga
+      481 cgctcagtgg aacgaaaact cacgttaagg gattttggtc atgagattat caaaaaggat
+      541 cttcacctag atccttttaa attaaaaatg aagttttaaa tcaatctaaa gtatatatga
+      601 gtaaacttgg tctgacagtt accaatgctt aatcagtgag gcacctatct cagcgatctg
+      661 tctatttcgt tcatccatag ttgcctgact ccccgtcgtg tagataacta cgatacggga
+      721 gggcttacca tctggcccca gtgctgcaat gataccgcga gagccacgct caccggctcc
+      781 agatttatca gcaataaacc agccagccgg aagggccgag cgcagaagtg gtcctgcaac
+      841 tttatccgcc tccatccagt ctattaattg ttgccgggaa gctagagtaa gtagttcgcc
+      901 agttaatagt ttgcgcaacg ttgttgccat tgctacaggc atcgtggtgt cacgctcgtc
+      961 gtttggtatg gcttcattca gctccggttc ccaacgatca aggcgagtta catgatcccc
+     1021 catgttgtgc aaaaaagcgg ttagctcctt cggtcctccg atcgttgtca gaagtaagtt
+     1081 ggccgcagtg ttatcactca tggttatggc agcactgcat aattctctta ctgtcatgcc
+     1141 atccgtaaga tgcttttctg tgactggtga gtactcaacc aagtcattct gagaatagtg
+     1201 tatgcggcga ccgagttgct cttgcccggc gtcaatacgg gataataccg cgccacatag
+     1261 cagaacttta aaagtgctca tcattggaaa acgttcttcg gggcgaaaac tctcaaggat
+     1321 cttaccgctg ttgagatcca gttcgatgta acccactcgt gcacccaact gatcttcagc
+     1381 atcttttact ttcaccagcg tttctgggtg agcaaaaaca ggaaggcaaa atgccgcaaa
+     1441 aaagggaata agggcgacac ggaaatgttg aatactcata ctcttccttt ttcaatatta
+     1501 ttgaagcatt tatcagggtt attgtctcat gagcggatac atatttgaat gtatttagaa
+     1561 aaataaacaa ataggggttc cgcgcacatt tccccgaaaa gtgccacctg acgtctaaga
+     1621 aaccattatt atcatgacat taacctataa aaataggcgt atcacgaggc agaatttcag
+     1681 ataaaaaaaa tccttagctt tcgctaagga tgatttctgg aattcgcggc cgcttctaga
+     1741 acgtctcagg taagagACGC TAACGGTCAG CTTTATTGAA CAGTAATTTA AGTATATGTC
+     1801 CAATCTAGGG TAAGTAAATT GAGTATCAAT ATAAACTTTA TATGAACATA ATCAACGAGG
+     1861 TGAAATCATG AGCAATTTGA TTAACGGAAA AATACCAAAT CAAGCGATTC AAACATTAAA
+     1921 AATCGTAAAA GATTTATTTG GAAGTTCAAT AGTTGGAGTA TATCTATTTG GTTCAGCAGT
+     1981 AAATGGTGGT TTACGCATTA ACAGCGATGT AGATGTCCTA GTCGTCGTGA ATCATAGTTT
+     2041 ACCTCAATTA ACTCGAAAAA AACTAACAGA AAGACTAATG ACTATATCAG GAAAGATTGG
+     2101 AAATACGGAT TCTGTTAGAC CACTTGAAGT TACGGTTATA AATAGGAGTG AAGTTGTCCC
+     2161 TTGGCAATAT CCTCCAAAAA GAGAATTTAT ATACGGTGAG TGGCTCAGGG GTGAATTTGA
+     2221 GAATGGACAA ATTCAGGAAC CAAGCTATGA TCCTGATTTG GCTATTGTTT TAGCACAAGC
+     2281 AAGAAAGAAT AGTATTTCTC TATTTGGTCC TGATTCTTCA AGTATACTTG TCTCCGTACC
+     2341 TTTGACAGGT ATTCGAAGAG CAATTAAGGA TTCTTTGCCA GAACTAATTG AGGGGATAAA
+     2401 AGGTGATGAG CGTAATGTAA TTTTAACCCT AGCTCGAATG TGGCAAACAG TGACTACTGG
+     2461 TGAAATTACC TCGAAAGATG TCGCTGCAGA ATGGGCTATA CCTCTTTTAC CTAAAGAGCA
+     2521 TGTAACTTTA CTGGATATAG CTAGAAAAGG CTATCGGGGA GAGTGTGATG ATAAGTGGGA
+     2581 AGGACTATAT TCAAAGGTGG AAGCACTCGT TAAGTATATG AAAAATTCTA TAGAAACTTC
+     2641 TCTCAATTAG GCaaaaaggg caaggtgtca ccaccctgcc ctttttACGG ccaaagagac
+     2701 gctgcaggct tcctcgctca ctgactcgct gcgctcggtc gttcggctgc ggcgagcggt
+     2761 atcagctcac tcaaaggcgg taatacggtt atccacagaa tcaggggata acgcaggaaa
+     2821 gaacatgtga gcaaaaggcc agcaaaaggc caggaaccgt aaaaaggccg cgttgctggc
+     2881 gtttttccat aggctccgcc cccctgacga gcatcacaaa aatcgacgct caagtcagag
+     2941 gtggcgaaac ccgacaggac tataaagata ccaggcgttt ccccctggaa gctccctcgt
+     3001 gcgctctcct gttccgaccc tgcc
+//

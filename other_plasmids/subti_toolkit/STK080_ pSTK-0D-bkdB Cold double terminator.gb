@@ -1,0 +1,91 @@
+LOCUS       STK080__pSTK-0D-bkdB_Co 2151 bp ds-DNA     circular     15-JAN-2025
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     CDS             complement(91..750)
+                     /label="cat CDS"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     terminator      934..977
+                     /label="putative bacterial transcription terminator"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    980..995
+                     /label="BioBrick prefix for parts that do not start with """"ATG"""""
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     Terminator      1016..1082
+                     /label="bkdB Cold double terminator"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     primer          1017..1059
+                     /label="bkdB Cold_Ter.Fw"
+                     /note="sequence: GAAGACAACTGAGGTCTCAGACAtaaataagcaaaaagagcattttttgaagttttgtttcaaaaaa"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     primer          complement(1040..1082)
+                     /label="bkdB Cold_Ter.Rv"
+                     /note="sequence: GAAGACAAGAGGGGTCTCACCGTtaataaagcatagaaaaagagcattttttgaaacaaaacttca"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     source          1098..1102
+                     /label="source"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     source          1103..1000
+                     /label="source"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    1103..1103
+                     /label="universal suffix for all parts"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     terminator      1104..1161
+                     /label="This putative transcriptin terminator from the E. coli his operon has a 2-bp deletion introduced during synthesis. Its efficiency has not been determined."
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     rep_origin      complement(1356..1944)
+                     /label="high-copy-number ColE1/pMB1/pBR322/pUC origin of replication"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     terminator      2127..70
+                     /label="transcription terminator from phage lambda"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+ORIGIN
+        1 cggcaaccga gcgttctgaa caaatccaga tggagttctg aggtcattac tggatctatc
+       61 aacaggagtc caagcgagct cgatatcaaa ttacgccccg ccctgccact catcgcagta
+      121 ctgttgtaat tcattaagca ttctgccgac atggaagcca tcacaaacgg catgatgaac
+      181 ctgaatcgcc agcggcatca gcaccttgtc gccttgcgta taatatttgc ccatggtgaa
+      241 aacgggggcg aagaagttgt ccatattggc cacgtttaaa tcaaaactgg tgaaactcac
+      301 ccagggattg gctgacacga aaaacatatt ctcaataaac cctttaggga aataggccag
+      361 gttttcaccg taacacgcca catcttgcga atatatgtgt agaaactgcc ggaaatcgtc
+      421 gtggtattca ctccagagcg atgaaaacgt ttcagtttgc tcatggaaaa cggtgtaaca
+      481 agggtgaaca ctatcccata tcaccagctc accgtctttc attgccatac gaaattccgg
+      541 atgagcattc atcaggcggg caagaatgtg aataaaggcc ggataaaact tgtgcttatt
+      601 tttctttacg gtctttaaaa aggccgtaat atccagctga acggtctggt tataggtaca
+      661 ttgagcaact gactgaaatg cctcaaaatg ttctttacga tgccattggg atatatcaac
+      721 ggtggtatat ccagtgattt ttttctccat tttagcttcc ttagctcctg aaaatctcga
+      781 taactcaaaa aatacgcccg gtagtgatct tatttcatta tggtgaaagt tggaacctct
+      841 tacgtgcccg atcaactcga gtgccacctg acgtctaaga aaccattatt atcatgacat
+      901 taacctataa aaataggcgt atcacgaggc agaatttcag ataaaaaaaa tccttagctt
+      961 tcgctaagga tgatttctgg aattcgcggc cgcttctaga CTGAGGTCTC AGACAtaaat
+     1021 aagcaaaaag agcatttttt gaagttttgt ttcaaaaaat gctctttttc tatgctttat
+     1081 taACGGTGAG ACCcctcctg cagtccggca aaaaagggca aggtgtcacc accctgccct
+     1141 ttttctttaa aaccgaaaag attacttcgc gttatgcagg cttcctcgct cactgactcg
+     1201 ctgcgctcgg tcgttcggct gcggcgagcg gtatcagctc actcaaaggc ggtaatacgg
+     1261 ttatccacag aatcagggga taacgcagga aagaacatgt gagcaaaagg ccagcaaaag
+     1321 gccaggaacc gtaaaaaggc cgcgttgctg gcgtttttcc acaggctccg cccccctgac
+     1381 gagcatcaca aaaatcgacg ctcaagtcag aggtggcgaa acccgacagg actataaaga
+     1441 taccaggcgt ttccccctgg aagctccctc gtgcgctctc ctgttccgac cctgccgctt
+     1501 accggatacc tgtccgcctt tctcccttcg ggaagcgtgg cgctttctca tagctcacgc
+     1561 tgtaggtatc tcagttcggt gtaggtcgtt cgctccaagc tgggctgtgt gcacgaaccc
+     1621 cccgttcagc ccgaccgctg cgccttatcc ggtaactatc gtcttgagtc caacccggta
+     1681 agacacgact tatcgccact ggcagcagcc actggtaaca ggattagcag agcgaggtat
+     1741 gtaggcggtg ctacagagtt cttgaagtgg tggcctaact acggctacac tagaagaaca
+     1801 gtatttggta tctgcgctct gctgaagcca gttaccttcg gaaaaagagt tggtagctct
+     1861 tgatccggca aacaaaccac cgctggtagc ggtggttttt ttgtttgcaa gcagcagatt
+     1921 acgcgcagaa aaaaaggatc tcaagaagat cctttgatct tttctacggg gtctgacgct
+     1981 cagtggaacg aaaactcacg ttaagggatt ttggtcatga gattatcaaa aaggatcttc
+     2041 acctagatcc ttttaaatta aaaatgaagt tttaaatcaa tctaaagtat atatgagtaa
+     2101 acttggtctg acagctcgag gcttggattc tcaccaataa aaaacgcccg g
+//

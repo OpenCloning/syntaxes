@@ -1,0 +1,140 @@
+LOCUS       STK001_pSTK-0-sfGFP     3090 bp ds-DNA     circular     29-JAN-2025
+DEFINITION  .
+COMMENT     Sequence created by bulk assembly. Backbone 5' end ligation method:
+            homology with bases tttgccggactgcag 3' end ligation method:
+            homology with bases tcgcggccgcttctaga Insert 5' end ligation
+            method: homology with bases tcgcggccgcttctaga 3' end ligation
+            method: homology with bases tttgccggactgcag
+FEATURES             Location/Qualifiers
+     primer          330..349
+                     /label="pSTK_Seq_F"
+                     /note="sequence: agtgccacctgacgtctaag"
+                     /ApEinfo_revcolor="#f7977a"
+                     /ApEinfo_fwdcolor="#f7977a"
+     primer          330..354
+                     /label="pSTK_Seq3.Fw"
+                     /note="sequence: agtgccacctgacgtctaagaaacc"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     primer          470..509
+                     /label="J.58.pINT.sfGFP.Fw"
+                     /note="sequence: AgaagacaacctcGAAAGTGAAACGTGATTTCatgcgtca"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     primer          483..509
+                     /label="J.58.pINT.sfGFP.Fw"
+                     /note="sequence: AgaagacaactgaGAAAGTGAAACGTGATTTCatgcgtca"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+     promoter        483..612
+                     /label="BBa_J72163 GlpT Promoter"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     RBS             613..648
+                     /label="sfGFP Ribosome Binding Site"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     CDS             649..1365
+                     /label="sfGFP"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     terminator      1366..1494
+                     /label="BBa_B0015 Terminator"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     primer          complement(1471..1494)
+                     /label="J.59.pINT.sfGFP.Rv"
+                     /note="sequence: gaagacttgaggTATAAACGCAGAAAGGCCcacccg"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     primer          complement(1471..1506)
+                     /label="J.59.pINT.sfGFP.Rv"
+                     /note="sequence: gaagactttcagTATAAACGCAGAAAGGCCcacccg"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     primer          complement(1567..1592)
+                     /label="pSTK_Seq3wrong.Rv"
+                     /note="sequence: aagcctgcataacgcgaagtaatctt"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     primer          complement(1677..1697)
+                     /label="pSTK_Seq_R"
+                     /note="sequence: ctgcgttatcccctgattctg"
+                     /ApEinfo_revcolor="#f7977a"
+                     /ApEinfo_fwdcolor="#f7977a"
+     primer          complement(1679..1703)
+                     /label="pSTK_Seq3.Rv"
+                     /note="sequence: tctttcctgcgttatcccctgattc"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     primer          complement(1690..1708)
+                     /label="pSTK_Seq_R.2"
+                     /note="sequence: catgttctttcctgcgtta"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     rep_origin      complement(1765..2353)
+                     /label="high-copy-number ColE1/pMB1/pBR322/pUC origin of replication"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     CDS             complement(2651..220)
+                     /label="Chloramphenicol amino transferase CDS"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     CDS             complement(2651..220)
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="MEKKITGYTTVDISQWHRKEHFEAFQSVAQCTYNQTVQLDITAFLKTVKKNKHKFYPAFIHILARLMNAHPEFRMAMKDGELVIWDSVHPCYTVFHEQTETFSSLWSEYHDDFRQFLHIYSQDVACYGENLAYFPKGFIENMFFVSANPWVSFTSFDLNVANMDNFFAPVFTMGKYYTQGDKVLMPLAIQVHHAVCDGFHVGRMLNELQQYCDEWQGGA*"
+ORIGIN
+        1 gaaattccgg atgagcattc atcaggcggg caagaatgtg aataaaggcc ggataaaact
+       61 tgtgcttatt tttctttacg gtctttaaaa aggccgtaat atccagctga acggtctggt
+      121 tataggtaca ttgagcaact gactgaaatg cctcaaaatg ttctttacga tgccattggg
+      181 atatatcaac ggtggtatat ccagtgattt ttttctccat tttagcttcc ttagctcctg
+      241 aaaatctcga taactcaaaa aatacgcccg gtagtgatct tatttcatta tggtgaaagt
+      301 tggaacctct tacgtgcccg atcaactcga gtgccacctg acgtctaaga aaccattatt
+      361 atcatgacat taacctataa aaataggcgt atcacgaggc agaatttcag ataaaaaaaa
+      421 tccttagctt tcgctaagga tgatttctgg aattcgcggc cgcttctaga ctgaaagtct
+      481 tcGAAAGTGA AACGTGATTT Catgcgtcat tttgaacatt ttgtaaatct tatttaataa
+      541 tgtgtgcggc aattcacatt taatttatga atgttttctt aacatcgcgg caactcaaga
+      601 aacggcaggt tcggatctta gctactagag aaagaggaga aatactagat gcgtaaaggc
+      661 gaagagctgt tcactggtgt cgtccctatt ctggtggaac tggatggtga tgtcaacggt
+      721 cataagtttt ccgtgcgtgg cgagggtgaa ggtgacgcaa ctaatggtaa actgacgctg
+      781 aagttcatct gtactactgg taaactgccg gttccttggc cgactctggt aacgacgctg
+      841 acttatggtg ttcagtgctt tgctcgttat ccggaccata tgaagcagca tgacttcttc
+      901 aagtccgcca tgccggaagg ctatgtgcag gaacgcacga tttcctttaa ggatgacggc
+      961 acgtacaaaa cgcgtgcgga agtgaaattt gaaggcgata ccctggtaaa ccgcattgag
+     1021 ctgaaaggca ttgactttaa agaggacggc aatatcctgg gccataagct ggaatacaat
+     1081 tttaacagcc acaatgttta catcaccgcc gataaacaaa aaaatggcat taaagcgaat
+     1141 tttaaaattc gccacaacgt ggaggatggc agcgtgcagc tggctgatca ctaccagcaa
+     1201 aacactccaa tcggtgatgg tcctgttctg ctgccagaca atcactatct gagcacgcaa
+     1261 agcgttctgt ctaaagatcc gaacgagaaa cgcgatcata tggttctgct ggagttcgta
+     1321 accgcagcgg gcatcacgca tggtatggat gaactgtaca aatgaccagg catcaaataa
+     1381 aacgaaaggc tcagtcgaaa gactgggcct ttcgttttat ctgttgtttg tcggtgaacg
+     1441 ctctctacta gagtcacact ggctcacctt cgggtgGGCC TTTCTGCGTT TATAgaagac
+     1501 aacctcctgc agtccggcaa aaaagggcaa ggtgtcacca ccctgccctt tttctttaaa
+     1561 accgaaaaga ttacttcgcg ttatgcaggc ttcctcgctc actgactcgc tgcgctcggt
+     1621 cgttcggctg cggcgagcgg tatcagctca ctcaaaggcg gtaatacggt tatccacaga
+     1681 atcaggggat aacgcaggaa agaacatgtg agcaaaaggc cagcaaaagg ccaggaaccg
+     1741 taaaaaggcc gcgttgctgg cgtttttcca caggctccgc ccccctgacg agcatcacaa
+     1801 aaatcgacgc tcaagtcaga ggtggcgaaa cccgacagga ctataaagat accaggcgtt
+     1861 tccccctgga agctccctcg tgcgctctcc tgttccgacc ctgccgctta ccggatacct
+     1921 gtccgccttt ctcccttcgg gaagcgtggc gctttctcat agctcacgct gtaggtatct
+     1981 cagttcggtg taggtcgttc gctccaagct gggctgtgtg cacgaacccc ccgttcagcc
+     2041 cgaccgctgc gccttatccg gtaactatcg tcttgagtcc aacccggtaa gacacgactt
+     2101 atcgccactg gcagcagcca ctggtaacag gattagcaga gcgaggtatg taggcggtgc
+     2161 tacagagttc ttgaagtggt ggcctaacta cggctacact agaagaacag tatttggtat
+     2221 ctgcgctctg ctgaagccag ttaccttcgg aaaaagagtt ggtagctctt gatccggcaa
+     2281 acaaaccacc gctggtagcg gtggtttttt tgtttgcaag cagcagatta cgcgcagaaa
+     2341 aaaaggatct caagaagatc ctttgatctt ttctacgggg tctgacgctc agtggaacga
+     2401 aaactcacgt taagggattt tggtcatgag attatcaaaa aggatcttca cctagatcct
+     2461 tttaaattaa aaatgaagtt ttaaatcaat ctaaagtata tatgagtaaa cttggtctga
+     2521 cagctcgagg cttggattct caccaataaa aaacgcccgg cggcaaccga gcgttctgaa
+     2581 caaatccaga tggagttctg aggtcattac tggatctatc aacaggagtc caagcgagct
+     2641 cgatatcaaa ttacgccccg ccctgccact catcgcagta ctgttgtaat tcattaagca
+     2701 ttctgccgac atggaagcca tcacaaacgg catgatgaac ctgaatcgcc agcggcatca
+     2761 gcaccttgtc gccttgcgta taatatttgc ccatggtgaa aacgggggcg aagaagttgt
+     2821 ccatattggc cacgtttaaa tcaaaactgg tgaaactcac ccagggattg gctgacacga
+     2881 aaaacatatt ctcaataaac cctttaggga aataggccag gttttcaccg taacacgcca
+     2941 catcttgcga atatatgtgt agaaactgcc ggaaatcgtc gtggtattca ctccagagcg
+     3001 atgaaaacgt ttcagtttgc tcatggaaaa cggtgtaaca agggtgaaca ctatcccata
+     3061 tcaccagctc accgtctttc attgccatac
+//

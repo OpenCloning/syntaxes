@@ -1,0 +1,96 @@
+LOCUS       STK030_pSTK-0A-PliaG    2205 bp ds-DNA     circular     29-JAN-2025
+DEFINITION  .
+COMMENT     Sequence created by bulk assembly. Backbone 5' end ligation method:
+            enzyme with enzyme BbsI 3' end ligation method: enzyme with enzyme
+            BbsI Insert 5' end ligation method: enzyme with enzyme BbsI 3' end
+            ligation method: enzyme with enzyme BbsI Backbone 5' end ligation
+            method: enzyme with enzyme BbsI 3' end ligation method: enzyme with
+            enzyme BbsI
+FEATURES             Location/Qualifiers
+     CDS             complement(29..688)
+                     /label="cat CDS"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     terminator      872..915
+                     /label="putative bacterial transcription terminator"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    918..933
+                     /label="BioBrick prefix for parts that do not start with """"ATG"""""
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     CDS             953..989
+                     /label="liaH CDS (modulator of liaIHGFSR (yvqIHGFEC) operon expression)"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     gene            953..989
+                     /label="liaH gene"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature    954..1074
+                     /label="PliaG B. subtilis promoter"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     source          1090..1094
+                     /label="source"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     source          1095..938
+                     /label="source"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    1095..1095
+                     /label="universal suffix for all parts"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     terminator      1096..1153
+                     /label="This putative transcriptin terminator from the E. coli his operon has a 2-bp deletion introduced during synthesis. Its efficiency has not been determined."
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     rep_origin      complement(1348..1936)
+                     /label="high-copy-number ColE1/pMB1/pBR322/pUC origin of replication"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     terminator      2119..8
+                     /label="transcription terminator from phage lambda"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+ORIGIN
+        1 caggagtcca agcgagctcg atatcaaatt acgccccgcc ctgccactca tcgcagtact
+       61 gttgtaattc attaagcatt ctgccgacat ggaagccatc acaaacggca tgatgaacct
+      121 gaatcgccag cggcatcagc accttgtcgc cttgcgtata atatttgccc atggtgaaaa
+      181 cgggggcgaa gaagttgtcc atattggcca cgtttaaatc aaaactggtg aaactcaccc
+      241 agggattggc tgacacgaaa aacatattct caataaaccc tttagggaaa taggccaggt
+      301 tttcaccgta acacgccaca tcttgcgaat atatgtgtag aaactgccgg aaatcgtcgt
+      361 ggtattcact ccagagcgat gaaaacgttt cagtttgctc atggaaaacg gtgtaacaag
+      421 ggtgaacact atcccatatc accagctcac cgtctttcat tgccatacga aattccggat
+      481 gagcattcat caggcgggca agaatgtgaa taaaggccgg ataaaacttg tgcttatttt
+      541 tctttacggt ctttaaaaag gccgtaatat ccagctgaac ggtctggtta taggtacatt
+      601 gagcaactga ctgaaatgcc tcaaaatgtt ctttacgatg ccattgggat atatcaacgg
+      661 tggtatatcc agtgattttt ttctccattt tagcttcctt agctcctgaa aatctcgata
+      721 actcaaaaaa tacgcccggt agtgatctta tttcattatg gtgaaagttg gaacctctta
+      781 cgtgcccgat caactcgagt gccacctgac gtctaagaaa ccattattat catgacatta
+      841 acctataaaa ataggcgtat cacgaggcag aatttcagat aaaaaaaatc cttagctttc
+      901 gctaaggatg atttctggaa ttcgcggccg cttctagact gaGGTCTCAA GAGcaaaaat
+      961 cagaccagac aaaagcggca aatgaataag cggaacgggg aaggatttgc ggtcaagtcc
+     1021 ttcccttccg cacgtatcaa ttcgcaagct tttcctttat aatagaatga atgaACATAG
+     1081 AGACCCCTCc tgcagtccgg caaaaaaggg caaggtgtca ccaccctgcc ctttttcttt
+     1141 aaaaccgaaa agattacttc gcgttatgca ggcttcctcg ctcactgact cgctgcgctc
+     1201 ggtcgttcgg ctgcggcgag cggtatcagc tcactcaaag gcggtaatac ggttatccac
+     1261 agaatcaggg gataacgcag gaaagaacat gtgagcaaaa ggccagcaaa aggccaggaa
+     1321 ccgtaaaaag gccgcgttgc tggcgttttt ccacaggctc cgcccccctg acgagcatca
+     1381 caaaaatcga cgctcaagtc agaggtggcg aaacccgaca ggactataaa gataccaggc
+     1441 gtttccccct ggaagctccc tcgtgcgctc tcctgttccg accctgccgc ttaccggata
+     1501 cctgtccgcc tttctccctt cgggaagcgt ggcgctttct catagctcac gctgtaggta
+     1561 tctcagttcg gtgtaggtcg ttcgctccaa gctgggctgt gtgcacgaac cccccgttca
+     1621 gcccgaccgc tgcgccttat ccggtaacta tcgtcttgag tccaacccgg taagacacga
+     1681 cttatcgcca ctggcagcag ccactggtaa caggattagc agagcgaggt atgtaggcgg
+     1741 tgctacagag ttcttgaagt ggtggcctaa ctacggctac actagaagaa cagtatttgg
+     1801 tatctgcgct ctgctgaagc cagttacctt cggaaaaaga gttggtagct cttgatccgg
+     1861 caaacaaacc accgctggta gcggtggttt ttttgtttgc aagcagcaga ttacgcgcag
+     1921 aaaaaaagga tctcaagaag atcctttgat cttttctacg gggtctgacg ctcagtggaa
+     1981 cgaaaactca cgttaaggga ttttggtcat gagattatca aaaaggatct tcacctagat
+     2041 ccttttaaat taaaaatgaa gttttaaatc aatctaaagt atatatgagt aaacttggtc
+     2101 tgacagctcg aggcttggat tctcaccaat aaaaaacgcc cggcggcaac cgagcgttct
+     2161 gaacaaatcc agatggagtt ctgaggtcat tactggatct atcaa
+//

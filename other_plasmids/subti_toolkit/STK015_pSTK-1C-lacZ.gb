@@ -1,0 +1,128 @@
+LOCUS       STK015_pSTK-1C-lacZ     2498 bp ds-DNA     circular     29-JAN-2025
+DEFINITION  .
+COMMENT     Sequence created by bulk assembly. Backbone 5' end ligation method:
+            homology with bases aagcctgcagcgtctct 3' end ligation method:
+            homology with bases ccgcttctagaacgtctca Insert 5' end ligation
+            method: homology with bases ccgcttctagaacgtctca 3' end ligation
+            method: homology with bases aagcctgcagcgtctct
+FEATURES             Location/Qualifiers
+     promoter        complement(681..785)
+                     /label="bla promoter"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     terminator      875..918
+                     /label="putative bacterial transcription terminator"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     misc_feature    921..940
+                     /label="BioBrick prefix for parts that start with """"ATG"""""
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     primer          931..985
+                     /label="lacZ_1C_fwd"
+                     /note="sequence: ccgcttctagaacgtctcaggtaagagagagaccTTGTGAGCGGATAACAATTTC"
+                     /ApEinfo_revcolor="#f7977a"
+                     /ApEinfo_fwdcolor="#f7977a"
+     misc_feature    943..949
+                     /label="GG1A"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     source          943..949
+                     /label="source"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     protein_bind    965..981
+                     /label="The lac repressor binds to the lac operator to inhibit transcription in E. coli. This inhibition can be relieved by adding lactose or isopropyl-beta-D-thiogalactopyranoside (IPTG)."
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     primer          965..985
+                     /label="lacZ_2D_fwd"
+                     /note="sequence: ccgcttctagaggtctcagacaagcaagagacgTTGTGAGCGGATAACAATTTC"
+                     /ApEinfo_revcolor="#f7977a"
+                     /ApEinfo_fwdcolor="#f7977a"
+     misc_feature    965..1354
+                     /label="LacZ Cassette"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     source          965..1355
+                     /label="source"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     primer_bind     989..1005
+                     /label="common sequencing primer, one of multiple similar variants"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     CDS             1030..1302
+                     /label="LacZ - Beta galactosidase"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     primer          complement(1333..1354)
+                     /label="lacZ_2D_rev"
+                     /note="sequence: cggactgcagggtctctccgttggatgagacgGGATCCACTAGTGCGAAAAAAC"
+                     /ApEinfo_revcolor="#f7977a"
+                     /ApEinfo_fwdcolor="#f7977a"
+     primer          complement(1333..1386)
+                     /label="lacZ_1C_rev"
+                     /note="sequence: aagcctgcagcgtctctttggccgttgagaccGGATCCACTAGTGCGAAAAAAC"
+                     /ApEinfo_revcolor="#f7977a"
+                     /ApEinfo_fwdcolor="#f7977a"
+     source          1370..942
+                     /label="source"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    1370..1376
+                     /label="GG1A"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     rep_origin      complement(1559..2147)
+                     /label="high-copy-number ColE1/pMB1/pBR322/pUC origin of replication"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     CDS             complement(2318..680)
+                     /label="bla CDS"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+ORIGIN
+        1 cagccagccg gaagggccga gcgcagaagt ggtcctgcaa ctttatccgc ctccatccag
+       61 tctattaatt gttgccggga agctagagta agtagttcgc cagttaatag tttgcgcaac
+      121 gttgttgcca ttgctacagg catcgtggtg tcacgctcgt cgtttggtat ggcttcattc
+      181 agctccggtt cccaacgatc aaggcgagtt acatgatccc ccatgttgtg caaaaaagcg
+      241 gttagctcct tcggtcctcc gatcgttgtc agaagtaagt tggccgcagt gttatcactc
+      301 atggttatgg cagcactgca taattctctt actgtcatgc catccgtaag atgcttttct
+      361 gtgactggtg agtactcaac caagtcattc tgagaatagt gtatgcggcg accgagttgc
+      421 tcttgcccgg cgtcaatacg ggataatacc gcgccacata gcagaacttt aaaagtgctc
+      481 atcattggaa aacgttcttc ggggcgaaaa ctctcaagga tcttaccgct gttgagatcc
+      541 agttcgatgt aacccactcg tgcacccaac tgatcttcag catcttttac tttcaccagc
+      601 gtttctgggt gagcaaaaac aggaaggcaa aatgccgcaa aaaagggaat aagggcgaca
+      661 cggaaatgtt gaatactcat actcttcctt tttcaatatt attgaagcat ttatcagggt
+      721 tattgtctca tgagcggata catatttgaa tgtatttaga aaaataaaca aataggggtt
+      781 ccgcgcacat ttccccgaaa agtgccacct gacgtctaag aaaccattat tatcatgaca
+      841 ttaacctata aaaataggcg tatcacgagg cagaatttca gataaaaaaa atccttagct
+      901 ttcgctaagg atgatttctg gaattcgcgg ccgcttctag aacgtctcag gtaagagaga
+      961 gaccTTGTGA GCGGATAACA ATTTCacaca ggaaacagct atgaccatgg tacaaagagg
+     1021 agaaaggaca tgggtgaccc gaaactgctg ctggaagttc cgcacgctat ctcttcttct
+     1081 ccgggtaact ctctggctgt tgttctgcaa cgtcgtgact gggaaaaccc gggtgttacc
+     1141 cagctgaacc gtctggctgc tcacccgccg ttcgcttctt ggcgtaactc tgaagaagct
+     1201 cgtaccgacc gtccgtccca gcagctgcgt tctctgatcc gtctgctgac caaaccggaa
+     1261 cgtaaactgt cttggctgct gccgccgctg tctaacaact aacgcaaaaa accccgcccc
+     1321 tgacagggcg ggGTTTTTTC GCACTAGTGG ATCCggtctc aacggccaaa gagacgctgc
+     1381 aggcttcctc gctcactgac tcgctgcgct cggtcgttcg gctgcggcga gcggtatcag
+     1441 ctcactcaaa ggcggtaata cggttatcca cagaatcagg ggataacgca ggaaagaaca
+     1501 tgtgagcaaa aggccagcaa aaggccagga accgtaaaaa ggccgcgttg ctggcgtttt
+     1561 tccaCaggct ccgcccccct gacgagcatc acaaaaatcg acgctcaagt cagaggtggc
+     1621 gaaacccgac aggactataa agataccagg cgtttccccc tggaagctcc ctcgtgcgct
+     1681 ctcctgttcc gaccctgccg cttaccggat acctgtccgc ctttctccct tcgggaagcg
+     1741 tggcgctttc tcatagctca cgctgtaggt atctcagttc ggtgtaggtc gttcgctcca
+     1801 agctgggctg tgtgcacgaa ccccccgttc agcccgaccg ctgcgcctta tccggtaact
+     1861 atcgtcttga gtccaacccg gtaagacacg acttatcgcc actggcagca gccactggta
+     1921 acaggattag cagagcgagg tatgtaggcg gtgctacaga gttcttgaag tggtggccta
+     1981 actacggcta cactagaagA acagtatttg gtatctgcgc tctgctgaag ccagttacct
+     2041 tcggaaaaag agttggtagc tcttgatccg gcaaacaaac caccgctggt agcggtggtt
+     2101 tttttgtttg caagcagcag attacgcgca gaaaaaaagg atctcaagaa gatcctttga
+     2161 tcttttctac ggggtctgac gctcagtgga acgaaaactc acgttaaggg attttggtca
+     2221 tgagattatc aaaaaggatc ttcacctaga tccttttaaa ttaaaaatga agttttaaat
+     2281 caatctaaag tatatatgag taaacttggt ctgacagtta ccaatgctta atcagtgagg
+     2341 cacctatctc agcgatctgt ctatttcgtt catccatagt tgcctgactc cccgtcgtgt
+     2401 agataactac gatacgggag ggcttaccat ctggccccag tgctgcaatg ataccgcgag
+     2461 agccacgctc accggctcca gatttatcag caataaac
+//

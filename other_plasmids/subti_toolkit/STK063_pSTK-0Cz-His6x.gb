@@ -1,0 +1,84 @@
+LOCUS       STK063_pSTK-0Cz-His6x   2107 bp ds-DNA     circular     15-JAN-2025
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     terminator      511..605
+                     /label="transcription terminator from phage lambda"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     CDS             complement(626..1285)
+                     /label="cat CDS"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     terminator      1469..1512
+                     /label="putative bacterial transcription terminator"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    1515..1530
+                     /label="BioBrick prefix for parts that do not start with """"ATG"""""
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     CDS             1547..1573
+                     /label="Translation 1547-1573"
+                     /translation="GRHHHHHH*"
+     misc_feature    1553..1570
+                     /label="HisTag6x"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     source          1589..1593
+                     /label="source"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     source          1594..1535
+                     /label="source"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    1594..1594
+                     /label="universal suffix for all parts"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     terminator      1595..1652
+                     /label="This putative transcriptin terminator from the E. coli his operon has a 2-bp deletion introduced during synthesis. Its efficiency has not been determined."
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     rep_origin      complement(1847..328)
+                     /label="high-copy-number ColE1/pMB1/pBR322/pUC origin of replication"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+ORIGIN
+        1 accccccgtt cagcccgacc gctgcgcctt atccggtaac tatcgtcttg agtccaaccc
+       61 ggtaagacac gacttatcgc cactggcagc agccactggt aacaggatta gcagagcgag
+      121 gtatgtaggc ggtgctacag agttcttgaa gtggtggcct aactacggct acactagaag
+      181 aacagtattt ggtatctgcg ctctgctgaa gccagttacc ttcggaaaaa gagttggtag
+      241 ctcttgatcc ggcaaacaaa ccaccgctgg tagcggtggt ttttttgttt gcaagcagca
+      301 gattacgcgc agaaaaaaag gatctcaaga agatcctttg atcttttcta cggggtctga
+      361 cgctcagtgg aacgaaaact cacgttaagg gattttggtc atgagattat caaaaaggat
+      421 cttcacctag atccttttaa attaaaaatg aagttttaaa tcaatctaaa gtatatatga
+      481 gtaaacttgg tctgacagct cgaggcttgg attctcacca ataaaaaacg cccggcggca
+      541 accgagcgtt ctgaacaaat ccagatggag ttctgaggtc attactggat ctatcaacag
+      601 gagtccaagc gagctcgata tcaaattacg ccccgccctg ccactcatcg cagtactgtt
+      661 gtaattcatt aagcattctg ccgacatgga agccatcaca aacggcatga tgaacctgaa
+      721 tcgccagcgg catcagcacc ttgtcgcctt gcgtataata tttgcccatg gtgaaaacgg
+      781 gggcgaagaa gttgtccata ttggccacgt ttaaatcaaa actggtgaaa ctcacccagg
+      841 gattggctga cacgaaaaac atattctcaa taaacccttt agggaaatag gccaggtttt
+      901 caccgtaaca cgccacatct tgcgaatata tgtgtagaaa ctgccggaaa tcgtcgtggt
+      961 attcactcca gagcgatgaa aacgtttcag tttgctcatg gaaaacggtg taacaagggt
+     1021 gaacactatc ccatatcacc agctcaccgt ctttcattgc catacgaaat tccggatgag
+     1081 cattcatcag gcgggcaaga atgtgaataa aggccggata aaacttgtgc ttatttttct
+     1141 ttacggtctt taaaaaggcc gtaatatcca gctgaacggt ctggttatag gtacattgag
+     1201 caactgactg aaatgcctca aaatgttctt tacgatgcca ttgggatata tcaacggtgg
+     1261 tatatccagt gatttttttc tccattttag cttccttagc tcctgaaaat ctcgataact
+     1321 caaaaaatac gcccggtagt gatcttattt cattatggtg aaagttggaa cctcttacgt
+     1381 gcccgatcaa ctcgagtgcc acctgacgtc taagaaacca ttattatcat gacattaacc
+     1441 tataaaaata ggcgtatcac gaggcagaat ttcagataaa aaaaatcctt agctttcgct
+     1501 aaggatgatt tctggaattc gcggccgctt ctagactgaG GTCTCAGGTA ggcaccatca
+     1561 tcaccatcat taaGACATGA GACCCCTCct gcagtccggc aaaaaagggc aaggtgtcac
+     1621 caccctgccc tttttcttta aaaccgaaaa gattacttcg cgttatgcag gcttcctcgc
+     1681 tcactgactc gctgcgctcg gtcgttcggc tgcggcgagc ggtatcagct cactcaaagg
+     1741 cggtaatacg gttatccaca gaatcagggg ataacgcagg aaagaacatg tgagcaaaag
+     1801 gccagcaaaa ggccaggaac cgtaaaaagg ccgcgttgct ggcgtttttc cacaggctcc
+     1861 gcccccctga cgagcatcac aaaaatcgac gctcaagtca gaggtggcga aacccgacag
+     1921 gactataaag ataccaggcg tttccccctg gaagctccct cgtgcgctct cctgttccga
+     1981 ccctgccgct taccggatac ctgtccgcct ttctcccttc gggaagcgtg gcgctttctc
+     2041 atagctcacg ctgtaggtat ctcagttcgg tgtaggtcgt tcgctccaag ctgggctgtg
+     2101 tgcacga
+//

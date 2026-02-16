@@ -1,0 +1,63 @@
+LOCUS       STK117_pSTK-0A-BBa_K780 2120 bp ds-DNA     circular     15-JAN-2025
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     primer          459..498
+                     /label="BBa_K780003.Fw"
+                     /note="sequence: GAAGACAACTGAGGTCTCAAGAGttgacaaattgcagtaggcatgac"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    475..510
+                     /label="BBa_K780003 strong consituttive promoter B. subtilis"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+     primer          complement(481..525)
+                     /label="BBa_K780003.Rv"
+                     /note="sequence: GAAGACTTGAGGGGTCTCTATGTtgagtccattttgtcatgcctactgcaatt"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     rep_origin      complement(784..1372)
+                     /label="high-copy-number ColE1/pMB1/pBR322/pUC origin of replication"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     CDS             complement(1670..209)
+                     /label="Chloramphenicol amino transferase CDS"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+ORIGIN
+        1 tgagcattca tcaggcgggc aagaatgtga ataaaggccg gataaaactt gtgcttattt
+       61 ttctttacgg tctttaaaaa ggccgtaata tccagctgaa cggtctggtt ataggtacat
+      121 tgagcaactg actgaaatgc ctcaaaatgt tctttacgat gccattggga tatatcaacg
+      181 gtggtatatc cagtgatttt tttctccatt ttagcttcct tagctcctga aaatctcgat
+      241 aactcaaaaa atacgcccgg tagtgatctt atttcattat ggtgaaagtt ggaacctctt
+      301 acgtgcccga tcaactcgag tgccacctga cgtctaagaa accattatta tcatgacatt
+      361 aacctataaa aataggcgta tcacgaggca gaatttcaga taaaaaaaat ccttagcttt
+      421 cgctaaggat gatttctgga attcgcggcc gcttctagac tgaGGTCTCA AGAGttgaca
+      481 aattgcagta ggcatgacaa aatggactca ACATAGAGAC CCCTCctgca gtccggcaaa
+      541 aaagggcaag gtgtcaccac cctgcccttt ttctttaaaa ccgaaaagat tacttcgcgt
+      601 tatgcaggct tcctcgctca ctgactcgct gcgctcggtc gttcggctgc ggcgagcggt
+      661 atcagctcac tcaaaggcgg taatacggtt atccacagaa tcaggggata acgcaggaaa
+      721 gaacatgtga gcaaaaggcc agcaaaaggc caggaaccgt aaaaaggccg cgttgctggc
+      781 gtttttccac aggctccgcc cccctgacga gcatcacaaa aatcgacgct caagtcagag
+      841 gtggcgaaac ccgacaggac tataaagata ccaggcgttt ccccctggaa gctccctcgt
+      901 gcgctctcct gttccgaccc tgccgcttac cggatacctg tccgcctttc tcccttcggg
+      961 aagcgtggcg ctttctcata gctcacgctg taggtatctc agttcggtgt aggtcgttcg
+     1021 ctccaagctg ggctgtgtgc acgaaccccc cgttcagccc gaccgctgcg ccttatccgg
+     1081 taactatcgt cttgagtcca acccggtaag acacgactta tcgccactgg cagcagccac
+     1141 tggtaacagg attagcagag cgaggtatgt aggcggtgct acagagttct tgaagtggtg
+     1201 gcctaactac ggctacacta gaagaacagt atttggtatc tgcgctctgc tgaagccagt
+     1261 taccttcgga aaaagagttg gtagctcttg atccggcaaa caaaccaccg ctggtagcgg
+     1321 tggttttttt gtttgcaagc agcagattac gcgcagaaaa aaaggatctc aagaagatcc
+     1381 tttgatcttt tctacggggt ctgacgctca gtggaacgaa aactcacgtt aagggatttt
+     1441 ggtcatgaga ttatcaaaaa ggatcttcac ctagatcctt ttaaattaaa aatgaagttt
+     1501 taaatcaatc taaagtatat atgagtaaac ttggtctgac agctcgaggc ttggattctc
+     1561 accaataaaa aacgcccggc ggcaaccgag cgttctgaac aaatccagat ggagttctga
+     1621 ggtcattact ggatctatca acaggagtcc aagcgagctc gatatcaaat tacgccccgc
+     1681 cctgccactc atcgcagtac tgttgtaatt cattaagcat tctgccgaca tggaagccat
+     1741 cacaaacggc atgatgaacc tgaatcgcca gcggcatcag caccttgtcg ccttgcgtat
+     1801 aatatttgcc catggtgaaa acgggggcga agaagttgtc catattggcc acgtttaaat
+     1861 caaaactggt gaaactcacc cagggattgg ctgacacgaa aaacatattc tcaataaacc
+     1921 ctttagggaa ataggccagg ttttcaccgt aacacgccac atcttgcgaa tatatgtgta
+     1981 gaaactgccg gaaatcgtcg tggtattcac tccagagcga tgaaaacgtt tcagtttgct
+     2041 catggaaaac ggtgtaacaa gggtgaacac tatcccatat caccagctca ccgtctttca
+     2101 ttgccatacg aaattccgga
+//

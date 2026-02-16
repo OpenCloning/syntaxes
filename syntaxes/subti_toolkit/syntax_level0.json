@@ -1,0 +1,126 @@
+{
+  "syntaxName": "SubtiToolKit - Level 1",
+  "assemblyEnzyme": "BsaI",
+  "domesticationEnzyme": "BpiI",
+  "relatedDois": [
+    "10.1016/j.tibtech.2025.02.004"
+  ],
+  "submitters": [
+    "0000-0002-8666-9746"
+  ],
+  "overhangNames": {
+    "AGAG": "",
+    "ACAT": "",
+    "TATG": "",
+    "CGAA": "",
+    "GGTA": "",
+    "GACA": "",
+    "ACGG": ""
+  },
+  "parts": [
+    {
+      "id": 1,
+      "name": "Promoter",
+      "info": "",
+      "glyph": "promoter",
+      "left_overhang": "AGAG",
+      "right_overhang": "ACAT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#4A90CC"
+    },
+    {
+      "id": 2,
+      "name": "RBS",
+      "info": "",
+      "glyph": "ribosome-entry-site",
+      "left_overhang": "ACAT",
+      "right_overhang": "TATG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#57AA41"
+    },
+    {
+      "id": 3,
+      "name": "CDSx",
+      "info": "",
+      "glyph": "cds",
+      "left_overhang": "TATG",
+      "right_overhang": "CGAA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#F7F1DA"
+    },
+    {
+      "id": 4,
+      "name": "CDSy",
+      "info": "",
+      "glyph": "cds",
+      "left_overhang": "CGAA",
+      "right_overhang": "GGTA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#FAEEC2"
+    },
+    {
+      "id": 5,
+      "name": "CDSz",
+      "info": "",
+      "glyph": "cds",
+      "left_overhang": "GGTA",
+      "right_overhang": "GACA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#F2E1A9"
+    },
+    {
+      "id": 6,
+      "name": "Terminator",
+      "info": "",
+      "glyph": "terminator",
+      "left_overhang": "GACA",
+      "right_overhang": "ACGG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#D65C5B"
+    },
+    {
+      "id": 7,
+      "name": "Backbone",
+      "info": "",
+      "glyph": "origin-of-replication",
+      "left_overhang": "ACGG",
+      "right_overhang": "AGAG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#8DCACF"
+    },
+    {
+      "name": "CDS",
+      "info": "",
+      "glyph": "cds",
+      "left_overhang": "TATG",
+      "right_overhang": "GACA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#E8C048",
+      "id": 8
+    }
+  ]
+}

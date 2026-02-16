@@ -1,0 +1,85 @@
+{
+  "syntaxName": "SubtiToolKit - Level 2",
+  "assemblyEnzyme": "BsaI",
+  "domesticationEnzyme": "BpiI",
+  "relatedDois": [
+    "10.1016/j.tibtech.2025.02.004"
+  ],
+  "submitters": [
+    "0000-0002-8666-9746"
+  ],
+  "overhangNames": {
+    "AGAG": "",
+    "ACAT": "",
+    "TATG": "",
+    "GACA": "",
+    "ACGG": ""
+  },
+  "parts": [
+    {
+      "id": 1,
+      "name": "2A",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "AGAG",
+      "right_overhang": "ACAT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#89bdc6"
+    },
+    {
+      "id": 2,
+      "name": "2B",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "ACAT",
+      "right_overhang": "TATG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "silver"
+    },
+    {
+      "id": 3,
+      "name": "2C",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "TATG",
+      "right_overhang": "GACA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "red"
+    },
+    {
+      "id": 4,
+      "name": "2D",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "GACA",
+      "right_overhang": "ACGG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#c9f841"
+    },
+    {
+      "name": "Destination Vector",
+      "info": "",
+      "glyph": "origin-of-replication",
+      "left_overhang": "ACGG",
+      "right_overhang": "AGAG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "lightgreen",
+      "id": 5
+    }
+  ]
+}

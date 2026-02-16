@@ -114,5 +114,32 @@
         "path": "golden_pics2.json"
       }
     ]
+  },
+  {
+    "name": "SubtiToolKit",
+    "path": "subti_toolkit",
+    "description": "Bioengineering kit for Bacillus subtilis and Gram-positive bacteria",
+    "plasmid_files": "other_plasmids/subti_toolkit",
+    "kits": [],
+    "syntaxes": [
+      {
+        "name": "SubtiToolKit - Level 0",
+        "description": "To build a TU with a promoter, ribosome entry site, CDS, terminator, and destination vector",
+        "path": "syntax_level0.json",
+        "filename_pattern": "^(?!.*-2[ABCD]-).*"
+      },
+      {
+        "name": "SubtiToolKit - Level 1",
+        "description": "To Combine Level 0 TUs and / or Level 2 constructs into a multigene construct",
+        "path": "syntax_level1.json"
+      },
+      {
+        "name": "SubtiToolKit - Level 2",
+        "description": "To Combine ",
+        "path": "syntax_level2.json",
+        "filename_pattern": "^.*-2[ABCD]-.*$"
+      }
+    ]
+
   }
 ]

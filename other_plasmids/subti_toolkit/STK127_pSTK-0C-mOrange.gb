@@ -1,0 +1,98 @@
+LOCUS       STK127_pSTK0C-mOrange   2795 bp ds-DNA     circular     15-JAN-2025
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     primer          621..645
+                     /label="pSTK_Seq3.Fw"
+                     /note="sequence: agtgccacctgacgtctaagaaacc"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     primer          761..797
+                     /label="JCA_mOrange1.Fw"
+                     /note="sequence: GAAGACAACTGAGGTCTCATATGATGGTGAGCAAGGGCGAGGAG"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+     misc_feature    774..1487
+                     /label="mOrange"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     CDS             774..1487
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /translation="MMVSKGEENNMAIIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGFQTAKLKVTKGGPLPFAWDILSPQFTYGSKAYVKHPADIPDYFKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASSERMYPEDGALKGEIKMRLKLKDGGHYTSEVKTTYKAKKPVQLPGAYIVGIKLDITSHNEDYTIVEQYERAEGRHSTGGMDELYK*"
+     primer          complement(1188..1210)
+                     /label="JCA_mOrange1.Rv"
+                     /note="sequence: GAAGACAAGTtTTCTTCTGCATTACGGGGCC"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     primer          1206..1227
+                     /label="JCA_mOrange2.Fw"
+                     /note="sequence: GAAGACAAAaACCATGGGCTGGGAGGCCT"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     primer          complement(1464..1502)
+                     /label="JCA_mOrange2.Rv"
+                     /note="sequence: GAAGACAAGAGGGGTCTCATGTCCTACTTGTACAGCTCGTCCATGCC"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     primer          complement(1675..1699)
+                     /label="pSTK_Seq3.Rv"
+                     /note="sequence: tctttcctgcgttatcccctgattc"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     rep_origin      complement(1761..2349)
+                     /label="high-copy-number ColE1/pMB1/pBR322/pUC origin of replication"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     CDS             complement(2647..511)
+                     /label="Chloramphenicol amino transferase CDS"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+ORIGIN
+        1 aaacgggggc gaagaagttg tccatattgg ccacgtttaa atcaaaactg gtgaaactca
+       61 cccagggatt ggctgacacg aaaaacatat tctcaataaa ccctttaggg aaataggcca
+      121 ggttttcacc gtaacacgcc acatcttgcg aatatatgtg tagaaactgc cggaaatcgt
+      181 cgtggtattc actccagagc gatgaaaacg tttcagtttg ctcatggaaa acggtgtaac
+      241 aagggtgaac actatcccat atcaccagct caccgtcttt cattgccata cgaaattccg
+      301 gatgagcatt catcaggcgg gcaagaatgt gaataaaggc cggataaaac ttgtgcttat
+      361 ttttctttac ggtctttaaa aaggccgtaa tatccagctg aacggtctgg ttataggtac
+      421 attgagcaac tgactgaaat gcctcaaaat gttctttacg atgccattgg gatatatcaa
+      481 cggtggtata tccagtgatt tttttctcca ttttagcttc cttagctcct gaaaatctcg
+      541 ataactcaaa aaatacgccc ggtagtgatc ttatttcatt atggtgaaag ttggaacctc
+      601 ttacgtgccc gatcaactcg agtgccacct gacgtctaag aaaccattat tatcatgaca
+      661 ttaacctata aaaataggcg tatcacgagg cagaatttca gataaaaaaa atccttagct
+      721 ttcgctaagg atgatttctg gaattcgcgg ccgcttctag actgaGGTCT CATATGATGG
+      781 TGAGCAAGGG CGAGGAGAAT AACATGGCCA TCATCAAGGA GTTCATGCGC TTCAAGGTGC
+      841 GCATGGAGGG CTCCGTGAAC GGCCACGAGT TCGAGATCGA GGGCGAGGGC GAGGGCCGCC
+      901 CCTACGAGGG CTTTCAGACC GCTAAGCTGA AGGTGACCAA GGGTGGCCCC CTGCCCTTCG
+      961 CCTGGGACAT CCTGTCCCCT CAGTTCACCT ACGGCTCCAA GGCCTACGTG AAGCACCCCG
+     1021 CCGACATCCC CGACTACTTC AAGCTGTCCT TCCCCGAGGG CTTCAAGTGG GAGCGCGTGA
+     1081 TGAACTTCGA GGACGGCGGC GTGGTGACCG TGACCCAGGA CTCCTCCCTG CAAGACGGCG
+     1141 AGTTCATCTA CAAGGTGAAG CTGCGCGGCA CCAACTTCCC CTCCGACGGC CCCGTAATGC
+     1201 AGAAGAAaAC CATGGGCTGG GAGGCCTCCT CCGAGCGGAT GTACCCCGAG GACGGCGCCC
+     1261 TGAAGGGCGA GATCAAGATG AGGCTGAAGC TGAAGGACGG CGGCCACTAC ACCTCCGAGG
+     1321 TCAAGACCAC CTACAAGGCC AAGAAGCCCG TGCAGCTGCC CGGCGCCTAC ATCGTCGGCA
+     1381 TCAAGTTGGA CATCACCTCC CACAACGAGG ACTACACCAT CGTGGAACAG TACGAACGCG
+     1441 CCGAGGGCCG CCACTCCACC GGCGGCATGG ACGAGCTGTA CAAGTAGGAC ATGAGACCCC
+     1501 TCctgcagtc cggcaaaaaa gggcaaggtg tcaccaccct gccctttttc tttaaaaccg
+     1561 aaaagattac ttcgcgttat gcaggcttcc tcgctcactg actcgctgcg ctcggtcgtt
+     1621 cggctgcggc gagcggtatc agctcactca aaggcggtaa tacggttatc cacagaatca
+     1681 ggggataacg caggaaagaa catgtgagca aaaggccagc aaaaggccag gaaccgtaaa
+     1741 aaggccgcgt tgctggcgtt tttccacagg ctccgccccc ctgacgagca tcacaaaaat
+     1801 cgacgctcaa gtcagaggtg gcgaaacccg acaggactat aaagatacca ggcgtttccc
+     1861 cctggaagct ccctcgtgcg ctctcctgtt ccgaccctgc cgcttaccgg atacctgtcc
+     1921 gcctttctcc cttcgggaag cgtggcgctt tctcatagct cacgctgtag gtatctcagt
+     1981 tcggtgtagg tcgttcgctc caagctgggc tgtgtgcacg aaccccccgt tcagcccgac
+     2041 cgctgcgcct tatccggtaa ctatcgtctt gagtccaacc cggtaagaca cgacttatcg
+     2101 ccactggcag cagccactgg taacaggatt agcagagcga ggtatgtagg cggtgctaca
+     2161 gagttcttga agtggtggcc taactacggc tacactagaa gaacagtatt tggtatctgc
+     2221 gctctgctga agccagttac cttcggaaaa agagttggta gctcttgatc cggcaaacaa
+     2281 accaccgctg gtagcggtgg tttttttgtt tgcaagcagc agattacgcg cagaaaaaaa
+     2341 ggatctcaag aagatccttt gatcttttct acggggtctg acgctcagtg gaacgaaaac
+     2401 tcacgttaag ggattttggt catgagatta tcaaaaagga tcttcaccta gatcctttta
+     2461 aattaaaaat gaagttttaa atcaatctaa agtatatatg agtaaacttg gtctgacagc
+     2521 tcgaggcttg gattctcacc aataaaaaac gcccggcggc aaccgagcgt tctgaacaaa
+     2581 tccagatgga gttctgaggt cattactgga tctatcaaca ggagtccaag cgagctcgat
+     2641 atcaaattac gccccgccct gccactcatc gcagtactgt tgtaattcat taagcattct
+     2701 gccgacatgg aagccatcac aaacggcatg atgaacctga atcgccagcg gcatcagcac
+     2761 cttgtcgcct tgcgtataat atttgcccat ggtga
+//

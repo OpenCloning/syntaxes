@@ -1,0 +1,128 @@
+LOCUS       STK006_pSTK-2A-sfGFP    3110 bp ds-DNA     circular     29-JAN-2025
+DEFINITION  .
+COMMENT     Sequence created by bulk assembly. Backbone 5' end ligation method:
+            homology with bases cggactgcagggtctct 3' end ligation method:
+            homology with bases ccgcttctagaggtctca Insert 5' end ligation
+            method: homology with bases ccgcttctagaggtctca 3' end ligation
+            method: homology with bases cggactgcagggtctct
+FEATURES             Location/Qualifiers
+     terminator      107..267
+                     /label="BBa_B0015 Terminator"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     primer          complement(218..235)
+                     /label="sfGFP_pSM-1_R"
+                     /note="sequence: agctcggtacccggggatcctctagaccgttgagaccTATAAACGCAGAAAGGCC"
+                     /ApEinfo_revcolor="#f7977a"
+                     /ApEinfo_fwdcolor="#f7977a"
+     misc_feature    251..257
+                     /label="GG2A"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     source          251..2311
+                     /label="source"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     terminator      264..321
+                     /label="This putative transcriptin terminator from the E. coli his operon has a 2-bp deletion introduced during synthesis. Its efficiency has not been determined."
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     rep_origin      complement(516..1104)
+                     /label="high-copy-number ColE1/pMB1/pBR322/pUC origin of replication"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     terminator      1287..1381
+                     /label="transcription terminator from phage lambda"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     CDS             complement(1402..2061)
+                     /label="cat CDS"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     terminator      2245..2288
+                     /label="putative bacterial transcription terminator"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    2291..2312
+                     /label="BioBrick prefix for parts that do not start with """"ATG"""""
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     misc_feature    2312..2318
+                     /label="GG2A"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     source          2312..2318
+                     /label="source"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     primer          2334..2352
+                     /label="sfGFP_pSM-1_F"
+                     /note="sequence: ttgcatgcctgcaggtcgacagagagagaccGAAAGTGAAACGTGATTTC"
+                     /ApEinfo_revcolor="#f7977a"
+                     /ApEinfo_fwdcolor="#f7977a"
+     promoter        2334..2463
+                     /label="BBa_J72163 GlpT Promoter"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     RBS             2464..2499
+                     /label="sfGFP Ribosome Binding Site"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     CDS             2500..106
+                     /label="sfGFP"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+ORIGIN
+        1 aagcgttctg tctaaagatc cgaacgagaa acgcgatcat atggttctgc tggagttcgt
+       61 aaccgcagcg ggcatcacgc atggtatgga tgaactgtac aaatgaccag gcatcaaata
+      121 aaacgaaagg ctcagtcgaa agactgggcc tttcgtttta tctgttgttt gtcggtgaac
+      181 gctctctact agagtcacac tggctcacct tcgggtggGC CTTTCTGCGT TTATAcgtct
+      241 catccaacat agagaccctg cagtccggca aaaaagggca aggtgtcacc accctgccct
+      301 ttttctttaa aaccgaaaag attacttcgc gttatgcagg cttcctcgct cactgactcg
+      361 ctgcgctcgg tcgttcggct gcggcgagcg gtatcagctc actcaaaggc ggtaatacgg
+      421 ttatccacag aatcagggga taacgcagga aagaacatgt gagcaaaagg ccagcaaaag
+      481 gccaggaacc gtaaaaaggc cgcgttgctg gcgtttttcc acaggctccg cccccctgac
+      541 gagcatcaca aaaatcgacg ctcaagtcag aggtggcgaa acccgacagg actataaaga
+      601 taccaggcgt ttccccctgg aagctccctc gtgcgctctc ctgttccgac cctgccgctt
+      661 accggatacc tgtccgcctt tctcccttcg ggaagcgtgg cgctttctca tagctcacgc
+      721 tgtaggtatc tcagttcggt gtaggtcgtt cgctccaagc tgggctgtgt gcacgaaccc
+      781 cccgttcagc ccgaccgctg cgccttatcc ggtaactatc gtcttgagtc caacccggta
+      841 agacacgact tatcgccact ggcagcagcc actggtaaca ggattagcag agcgaggtat
+      901 gtaggcggtg ctacagagtt cttgaagtgg tggcctaact acggctacac tagaagaaca
+      961 gtatttggta tctgcgctct gctgaagcca gttaccttcg gaaaaagagt tggtagctct
+     1021 tgatccggca aacaaaccac cgctggtagc ggtggttttt ttgtttgcaa gcagcagatt
+     1081 acgcgcagaa aaaaaggatc tcaagaagat cctttgatct tttctacggg gtctgacgct
+     1141 cagtggaacg aaaactcacg ttaagggatt ttggtcatga gattatcaaa aaggatcttc
+     1201 acctagatcc ttttaaatta aaaatgaagt tttaaatcaa tctaaagtat atatgagtaa
+     1261 acttggtctg acagctcgag gcttggattc tcaccaataa aaaacgcccg gcggcaaccg
+     1321 agcgttctga acaaatccag atggagttct gaggtcatta ctggatctat caacaggagt
+     1381 ccaagcgagc tcgatatcaa attacgcccc gccctgccac tcatcgcagt actgttgtaa
+     1441 ttcattaagc attctgccga catggaagcc atcacaaacg gcatgatgaa cctgaatcgc
+     1501 cagcggcatc agcaccttgt cgccttgcgt ataatatttg cccatggtga aaacgggggc
+     1561 gaagaagttg tccatattgg ccacgtttaa atcaaaactg gtgaaactca cccagggatt
+     1621 ggctgacacg aaaaacatat tctcaataaa ccctttaggg aaataggcca ggttttcacc
+     1681 gtaacacgcc acatcttgcg aatatatgtg tagaaactgc cggaaatcgt cgtggtattc
+     1741 actccagagc gatgaaaacg tttcagtttg ctcatggaaa acggtgtaac aagggtgaac
+     1801 actatcccat atcaccagct caccgtcttt cattgccata cgaaattccg gatgagcatt
+     1861 catcaggcgg gcaagaatgt gaataaaggc cggataaaac ttgtgcttat ttttctttac
+     1921 ggtctttaaa aaggccgtaa tatccagctg aacggtctgg ttataggtac attgagcaac
+     1981 tgactgaaat gcctcaaaat gttctttacg atgccattgg gatatatcaa cggtggtata
+     2041 tccagtgatt tttttctcca ttttagcttc cttagctcct gaaaatctcg ataactcaaa
+     2101 aaatacgccc ggtagtgatc ttatttcatt atggtgaaag ttggaacctc ttacgtgccc
+     2161 gatcaactcg agtgccacct gacgtctaag aaaccattat tatcatgaca ttaacctata
+     2221 aaaataggcg tatcacgagg cagaatttca gataaaaaaa atccttagct ttcgctaagg
+     2281 atgatttctg gaattcgcgg ccgcttctag aggtctcaag agagcaagag acgGAAAGTG
+     2341 AAACGTGATT TCatgcgtca ttttgaacat tttgtaaatc ttatttaata atgtgtgcgg
+     2401 caattcacat ttaatttatg aatgttttct taacatcgcg gcaactcaag aaacggcagg
+     2461 ttcggatctt agctactaga gaaagaggag aaatactaga tgcgtaaagg cgaagagctg
+     2521 ttcactggtg tcgtccctat tctggtggaa ctggatggtg atgtcaacgg tcataagttt
+     2581 tccgtgcgtg gcgagggtga aggtgacgca actaatggta aactgacgct gaagttcatc
+     2641 tgtactactg gtaaactgcc ggttccttgg ccgactctgg taacgacgct gacttatggt
+     2701 gttcagtgct ttgctcgtta tccggaccat atgaagcagc atgacttctt caagtccgcc
+     2761 atgccggaag gctatgtgca ggaacgcacg atttccttta aggatgacgg cacgtacaaa
+     2821 acgcgtgcgg aagtgaaatt tgaaggcgat accctggtaa accgcattga gctgaaaggc
+     2881 attgacttta aagaggacgg caatatcctg ggccataagc tggaatacaa ttttaacagc
+     2941 cacaatgttt acatcaccgc cgataaacaa aaaaatggca ttaaagcgaa ttttaaaatt
+     3001 cgccacaacg tggaggatgg cagcgtgcag ctggctgatc actaccagca aaacactcca
+     3061 atcggtgatg gtcctgttct gctgccagac aatcactatc tgagcacgca
+//

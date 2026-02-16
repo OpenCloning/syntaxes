@@ -1,0 +1,111 @@
+LOCUS       STK302_pSTK-1B-RFP1     2952 bp ds-DNA     circular     15-JAN-2025
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     CDS             complement(664..1524)
+                     /label="bla CDS"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     promoter        complement(1525..1629)
+                     /label="bla promoter"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     terminator      1719..1762
+                     /label="putative bacterial transcription terminator"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     misc_feature    1765..1784
+                     /label="BioBrick prefix for parts that start with """"ATG"""""
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     misc_feature    1787..1793
+                     /label="GG1A"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     source          1787..1793
+                     /label="source"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    1802..1892
+                     /label="BBa_K090503 Gram-positive constitutive promoter"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    1897..1902
+                     /label="TM_RBS3"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    1903..1909
+                     /label="Spacer"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     misc_feature    1911..2591
+                     /label="RFP1"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     Terminator      2599..2659
+                     /label="L3S2P21 Estrongest synthetic terminator"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     source          2668..1786
+                     /label="source"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    2668..2674
+                     /label="GG1A"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     rep_origin      complement(2857..493)
+                     /label="high-copy-number ColE1/pMB1/pBR322/pUC origin of replication"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+ORIGIN
+        1 tccccctgga agctccctcg tgcgctctcc tgttccgacc ctgccgctta ccggatacct
+       61 gtccgccttt ctcccttcgg gaagcgtggc gctttctcat agctcacgct gtaggtatct
+      121 cagttcggtg taggtcgttc gctccaagct gggctgtgtg cacgaacccc ccgttcagcc
+      181 cgaccgctgc gccttatccg gtaactatcg tcttgagtcc aacccggtaa gacacgactt
+      241 atcgccactg gcagcagcca ctggtaacag gattagcaga gcgaggtatg taggcggtgc
+      301 tacagagttc ttgaagtggt ggcctaacta cggctacact agaagAacag tatttggtat
+      361 ctgcgctctg ctgaagccag ttaccttcgg aaaaagagtt ggtagctctt gatccggcaa
+      421 acaaaccacc gctggtagcg gtggtttttt tgtttgcaag cagcagatta cgcgcagaaa
+      481 aaaaggatct caagaagatc ctttgatctt ttctacgggg tctgacgctc agtggaacga
+      541 aaactcacgt taagggattt tggtcatgag attatcaaaa aggatcttca cctagatcct
+      601 tttaaattaa aaatgaagtt ttaaatcaat ctaaagtata tatgagtaaa cttggtctga
+      661 cagttaccaa tgcttaatca gtgaggcacc tatctcagcg atctgtctat ttcgttcatc
+      721 catagttgcc tgactccccg tcgtgtagat aactacgata cgggagggct taccatctgg
+      781 ccccagtgct gcaatgatac cgcgagagcc acgctcaccg gctccagatt tatcagcaat
+      841 aaaccagcca gccggaaggg ccgagcgcag aagtggtcct gcaactttat ccgcctccat
+      901 ccagtctatt aattgttgcc gggaagctag agtaagtagt tcgccagtta atagtttgcg
+      961 caacgttgtt gccattgcta caggcatcgt ggtgtcacgc tcgtcgtttg gtatggcttc
+     1021 attcagctcc ggttcccaac gatcaaggcg agttacatga tcccccatgt tgtgcaaaaa
+     1081 agcggttagc tccttcggtc ctccgatcgt tgtcagaagt aagttggccg cagtgttatc
+     1141 actcatggtt atggcagcac tgcataattc tcttactgtc atgccatccg taagatgctt
+     1201 ttctgtgact ggtgagtact caaccaagtc attctgagaa tagtgtatgc ggcgaccgag
+     1261 ttgctcttgc ccggcgtcaa tacgggataa taccgcgcca catagcagaa ctttaaaagt
+     1321 gctcatcatt ggaaaacgtt cttcggggcg aaaactctca aggatcttac cgctgttgag
+     1381 atccagttcg atgtaaccca ctcgtgcacc caactgatct tcagcatctt ttactttcac
+     1441 cagcgtttct gggtgagcaa aaacaggaag gcaaaatgcc gcaaaaaagg gaataagggc
+     1501 gacacggaaa tgttgaatac tcatactctt cctttttcaa tattattgaa gcatttatca
+     1561 gggttattgt ctcatgagcg gatacatatt tgaatgtatt tagaaaaata aacaaatagg
+     1621 ggttccgcgc acatttcccc gaaaagtgcc acctgacgtc taagaaacca ttattatcat
+     1681 gacattaacc tataaaaata ggcgtatcac gaggcagaat ttcagataaa aaaaatcctt
+     1741 agctttcgct aaggatgatt tctggaattc gcggccgctt ctagaacgtc tcaaatcaga
+     1801 gttccggtgg aaacgaggtc atcatttcct tccgaaaaaa cggttgcatt taaatcttac
+     1861 atatgtaata ctttcaaaga ctacatttgt aaACATAGGA GACTAGCCTT ATGATGGCTT
+     1921 CCTCCGAAGA tGTTATCAAA GAGTTCATGC GTTTCAAAGT TCGTATGGAA GGTTCCGTTA
+     1981 ACGGTCACGA GTTCGAAATC GAAGGTGAAG GTGAAGGTCG TCCGTACGAA GGTACCCAGA
+     2041 CCGCTAAACT GAAAGTTACC AAAGGTGGTC CGCTGCCGTT CGCTTGGGAC ATCCTGTCCC
+     2101 CGCAGTTCCA GTACGGTTCC AAAGCTTACG TTAAACACCC GGCTGACATC CCGGACTACC
+     2161 TGAAACTGTC CTTCCCGGAA GGTTTCAAAT GGGAACGTGT TATGAACTTC GAAGAtGGTG
+     2221 GTGTTGTTAC CGTTACCCAG GACTCCTCCC TGCAAGACGG TGAGTTCATC TACAAAGTTA
+     2281 AACTGCGTGG TACCAACTTC CCGTCCGACG GTCCGGTTAT GCAGAAAAAA ACcatgggtt
+     2341 gggaagcttc caccgaacgt atgTACCcgg aagatggtgc tctgaaaggt gaaatcaaaa
+     2401 tgcgtctgaa actgaaagac ggtggtcact acgacgctga agttaaaacc acctacatgg
+     2461 ctaaaaaacc ggttcagctg ccgggtgctt acaaaaccga catcaaactg gacatcacct
+     2521 cccacaacga agaTtACACc atcgttgaac agtacgaacg tgctgaaggt cgtcactcca
+     2581 ccggtgctta ataaGACAct cggtaccaaa ttccagaaaa gaggcctccc gaaagggggg
+     2641 ccttttttcg ttttggtccA CGGggtaaga gacgctgcag gcttcctcgc tcactgactc
+     2701 gctgcgctcg gtcgttcggc tgcggcgagc ggtatcagct cactcaaagg cggtaatacg
+     2761 gttatccaca gaatcagggg ataacgcagg aaagaacatg tgagcaaaag gccagcaaaa
+     2821 ggccaggaac cgtaaaaagg ccgcgttgct ggcgtttttc caCaggctcc gcccccctga
+     2881 cgagcatcac aaaaatcgac gctcaagtca gaggtggcga aacccgacag gactataaag
+     2941 ataccaggcg tt
+//
