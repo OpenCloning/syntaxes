@@ -111,6 +111,7 @@ for syntax_entry in index:
                 plasmid_file_name = f'syntaxes/{syntax_path}/plasmids.json'
             with open(plasmid_file_name, 'w') as f:
                 json.dump(addgene_plasmids, f, indent=4)
+
     if "plasmid_files" in syntax_entry:
         plasmid_files = [f.split("/")[-1] for f in glob.glob(os.path.join(syntax_entry["plasmid_files"], "*.gb"))]
         for syntax_index, syntax_file in enumerate(syntax_files):
@@ -119,22 +120,31 @@ for syntax_entry in index:
             if "filename_pattern" in syntax_entry["syntaxes"][syntax_index]:
                 filename_pattern = syntax_entry["syntaxes"][syntax_index]["filename_pattern"]
                 filtered_plasmids = [f for f in plasmid_files if re.match(filename_pattern, f)]
+
             plasmids_to_export = list()
             for plasmid_file in filtered_plasmids:
                 plasmid_file_path = os.path.join(syntax_entry["plasmid_files"], plasmid_file)
                 with warnings.catch_warnings():
                     warnings.simplefilter("ignore")
                     plasmid = parse(plasmid_file_path)[0]
-                resp = syntax.assign_plasmid_to_syntax_part(plasmid)
-                if len(resp) == 1:
-                    plasmids_to_export.append(plasmid_file + resp[0]['key'])
+                    resp = syntax.assign_plasmid_to_syntax_part(plasmid)
+                    if len(resp) == 1:
+                        plasmids_to_export.append(
+                            {
+                                'type': 'loadedFile',
+                                'plasmid_name': plasmid.name,
+                                'file_name': plasmid_file,
+                                'left_overhang': resp[0]['key'].split('-')[0],
+                                'right_overhang': resp[0]['key'].split('-')[1],
+                                'key': resp[0]['key'],
+                                'sequenceData': None,
+                                'genbankString': plasmid.format("genbank"),
+                            }
+                        )
 
-            zip_filename = syntax_file[:-5] + ".zip"
-
-            with zipfile.ZipFile(zip_filename, 'w') as zipf:
-                for plasmid_file in filtered_plasmids:
-                    plasmid_file_path = os.path.join(syntax_entry["plasmid_files"], plasmid_file)
-                    zipf.write(plasmid_file_path, arcname=plasmid_file)
+            plasmid_file_name = f'syntaxes/{syntax_path}/plasmids_{syntax_entry["syntaxes"][syntax_index]["path"]}'
+            with open(plasmid_file_name, 'w') as f:
+                json.dump(plasmids_to_export, f, indent=4)
 
 # Write a minified index.json file
 mini_index = dict()
