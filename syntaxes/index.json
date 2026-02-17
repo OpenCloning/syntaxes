@@ -156,6 +156,16 @@
         "name": "Start-Stop Assembly - Level 1",
         "description": "To build a TU with a promoter, ribosome entry site, CDS, terminator, and destination vector",
         "path": "start_stop1.json"
+      },
+      {
+        "name": "Start-Stop Assembly - Level 2",
+        "description": "To combine several Level 1 constructs into a multigene construct",
+        "path": "start_stop2.json"
+      },
+      {
+        "name": "Start-Stop Assembly - Level 3",
+        "description": "To combine several Level 2 constructs into a higher order construct",
+        "path": "start_stop3.json"
       }
     ]
   }

@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "plasmid_name": "pStA1AZ",
+        "left_overhang": "GGAG",
+        "right_overhang": "TACT",
+        "key": "GGAG-TACT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114162"
+        }
+    },
+    {
+        "id": 2,
+        "plasmid_name": "pStA1AB",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114163"
+        }
+    },
+    {
+        "id": 3,
+        "plasmid_name": "pStA1BZ",
+        "left_overhang": "AATG",
+        "right_overhang": "TACT",
+        "key": "AATG-TACT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114164"
+        }
+    },
+    {
+        "id": 4,
+        "plasmid_name": "pStA1BC",
+        "left_overhang": "AATG",
+        "right_overhang": "AGGT",
+        "key": "AATG-AGGT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114165"
+        }
+    },
+    {
+        "id": 5,
+        "plasmid_name": "pStA1CZ",
+        "left_overhang": "AGGT",
+        "right_overhang": "TACT",
+        "key": "AGGT-TACT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114166"
+        }
+    },
+    {
+        "id": 6,
+        "plasmid_name": "pStA1CD",
+        "left_overhang": "AGGT",
+        "right_overhang": "GCTT",
+        "key": "AGGT-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114167"
+        }
+    },
+    {
+        "id": 7,
+        "plasmid_name": "pStA1DZ",
+        "left_overhang": "GCTT",
+        "right_overhang": "TACT",
+        "key": "GCTT-TACT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114168"
+        }
+    },
+    {
+        "id": 8,
+        "plasmid_name": "pStA1DE",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114169"
+        }
+    },
+    {
+        "id": 9,
+        "plasmid_name": "pStA1EZ",
+        "left_overhang": "CGCT",
+        "right_overhang": "TACT",
+        "key": "CGCT-TACT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114170"
+        }
+    },
+    {
+        "id": 10,
+        "plasmid_name": "pStA212",
+        "left_overhang": "TACT",
+        "right_overhang": "GGAG",
+        "key": "TACT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114171"
+        }
+    },
+    {
+        "id": 11,
+        "plasmid_name": "pStA223",
+        "left_overhang": "TACT",
+        "right_overhang": "GGAG",
+        "key": "TACT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114172"
+        }
+    },
+    {
+        "id": 12,
+        "plasmid_name": "pStA234",
+        "left_overhang": "TACT",
+        "right_overhang": "GGAG",
+        "key": "TACT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114173"
+        }
+    }
+]

@@ -1,0 +1,71 @@
+{
+  "syntaxName": "Start-Stop Assembly - Level 3",
+  "assemblyEnzyme": "BbsI",
+  "domesticationEnzyme": "",
+  "relatedDois": [
+    "10.1093/nar/gky1182"
+  ],
+  "submitters": [
+    "0000-0002-8666-9746"
+  ],
+  "overhangNames": {
+    "TGCC": "1",
+    "ACTA": "2",
+    "TTAC": "3",
+    "CGAG": "4"
+  },
+  "parts": [
+    {
+      "id": 1,
+      "name": "12",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "TGCC",
+      "right_overhang": "ACTA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#fc4071"
+    },
+    {
+      "id": 2,
+      "name": "23",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "ACTA",
+      "right_overhang": "TTAC",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#7169bc"
+    },
+    {
+      "id": 3,
+      "name": "34",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "TTAC",
+      "right_overhang": "CGAG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#d712de"
+    },
+    {
+      "name": "Backbone",
+      "info": "",
+      "glyph": "origin-of-replication",
+      "left_overhang": "CGAG",
+      "right_overhang": "TGCC",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#b2f4d3",
+      "id": 6
+    }
+  ]
+}

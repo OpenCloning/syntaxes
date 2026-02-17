@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "plasmid_name": "pStA212",
+        "left_overhang": "TGCC",
+        "right_overhang": "ACTA",
+        "key": "TGCC-ACTA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114171"
+        }
+    },
+    {
+        "id": 2,
+        "plasmid_name": "pStA223",
+        "left_overhang": "ACTA",
+        "right_overhang": "TTAC",
+        "key": "ACTA-TTAC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114172"
+        }
+    },
+    {
+        "id": 3,
+        "plasmid_name": "pStA234",
+        "left_overhang": "TTAC",
+        "right_overhang": "CGAG",
+        "key": "TTAC-CGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114173"
+        }
+    },
+    {
+        "id": 4,
+        "plasmid_name": "pStA313",
+        "left_overhang": "TTAC",
+        "right_overhang": "TGCC",
+        "key": "TTAC-TGCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114174"
+        }
+    },
+    {
+        "id": 5,
+        "plasmid_name": "pStA314",
+        "left_overhang": "CGAG",
+        "right_overhang": "TGCC",
+        "key": "CGAG-TGCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "114175"
+        }
+    }
+]

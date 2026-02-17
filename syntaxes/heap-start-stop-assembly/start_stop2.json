@@ -1,0 +1,99 @@
+{
+  "syntaxName": "Start-Stop Assembly - Level 2",
+  "assemblyEnzyme": "BsaI",
+  "domesticationEnzyme": "",
+  "relatedDois": [
+    "10.1093/nar/gky1182"
+  ],
+  "submitters": [
+    "0000-0002-8666-9746"
+  ],
+  "overhangNames": {
+    "GGAG": "A",
+    "AATG": "B",
+    "AGGT": "C",
+    "GCTT": "D",
+    "CGCT": "E",
+    "TACT": "Z"
+  },
+  "parts": [
+    {
+      "id": 1,
+      "name": "AB",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "GGAG",
+      "right_overhang": "AATG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#fc4071"
+    },
+    {
+      "id": 2,
+      "name": "BC",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "AATG",
+      "right_overhang": "AGGT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#7169bc"
+    },
+    {
+      "id": 3,
+      "name": "CD",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "AGGT",
+      "right_overhang": "GCTT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#d712de"
+    },
+    {
+      "id": 4,
+      "name": "DE",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "GCTT",
+      "right_overhang": "CGCT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#54b8f0"
+    },
+    {
+      "name": "EZ",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "CGCT",
+      "right_overhang": "TACT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "silver",
+      "id": 5
+    },
+    {
+      "name": "Backbone",
+      "info": "",
+      "glyph": "origin-of-replication",
+      "left_overhang": "TACT",
+      "right_overhang": "GGAG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#b2f4d3",
+      "id": 6
+    }
+  ]
+}
