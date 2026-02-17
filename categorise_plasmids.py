@@ -6,7 +6,6 @@ import shutil
 import glob
 import re
 import warnings
-import zipfile
 
 
 def merge_syntaxes(syntax_file1: str, syntax_file2: str) -> Syntax:
@@ -23,6 +22,7 @@ def merge_syntaxes(syntax_file1: str, syntax_file2: str) -> Syntax:
 
 index_file = os.path.join("syntaxes", "index.json")
 index = json.load(open(index_file))
+index = [index[-1]]
 
 for syntax_entry in index:
     # Load the syntax
@@ -127,12 +127,20 @@ for syntax_entry in index:
                 with warnings.catch_warnings():
                     warnings.simplefilter("ignore")
                     plasmid = parse(plasmid_file_path)[0]
+                    plasmid_name = plasmid.name
+                    if syntax_path == "subti_toolkit":
+                        file_name = plasmid_file[:-3]
+                        plasmid_id = file_name.split("_")[0]
+                        rest = '-'.join(file_name.split("_")[1:])
+                        rest = rest.replace('pSTK-', '')
+                        rest = rest.replace('pSTK', '')
+                        plasmid_name = f"{rest} (p{plasmid_id})"
                     resp = syntax.assign_plasmid_to_syntax_part(plasmid)
                     if len(resp) == 1:
                         plasmids_to_export.append(
                             {
                                 'type': 'loadedFile',
-                                'plasmid_name': plasmid.name,
+                                'plasmid_name': plasmid_name,
                                 'file_name': plasmid_file,
                                 'left_overhang': resp[0]['key'].split('-')[0],
                                 'right_overhang': resp[0]['key'].split('-')[1],
@@ -141,7 +149,7 @@ for syntax_entry in index:
                                 'genbankString': plasmid.format("genbank"),
                             }
                         )
-
+            plasmids_to_export.sort(key=lambda x: x['file_name'])
             plasmid_file_name = f'syntaxes/{syntax_path}/plasmids_{syntax_entry["syntaxes"][syntax_index]["path"]}'
             with open(plasmid_file_name, 'w') as f:
                 json.dump(plasmids_to_export, f, indent=4)
