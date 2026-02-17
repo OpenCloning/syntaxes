@@ -1,0 +1,84 @@
+LOCUS       pCTK007                 1733 bp ds-DNA     circular     22-MAY-2025
+DEFINITION  .
+COMMENT     Sequence created by bulk assembly. Backbone 5' end ligation method:
+            enzyme with enzyme BsmBI 3' end ligation method: enzyme with enzyme
+            BsmBI Insert 5' end ligation method: enzyme with enzyme BsmBI 3'
+            end ligation method: enzyme with enzyme BsmBI
+FEATURES             Location/Qualifiers
+     promoter        complement(1..105)
+                     /label="CamR Promoter"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="ApEinfo_revcolor: #66CCFF ApEinfo_graphicformat: arrow_data {{0 1 2 0 0 -1} {} 0}width 5 offset 0"
+     rep_origin      complement(106..869)
+                     /label="ColE1"
+                     /ApEinfo_revcolor="#7f7f7f"
+                     /ApEinfo_fwdcolor="#7f7f7f"
+                     /note="ApEinfo_revcolor: #7F7F7F ApEinfo_graphicformat: arrow_data {{0 1 2 0 0 -1} {} 0}width 5 offset 0"
+     protein_bind    complement(872..875)
+                     /label="BsmBI"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="label: BsmBI(1) ApEinfo_revcolor: #E72E00 ApEinfo_graphicformat: arrow_data {{0 1 2 0 0 -1} {} 0}width 5 offset 0"
+     misc_feature    872..884
+                     /label="Type 2 entry overhang"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     Promoter        885..951
+                     /label="PIcaRA"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    952..962
+                     /label="Type 2b entry overhang"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     protein_bind    959..962
+                     /label="BsmBI"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="ApEinfo_revcolor: #E72E00 ApEinfo_graphicformat: arrow_data {{0 1 2 0 0 -1} {} 0}width 5 offset 0"
+     misc_feature    complement(965..1073)
+                     /label="CamR Terminator"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="ApEinfo_revcolor: #66ccff ApEinfo_graphicformat: arrow_data {{0 1 2 0 0 -1} {} 0}width 5 offset 0"
+     CDS             complement(1074..1733)
+                     /label="CamR"
+                     /ApEinfo_revcolor="#0000ff"
+                     /ApEinfo_fwdcolor="#0000ff"
+                     /note="ApEinfo_revcolor: #0000FF ApEinfo_graphicformat: arrow_data {{0 1 2 0 0 -1} {} 0}width 5 offset 0"
+     CDS             complement(1074..1733)
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="MEKKITGYTTVDISQWHRKEHFEAFQSVAQCTYNQTVQLDITAFLKTVKKNKHKFYPAFIHILARLMNAHPEFRMAMKDGELVIWDSVHPCYTVFHEQTETFSSLWSEYHDDFRQFLHIYSQDVACYGENLAYFPKGFIENMFFVSANPWVSFTSFDLNVANMDNFFAPVFTMGKYYTQGDKVLMPLAIQVHHAVCDGFHVGRMLNELQQYCDEWQGGA*"
+ORIGIN
+        1 tttagcttcc ttagctcctg aaaatctcga taactcaaaa aatacgcccg gtagtgatct
+       61 tatttcatta tggtgaaagt tggaacctct tacgtgcccg atcaatcatg accaaaatcc
+      121 cttaacgtga gttttcgttc cactgagcgt cagaccccgt agaaaagatc aaaggatctt
+      181 cttgagatcc tttttttctg cgcgtaatct gctgcttgca aacaaaaaaa ccaccgctac
+      241 cagcggtggt ttgtttgccg gatcaagagc taccaactct ttttccgaag gtaactggct
+      301 tcagcagagc gcagatacca aatactgttc ttctagtgta gccgtagtta ggccaccact
+      361 tcaagaactc tgtagcaccg cctacatacc tcgctctgct aatcctgtta ccagtggctg
+      421 ctgccagtgg cgataagtcg tgtcttaccg ggttggactc aagacgatag ttaccggata
+      481 aggcgcagcg gtcgggctga acggggggtt cgtgcacaca gcccagcttg gagcgaacga
+      541 cctacaccga actgagatac ctacagcgtg agctatgaga aagcgccacg cttcccgaag
+      601 ggagaaaggc ggacaggtat ccggtaagcg gcagggtcgg aacaggagag cgcacgaggg
+      661 agcttccagg gggaaacgcc tggtatcttt atagtcctgt cgggtttcgc cacctctgac
+      721 ttgagcgtcg atttttgtga tgctcgtcag gggggcggag cctatggaaa aacgccagca
+      781 acgcggcctt tttacggttc ctggcctttt gctggccttt tgctcacatg ttctttcctg
+      841 cgttatcccc tgattctgtg gataaccgta gtcggtctca AACGgtcaac tcataagatt
+      901 ctgattcgtt accaattgac aattcaccta cctttcgtta ggttaggttg tCTGAtgaga
+      961 ccagaccaat aaaaaacgcc cggcggcaac cgagcgttct gaacaaatcc agatggagtt
+     1021 ctgaggtcat tactggatct atcaacagga gtccaagcga gctcgatatc aaattacgcc
+     1081 ccgccctgcc actcatcgca gtactgttgt aattcattaa gcattctgcc gacatggaag
+     1141 ccatcacaaa cggcatgatg aacctgaatc gccagcggca tcagcacctt gtcgccttgc
+     1201 gtataatatt tgcccatggt gaaaacgggg gcgaagaagt tgtccatatt ggccacgttt
+     1261 aaatcaaaac tggtgaaact cacccaggga ttggctgaaa cgaaaaacat attctcaata
+     1321 aaccctttag ggaaataggc caggttttca ccgtaacacg ccacatcttg cgaatatatg
+     1381 tgtagaaact gccggaaatc gtcgtggtat tcactccaga gcgatgaaaa cgtttcagtt
+     1441 tgctcatgga aaacggtgta acaagggtga acactatccc atatcaccag ctcaccgtct
+     1501 ttcattgcca tacgaaattc cggatgagca ttcatcaggc gggcaagaat gtgaataaag
+     1561 gccggataaa acttgtgctt atttttcttt acggtcttta aaaaggccgt aatatccagc
+     1621 tgaacggtct ggttataggt acattgagca actgactgaa atgcctcaaa atgttcttta
+     1681 cgatgccatt gggatatatc aacggtggta tatccagtga tttttttctc cat
+//

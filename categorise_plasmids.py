@@ -22,6 +22,7 @@ def merge_syntaxes(syntax_file1: str, syntax_file2: str) -> Syntax:
 
 index_file = os.path.join("syntaxes", "index.json")
 index = json.load(open(index_file))
+index = index[-1:]
 
 for syntax_entry in index:
     # Load the syntax
@@ -116,7 +117,7 @@ for syntax_entry in index:
         for syntax_index, syntax_file in enumerate(syntax_files):
             syntax = Syntax.model_validate_json(open(syntax_file).read())
             filtered_plasmids = plasmid_files
-            if "filename_pattern" in syntax_entry["syntaxes"][syntax_index]:
+            if "syntaxes" in syntax_entry and "filename_pattern" in syntax_entry["syntaxes"][syntax_index]:
                 filename_pattern = syntax_entry["syntaxes"][syntax_index]["filename_pattern"]
                 filtered_plasmids = [f for f in plasmid_files if re.match(filename_pattern, f)]
 
@@ -127,15 +128,18 @@ for syntax_entry in index:
                     warnings.simplefilter("ignore")
                     plasmid = parse(plasmid_file_path)[0]
                     plasmid_name = plasmid.name
-                    if syntax_path == "subti_toolkit":
-                        file_name = plasmid_file[:-3]
-                        plasmid_id = file_name.split("_")[0]
-                        rest = '-'.join(file_name.split("_")[1:])
-                        rest = rest.replace('pSTK-', '')
-                        rest = rest.replace('pSTK', '')
-                        plasmid_name = f"{rest} (p{plasmid_id})"
                     resp = syntax.assign_plasmid_to_syntax_part(plasmid)
                     if len(resp) == 1:
+                        if syntax_path == "subti_toolkit":
+                            file_name = plasmid_file[:-3]
+                            plasmid_id = file_name.split("_")[0]
+                            rest = '-'.join(file_name.split("_")[1:])
+                            rest = rest.replace('pSTK-', '')
+                            rest = rest.replace('pSTK', '')
+                            plasmid_name = f"{rest} (p{plasmid_id})"
+                        elif syntax_path == "ctk":
+                            if resp[0]['longest_feature'] is not None:
+                                plasmid_name = f"{resp[0]['longest_feature'].qualifiers['label'][0]} ({plasmid_name})"
                         plasmids_to_export.append(
                             {
                                 'type': 'loadedFile',
@@ -149,7 +153,10 @@ for syntax_entry in index:
                             }
                         )
             plasmids_to_export.sort(key=lambda x: x['file_name'])
-            plasmid_file_name = f'syntaxes/{syntax_path}/plasmids_{syntax_entry["syntaxes"][syntax_index]["path"]}'
+            if "syntaxes" in syntax_entry:
+                plasmid_file_name = f'syntaxes/{syntax_path}/plasmids_{syntax_entry["syntaxes"][syntax_index]["path"]}'
+            else:
+                plasmid_file_name = f'syntaxes/{syntax_path}/plasmids.json'
             with open(plasmid_file_name, 'w') as f:
                 json.dump(plasmids_to_export, f, indent=4)
 

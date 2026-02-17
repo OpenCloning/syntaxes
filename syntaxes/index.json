@@ -168,5 +168,12 @@
         "path": "start_stop3.json"
       }
     ]
+  },
+  {
+    "name": "The Coli Toolkit (CTK)",
+    "path": "ctk",
+    "description": "An Extension of the Modular Yeast Toolkit for Use in E. coli",
+    "plasmid_files": "other_plasmids/ctk",
+    "kits": []
   }
 ]
