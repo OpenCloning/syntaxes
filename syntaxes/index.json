@@ -141,5 +141,22 @@
       }
     ]
 
+  },
+  {
+    "name": "Start-Stop Assembly",
+    "path": "heap-start-stop-assembly",
+    "description": "Functionally scarless, suitable for combinatorial assembly, and ideal for metabolic engineering in diverse organisms",
+    "kits": [
+      {
+        "kit": "heap-start-stop-assembly"
+      }
+    ],
+    "syntaxes": [
+      {
+        "name": "Start-Stop Assembly - Level 1",
+        "description": "To build a TU with a promoter, ribosome entry site, CDS, terminator, and destination vector",
+        "path": "start_stop1.json"
+      }
+    ]
   }
 ]

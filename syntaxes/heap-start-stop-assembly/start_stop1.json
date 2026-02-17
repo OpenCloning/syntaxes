@@ -1,0 +1,85 @@
+{
+  "syntaxName": "Start-Stop Assembly",
+  "assemblyEnzyme": "SapI",
+  "domesticationEnzyme": "",
+  "relatedDois": [
+    "10.1093/nar/gky1182"
+  ],
+  "submitters": [
+    "0000-0002-8666-9746"
+  ],
+  "overhangNames": {
+    "CAG": "α",
+    "CCA": "β",
+    "ATG": "γ",
+    "TAA": "δ",
+    "GGA": "ε"
+  },
+  "parts": [
+    {
+      "id": 1,
+      "name": "Promoter",
+      "info": "",
+      "glyph": "promoter",
+      "left_overhang": "CAG",
+      "right_overhang": "CCA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#FF2E2E"
+    },
+    {
+      "id": 2,
+      "name": "RBS",
+      "info": "",
+      "glyph": "ribosome-entry-site",
+      "left_overhang": "CCA",
+      "right_overhang": "ATG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 1,
+      "color": "#5C89D1"
+    },
+    {
+      "id": 3,
+      "name": "CDS",
+      "info": "",
+      "glyph": "cds",
+      "left_overhang": "ATG",
+      "right_overhang": "TAA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 1,
+      "right_codon_start": 1,
+      "color": "#FFCC02"
+    },
+    {
+      "id": 4,
+      "name": "Terminator",
+      "info": "",
+      "glyph": "terminator",
+      "left_overhang": "TAA",
+      "right_overhang": "GGA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 1,
+      "right_codon_start": 0,
+      "color": "#38C771"
+    },
+    {
+      "name": "Backbone",
+      "info": "",
+      "glyph": "origin-of-replication",
+      "left_overhang": "GGA",
+      "right_overhang": "CAG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#C77138",
+      "id": 5
+    }
+  ]
+}
