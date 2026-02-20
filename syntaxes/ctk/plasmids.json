@@ -261,7 +261,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "PHlyIIR (pCTK027)",
+        "plasmid_name": "PhlyIIR (pCTK027)",
         "file_name": "pCTK027.gb",
         "left_overhang": "AAAC",
         "right_overhang": "CTGA",
@@ -281,7 +281,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23101 (pCTK029)",
+        "plasmid_name": "J23101 (pCTK029)",
         "file_name": "pCTK029.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -291,7 +291,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23102 (pCTK030)",
+        "plasmid_name": "J23102 (pCTK030)",
         "file_name": "pCTK030.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -301,7 +301,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23103 (pCTK032)",
+        "plasmid_name": "J23104 (pCTK032)",
         "file_name": "pCTK032.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -311,7 +311,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23105 (pCTK033)",
+        "plasmid_name": "J23105 (pCTK033)",
         "file_name": "pCTK033.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -321,7 +321,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23106 (pCTK034)",
+        "plasmid_name": "J23106 (pCTK034)",
         "file_name": "pCTK034.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -331,7 +331,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23107 (pCTK035)",
+        "plasmid_name": "J23107 (pCTK035)",
         "file_name": "pCTK035.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -341,7 +341,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23108 (pCTK036)",
+        "plasmid_name": "J23108 (pCTK036)",
         "file_name": "pCTK036.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -351,7 +351,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23109 (pCTK037)",
+        "plasmid_name": "J23109 (pCTK037)",
         "file_name": "pCTK037.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -361,7 +361,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23110 (pCTK038)",
+        "plasmid_name": "J23110 (pCTK038)",
         "file_name": "pCTK038.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -371,7 +371,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23111 (pCTK039)",
+        "plasmid_name": "J23111 (pCTK039)",
         "file_name": "pCTK039.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -381,7 +381,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23113 (pCTK040)",
+        "plasmid_name": "J23113 (pCTK040)",
         "file_name": "pCTK040.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -391,7 +391,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23115 (pCTK041)",
+        "plasmid_name": "J23115 (pCTK041)",
         "file_name": "pCTK041.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -401,7 +401,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23116 (pCTK042)",
+        "plasmid_name": "J23116 (pCTK042)",
         "file_name": "pCTK042.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -411,7 +411,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23117 (pCTK043)",
+        "plasmid_name": "J23117 (pCTK043)",
         "file_name": "pCTK043.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -421,7 +421,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23118 (pCTK044)",
+        "plasmid_name": "J23118 (pCTK044)",
         "file_name": "pCTK044.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -431,7 +431,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_J23119 (pCTK045)",
+        "plasmid_name": "J23119 (pCTK045)",
         "file_name": "pCTK045.gb",
         "left_overhang": "AACG",
         "right_overhang": "CTGA",
@@ -561,7 +561,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_B0064 (pCTK058)",
+        "plasmid_name": "B0064 (pCTK058)",
         "file_name": "pCTK058.gb",
         "left_overhang": "AAGA",
         "right_overhang": "TATG",
@@ -781,7 +781,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "superfolder GFP (pCTK080)",
+        "plasmid_name": "sfGFP (pCTK080)",
         "file_name": "pCTK080.gb",
         "left_overhang": "TATG",
         "right_overhang": "ATCC",
@@ -871,7 +871,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "lmrA (pCTK089)",
+        "plasmid_name": "lmrR (pCTK089)",
         "file_name": "pCTK089.gb",
         "left_overhang": "TATG",
         "right_overhang": "ATCC",
@@ -921,7 +921,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "LacI-AM (pCTK094)",
+        "plasmid_name": "lacI (pCTK094)",
         "file_name": "pCTK094.gb",
         "left_overhang": "TATG",
         "right_overhang": "ATCC",
@@ -931,7 +931,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "source (pCTK095)",
+        "plasmid_name": "TetR (pCTK095)",
         "file_name": "pCTK095.gb",
         "left_overhang": "TATG",
         "right_overhang": "ATCC",
@@ -961,7 +961,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "YFP (pCTK098)",
+        "plasmid_name": "yfp (pCTK098)",
         "file_name": "pCTK098.gb",
         "left_overhang": "TATG",
         "right_overhang": "TTCT",
@@ -971,7 +971,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "BBa_B0015 Terminator (pCTK099)",
+        "plasmid_name": "BBa_B0015 (pCTK099)",
         "file_name": "pCTK099.gb",
         "left_overhang": "ATCC",
         "right_overhang": "GCTG",
@@ -1121,7 +1121,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "AmpR (pCTK114)",
+        "plasmid_name": "p15A ori-AmpR [GFP] (pCTK114)",
         "file_name": "pCTK114.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1131,7 +1131,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "lacI (pCTK115)",
+        "plasmid_name": "p15A ori-AmpR-LacI-TetR [GFP] (pCTK115)",
         "file_name": "pCTK115.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1141,7 +1141,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "lacI (pCTK116)",
+        "plasmid_name": "p15A ori-AmpR-AraC-LacI-TetR [GFP] (pCTK116)",
         "file_name": "pCTK116.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1151,7 +1151,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "lacI (pCTK117)",
+        "plasmid_name": "ColE1 ori-AmpR-AraC-LacI-TetR [GFP] (pCTK117)",
         "file_name": "pCTK117.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1161,7 +1161,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "KanR (pCTK118)",
+        "plasmid_name": "p15A ori-KanR [GFP] (pCTK118)",
         "file_name": "pCTK118.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1171,7 +1171,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "lacI (pCTK119)",
+        "plasmid_name": "p15A ori-KanR-LacI-TetR [GFP] (pCTK119)",
         "file_name": "pCTK119.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1181,7 +1181,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "lacI (pCTK120)",
+        "plasmid_name": "p15A ori-KanR-AraC-LacI-TetR [GFP] (pCTK120)",
         "file_name": "pCTK120.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1191,7 +1191,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "Rep101 (pCTK121)",
+        "plasmid_name": "pSC101 ori-SmR [GFP] (pCTK121)",
         "file_name": "pCTK121.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1201,7 +1201,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "AmpR (pCTK122)",
+        "plasmid_name": "p15A ori-AmpR [RFP] (pCTK122)",
         "file_name": "pCTK122.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1211,7 +1211,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "lacI (pCTK123)",
+        "plasmid_name": "p15A ori-AmpR-LacI-TetR [RFP] (pCTK123)",
         "file_name": "pCTK123.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1221,7 +1221,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "lacI (pCTK124)",
+        "plasmid_name": "p15A ori-AmpR-AraC-LacI-TetR [RFP] (pCTK124)",
         "file_name": "pCTK124.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1231,7 +1231,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "lacI (pCTK125)",
+        "plasmid_name": "ColE1 ori-AmpR-AraC-LacI-TetR [RFP] (pCTK125)",
         "file_name": "pCTK125.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1241,7 +1241,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "KanR (pCTK126)",
+        "plasmid_name": "p15A ori-KanR [RFP] (pCTK126)",
         "file_name": "pCTK126.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1251,7 +1251,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "lacI (pCTK127)",
+        "plasmid_name": "p15A ori-KanR-LacI-TetR [RFP] (pCTK127)",
         "file_name": "pCTK127.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1261,7 +1261,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "lacI (pCTK128)",
+        "plasmid_name": "p15A ori-KanR-AraC-LacI-TetR [RFP] (pCTK128)",
         "file_name": "pCTK128.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1271,7 +1271,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "Rep101 (pCTK129)",
+        "plasmid_name": "pSC101 ori-SmR [RFP] (pCTK129)",
         "file_name": "pCTK129.gb",
         "left_overhang": "TACA",
         "right_overhang": "CCCT",
@@ -1281,7 +1281,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "RiboJ (pCTK130)",
+        "plasmid_name": "J23101-RiboJ-B0064 (pCTK130)",
         "file_name": "pCTK130.gb",
         "left_overhang": "AACG",
         "right_overhang": "TATG",
@@ -1291,7 +1291,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "PBAD (pCTK131)",
+        "plasmid_name": "PBAD-RiboJ-B0064 (pCTK131)",
         "file_name": "pCTK131.gb",
         "left_overhang": "AACG",
         "right_overhang": "TATG",
@@ -1301,7 +1301,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "RiboJ (pCTK132)",
+        "plasmid_name": "PTet-RiboJ-B0064 (pCTK132)",
         "file_name": "pCTK132.gb",
         "left_overhang": "AACG",
         "right_overhang": "TATG",
@@ -1311,7 +1311,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "RiboJ (pCTK133)",
+        "plasmid_name": "RiboJ-B0064 (pCTK133)",
         "file_name": "pCTK133.gb",
         "left_overhang": "CTGA",
         "right_overhang": "TATG",
@@ -1321,7 +1321,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "amtR (pCTK134)",
+        "plasmid_name": "A1-amtR (pCTK134)",
         "file_name": "pCTK134.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1331,7 +1331,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "bm3R1 (pCTK135)",
+        "plasmid_name": "B1-bm3R1 (pCTK135)",
         "file_name": "pCTK135.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1341,7 +1341,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "bm3R1 (pCTK136)",
+        "plasmid_name": "B2-bm3R1 (pCTK136)",
         "file_name": "pCTK136.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1351,7 +1351,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "bm3R1 (pCTK137)",
+        "plasmid_name": "B3-bm3R1 (pCTK137)",
         "file_name": "pCTK137.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1361,7 +1361,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "betI (pCTK138)",
+        "plasmid_name": "E1-betI (pCTK138)",
         "file_name": "pCTK138.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1371,7 +1371,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "ameR (pCTK139)",
+        "plasmid_name": "F1-ameR (pCTK139)",
         "file_name": "pCTK139.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1381,7 +1381,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "hlyIIR (pCTK140)",
+        "plasmid_name": "H1-hlyIIR (pCTK140)",
         "file_name": "pCTK140.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1391,7 +1391,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "icaRA (pCTK141)",
+        "plasmid_name": "I1-IcaRA (pCTK141)",
         "file_name": "pCTK141.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1401,7 +1401,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "litR (pCTK142)",
+        "plasmid_name": "L1-LitR (pCTK142)",
         "file_name": "pCTK142.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1411,7 +1411,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "lmrA (pCTK143)",
+        "plasmid_name": "N1-LmrA (pCTK143)",
         "file_name": "pCTK143.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1421,7 +1421,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "phlF (pCTK144)",
+        "plasmid_name": "P1-phlF (pCTK144)",
         "file_name": "pCTK144.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1431,7 +1431,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "phlF (pCTK145)",
+        "plasmid_name": "P2-phlF (pCTK145)",
         "file_name": "pCTK145.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1441,7 +1441,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "phlF (pCTK146)",
+        "plasmid_name": "P3-phlF (pCTK146)",
         "file_name": "pCTK146.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1451,7 +1451,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "qacR (pCTK147)",
+        "plasmid_name": "Q1-QacR (pCTK147)",
         "file_name": "pCTK147.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1461,7 +1461,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "qacR (pCTK148)",
+        "plasmid_name": "Q2-QacR (pCTK148)",
         "file_name": "pCTK148.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1471,7 +1471,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "psrA (pCTK149)",
+        "plasmid_name": "R1-PsrA (pCTK149)",
         "file_name": "pCTK149.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1481,7 +1481,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "srpR (pCTK150)",
+        "plasmid_name": "S1-srpR (pCTK150)",
         "file_name": "pCTK150.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1491,7 +1491,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "srpR (pCTK151)",
+        "plasmid_name": "S2-srpR (pCTK151)",
         "file_name": "pCTK151.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1501,7 +1501,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "srpR (pCTK152)",
+        "plasmid_name": "S3-srpR (pCTK152)",
         "file_name": "pCTK152.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1511,7 +1511,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "srpR (pCTK153)",
+        "plasmid_name": "S4-srpR (pCTK153)",
         "file_name": "pCTK153.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1521,7 +1521,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "superfolder GFP (pCTK154)",
+        "plasmid_name": "sfGFP expression (pCTK154)",
         "file_name": "pCTK154.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1531,7 +1531,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "yfp (pCTK155)",
+        "plasmid_name": "yfp expression (pCTK155)",
         "file_name": "pCTK155.gb",
         "left_overhang": "CTGA",
         "right_overhang": "GCTG",
@@ -1541,7 +1541,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "ColE1 (pCTK156)",
+        "plasmid_name": "RFP dropout (pCTK156)",
         "file_name": "pCTK156.gb",
         "left_overhang": "GCTG",
         "right_overhang": "AACG",

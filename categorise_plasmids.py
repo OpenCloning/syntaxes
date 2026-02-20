@@ -7,6 +7,10 @@ import glob
 import re
 import warnings
 
+with open('other_plasmids/ctk/plasmid_names.csv', 'r') as f:
+    lines = [line.split(',') for line in f.readlines()[1:]]
+    ctk_plasmid_names = {plasmid: description for plasmid, _, description, _ in lines}
+
 
 def merge_syntaxes(syntax_file1: str, syntax_file2: str) -> Syntax:
     syntax1 = Syntax.model_validate_json(open(syntax_file1).read())
@@ -22,7 +26,6 @@ def merge_syntaxes(syntax_file1: str, syntax_file2: str) -> Syntax:
 
 index_file = os.path.join("syntaxes", "index.json")
 index = json.load(open(index_file))
-index = index[-1:]
 
 for syntax_entry in index:
     # Load the syntax
@@ -138,8 +141,12 @@ for syntax_entry in index:
                             rest = rest.replace('pSTK', '')
                             plasmid_name = f"{rest} (p{plasmid_id})"
                         elif syntax_path == "ctk":
-                            if resp[0]['longest_feature'] is not None:
+                            plasmid_id = plasmid_file[:-3]
+                            if plasmid_id in ctk_plasmid_names:
+                                plasmid_name = f'{ctk_plasmid_names[plasmid_id]} ({plasmid_name})'
+                            elif resp[0]['longest_feature'] is not None:
                                 plasmid_name = f"{resp[0]['longest_feature'].qualifiers['label'][0]} ({plasmid_name})"
+
                         plasmids_to_export.append(
                             {
                                 'type': 'loadedFile',
