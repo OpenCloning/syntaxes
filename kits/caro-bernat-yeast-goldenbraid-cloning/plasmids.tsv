@@ -1,0 +1,30 @@
+well	name	addgene_id	resistance
+A / 1	pUPD-pGAL1 (01-11)	101682	Ampicillin
+A / 2	pUPD-pTDH3 (01-11)	101683	Ampicillin
+A / 3	pUPD-pTDH2 (01-11)	101684	Ampicillin
+A / 4	pUPD-pTEF2 (01-11)	101685	Ampicillin
+A / 5	pUPD-pHXT7 (01-11)	101686	Ampicillin
+A / 6	pUPD-pTPI1 (01-11)	101687	Ampicillin
+A / 7	pUPD-pPYK1 (01-11)	101688	Ampicillin
+A / 8	pUPD-PGK1 (01-11)	101689	Ampicillin
+A / 9	pUPD-PGI1 (01-11)	101690	Ampicillin
+A / 10	pUPD-Su9MTS (12)	101691	Ampicillin
+A / 11	pUPD-SOD2MTS (12)	101692	Ampicillin
+A / 12	pUPD-MAM33MTS (12)	101693	Ampicillin
+B / 1	pUPD2-ODPAMTS (12)	101694	Chloramphenicol
+B / 2	pUPD2-ODPBMTS (12)	101695	Chloramphenicol
+B / 3	pUPD2-ATPAMTS (12)	101696	Chloramphenicol
+B / 4	pUPD2-GLRX2MTS (12)	101697	Chloramphenicol
+B / 5	pUPD-MTS2 (12)	101698	Ampicillin
+B / 6	pUC57-8xHis	101699	Ampicillin
+B / 7	pUPD-Cyc1t (17-21)	101700	Ampicillin
+B / 8	pUPD-ADH2t (17-21)	101701	Ampicillin
+B / 9	pUPD-TDH2t (17-21)	101702	Ampicillin
+B / 10	pUPD-G418R (01-21)	101703	Ampicillin
+B / 11	pUPD-HygroBR (01-21)	101704	Ampicillin
+B / 12	YORWΔ22Ω2	101705	Spectinomycin
+C / 1	YORWΔ22Ω1	101706	Spectinomycin
+C / 3	YORWΔ22α1	101708	Kanamycin
+C / 4	YPRCΔ15Ω2	101709	Spectinomycin
+C / 5	YPRCΔ15Ω1	101710	Spectinomycin
+C / 7	YPRCΔ15α1	101712	Kanamycin

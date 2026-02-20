@@ -1,0 +1,94 @@
+well	name	addgene_id	resistance
+A / 1	pUPD2	68161	Chloramphenicol
+A / 2	pPAt2S3 (GB0029)	68162	Ampicillin
+A / 3	pP35S (GB0030)	68163	Ampicillin
+A / 4	pPML1 (GB0045)	68164	Ampicillin
+A / 5	pNH  (GB0064)	68165	Ampicillin
+A / 6	pPnos  (GB0072)	68166	Ampicillin
+A / 7	pPMtb  (GB0080)	68167	Ampicillin
+A / 8	pP2A11  (GB0082)	68168	Ampicillin
+A / 9	pPTctp  (GB0083)	68169	Ampicillin
+A / 10	pPUbc  (GB0145)	68170	Ampicillin
+A / 11	pHsp18.2  (GB0153)	68171	Ampicillin
+A / 12	pHsp70B  (GB0155)	68172	Ampicillin
+B / 2	pPAtUbq10  (GB0223)	68174	Ampicillin
+B / 3	pPromE8  (GB0914)	68175	Ampicillin
+B / 4	pUPD_Mini35s(-60,UTR) (GB0050)	68176	Ampicillin
+B / 5	pPAct2noUTR (GB0192)	68177	Ampicillin
+B / 6	p5'UTRAct2 (GB0193)	68178	Ampicillin
+B / 7	pOpLacI:mini35ss (GB0534)	68179	Ampicillin
+B / 8	pOpLexA::mini35s (GB0733)	68180	Ampicillin
+B / 9	pLexAOp (GB0118)	68181	Ampicillin
+B / 10	p6xUAS (GB0179)	68182	Ampicillin
+B / 11	pLacIBD::SDRX (GB0673)	68183	Ampicillin
+B / 12	pLexA::SRDX (GB0732)	68184	Ampicillin
+C / 1	pGal4BD::BDR (GB0734)	68185	Ampicillin
+C / 2	pTHsp18.2 (GB0035)	68186	Ampicillin
+C / 3	pT35S (GB0036)	68187	Ampicillin
+C / 4	pTnos (GB0037)	68188	Ampicillin
+C / 5	pT2A11 (GB0143)	68189	Ampicillin
+C / 6	pTE8 (GB0144)	68190	Ampicillin
+C / 7	pTAct2 (GB0210)	68191	Ampicillin
+C / 8	pTAtUbq3 (GB0219)	68192	Ampicillin
+C / 9	pBFP (GB0025)	68193	Ampicillin
+C / 10	pRosea (GB0026)	68194	Ampicillin
+C / 11	pP19 (GB0038)	68195	Ampicillin
+C / 12	pHcPro (GB0067)	68196	Ampicillin
+D / 1	pYFP (GB0053)	68197	Ampicillin
+D / 2	pRenilla (GB0056)	68198	Ampicillin
+D / 3	pMyb12 (GB0075)	68199	Ampicillin
+D / 4	pDelila (GB0079)	68200	Ampicillin
+D / 5	pLuciferase (GB0096)	68201	Ampicillin
+D / 6	pDsRed (GB0100)	68202	Ampicillin
+D / 7	pGUS (GB0208)	68203	Ampicillin
+D / 8	pHygromycin (GB0211)	68204	Ampicillin
+D / 9	phumanCas9 (GB0575)	68206	Ampicillin
+D / 10	pD10AH840AhCas9 (GB1041)	68207	Ampicillin
+D / 11	pU6-26 (GB1001)	68208	Ampicillin
+D / 12	pUPD_OsU3 (GB1184)	68209	Ampicillin
+E / 1	psgRNA (GB0645)	68210	Ampicillin
+E / 2	pTNos:BASTA:PNos (GB0023)	68211	Ampicillin
+E / 3	pEGB Tnos:NptII:Pnos (GB0226)	68212	Kanamycin
+E / 4	pEGB 1alfa1R Tnos:Hygromycin:PNos (GB0235)	68213	Kanamycin
+E / 5	pDGB3alpha2_35S:P19:Tnos  (GB1203)	68214	Kanamycin
+E / 6	pEGB 35S:Renilla:Tnos (GB0109)	68215	Kanamycin
+E / 7	pEGB 35S:Luciferase:Tnos (GB0110)	68216	Kanamycin
+E / 8	pEGB Pnos:Luciferase:Tnos (GB0112)	68217	Kanamycin
+E / 9	pEGB3 Pnos:Luciferase:Tnos-SF-35S:Renilla:Tnos-35S:P19:Tnos-SF (GB1116)	68218	Kanamycin
+E / 10	pEGB 35S:YFP:Tnos (GB0209)	68219	Kanamycin
+E / 11	pEGB 35S:DsRed:Tnos (GB0361)	68220	Kanamycin
+E / 12	pEGB2alpha2 35s:hCas9:tNos (GB0639)	68222	Kanamycin
+F / 1	pEGB 35S:dCas9:Tnos (GB1191)	68223	Kanamycin
+F / 2	pDGB1_alpha1	68224	Kanamycin
+F / 3	pDGB1_alpha2	68225	Kanamycin
+F / 4	pDGB1_alpha1R	68226	Kanamycin
+F / 5	pDGB1_alpha2R	68227	Kanamycin
+F / 6	pDGB3_alpha1	68228	Kanamycin
+F / 7	pDGB3_alpha2	68229	Kanamycin
+F / 8	pDGB3_alpha1R	68230	Kanamycin
+F / 9	pDGB3_alpha2R	68231	Kanamycin
+F / 10	pDGB1alpha1_SF (GB0106)	68232	Kanamycin
+F / 11	pDGB1alpha2_SF (GB0107)	68233	Kanamycin
+F / 12	pDGB1_omega1	68234	Spectinomycin
+G / 1	pDGB1_omega2	68235	Spectinomycin
+G / 2	pDGB1_omega1R	68236	Spectinomycin
+G / 3	pDGB1_omega2R	68237	Spectinomycin
+G / 4	pDGB3_omega1	68238	Spectinomycin
+G / 5	pDGB3_omega2	68239	Spectinomycin
+G / 6	pDGB3_omega1R	68240	Spectinomycin
+G / 7	pDGB3_omega2R	68241	Spectinomycin
+G / 8	pDGB1omega1_SF (GB0158)	68242	Spectinomycin
+G / 9	pDGB1omega2_SF (GB0466)	68243	Spectinomycin
+G / 10	pdCas9 (GB1079)	75399	Ampicillin
+G / 11	pEGB2Ω2_SF-35s:hCas9:tNos (GB1103)	75400	Spectinomycin
+G / 12	pEGB 35s:dCas:BRD:tNos (GB1172)	75401	Kanamycin
+H / 1	pEGB 35s:dCas:VP64:tNos (GB1189)	75403	Kanamycin
+H / 2	pEGB 35s:dCas:EDLL:tNos (GB1190)	75404	Kanamycin
+H / 3	pU6-1 (GB1204)	75405	Chloramphenicol
+H / 4	tRNA-gRNA position [D1_2] (GB1205)	75406	Ampicillin
+H / 5	tRNA-gRNA position [2_n-1] (GB1206)	75407	Ampicillin
+H / 6	tRNA-gRNA position [n] (GB1207)	75408	Ampicillin
+H / 7	tRNA-gRNA position [D1_n-1] (GB1208)	75409	Ampicillin
+H / 8	tRNA-gRNA position [M1_2] (GB1209)	75410	Ampicillin
+H / 9	tRNA-gRNA position [M1_n-1] (GB1210)	75411	Ampicillin
+H / 10	pEGB3omega1R Tnos:NptII:Pnos-SF (GB1181)	75471	Spectinomycin

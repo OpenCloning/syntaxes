@@ -1,0 +1,165 @@
+LOCUS       pTEI039                 3706 bp    DNA     circular SYN 15-DEC-2025
+DEFINITION  Synthetic biology.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+            .
+REFERENCE   1  (bases 1 to 3706)
+  AUTHORS   Gantner J, Ordon J, Ilse T, Kretschmer C, Gruetzner R, Lofke C,
+            Dagdas Y, Burstenbinder K, Marillonnet S, Stuttmann J
+  TITLE     Peripheral infrastructure vectors and an extended set of plant parts
+            for the Modular Cloning system.
+  JOURNAL   PLoS One. 2018 May 30;13(5):e0197185. doi:
+            10.1371/journal.pone.0197185. eCollection 2018.
+   PUBMED   29847550
+REFERENCE   2  (bases 1 to 3706)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Dec 15, 2025 from SnapGene Server 8.0.1
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; journalName: "PLoS One.";
+            date: "2018-05-30"; volume: "13(5):e0197185. doi"; pages: "
+            10.1371/journal.pone.0197185. eCollection 2018"
+            Sequence Label: pTEI039
+FEATURES             Location/Qualifiers
+     source          1..3706
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     primer_bind     230..247
+                     /label="L4440"
+                     /note="L4440 vector, forward primer"
+     CDS             325..576
+                     /codon_start=1
+                     /gene="lexA (truncated)"
+                     /product="DNA-binding domain of E. coli LexA"
+                     /label="LexA BD"
+                     /note="binds the 16-bp palindromic sequence
+                     5'-CTGTATATATATACAG-3'"
+                     /translation="MKALTARQQEVFDLIRDHISQTGMPPTRAEIAQRLGFRSPNAAEE
+                     HLKALARKGVIEIVSGASRGIRLLQEEEEGLPLVGRVAA"
+     CDS             592..825
+                     /codon_start=1
+                     /gene="UL48"
+                     /product="transcriptional activation domain of herpes
+                     simplex virus protein VP16 (Triezenberg et al., 1988;
+                     Cousens et al., 1989)"
+                     /label="VP16 AD"
+                     /translation="APPTDVSLGDELHLDGEDVAMAHADALDDFDLDMLGDGDSPGPGF
+                     TPHDSAPYGALDMADFEFEQMFTDALGIDEYGG"
+     CDS             835..1770
+                     /codon_start=1
+                     /product="mutated ligand-binding domain of the human
+                     estrogen receptor (Feil et al., 1997)"
+                     /label="ERT2"
+                     /translation="AGDMRAANLWPSPLMIKRSKKNSLALSLTADQMVSALLDAEPPIL
+                     YSEYDPTRPFSEASMMGLLTNLADRELVHMINWAKRVPGFVDLTLHDQVHLLECAWLEI
+                     LMIGLVWRSMEHPGKLLFAPNLLLDRNQGKCVEGMVEIFDMLLATSSRFRMMNLQGEEF
+                     VCLKSIILLNSGVYTFLSSTLKSLEEKDHIHRVLDKITDTLIHLMAKAGLTLQQQHQRL
+                     AQLLLILSHIRHMSNKGMEHLYSMKCKNVVPLYDLLLEMLDAHRLHAPTSRGGASVEET
+                     DQSHLATAGSTSSHSLQKYYITGEAEGFPAT"
+     CDS             883..1776
+                     /codon_start=1
+                     /gene="ESR1"
+                     /product="estrogen nuclear receptor alpha ligand-binding
+                     domain"
+                     /label="ER-LBD"
+                     /translation="KRSKKNSLALSLTADQMVSALLDAEPPILYSEYDPTRPFSEASMM
+                     GLLTNLADRELVHMINWAKRVPGFVDLTLHDQVHLLECAWLEILMIGLVWRSMEHPGKL
+                     LFAPNLLLDRNQGKCVEGMVEIFDMLLATSSRFRMMNLQGEEFVCLKSIILLNSGVYTF
+                     LSSTLKSLEEKDHIHRVLDKITDTLIHLMAKAGLTLQQQHQRLAQLLLILSHIRHMSNK
+                     GMEHLYSMKCKNVVPLYDLLLEMLDAHRLHAPTSRGGASVEETDQSHLATAGSTSSHSL
+                     QKYYITGEAEGFPATV"
+     primer_bind     complement(1820..1838)
+                     /label="pBRforEco"
+                     /note="pBR322 vectors, upsteam of EcoRI site, forward
+                     primer"
+     promoter        1906..2010
+                     /gene="bla"
+                     /label="AmpR promoter"
+     CDS             2232..3023
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy,
+                     1985)"
+                     /label="SmR"
+                     /note="confers resistance to spectinomycin and
+                     streptomycin"
+                     /translation="MREAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKPH
+                     SDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYPAK
+                     RELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQDLF
+                     EALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPAQYQP
+                     VILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+     rep_origin      join(3194..3706,1..76)
+                     /direction=RIGHT
+                     /label="ori"
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+     primer_bind     3683..3702
+                     /label="pBR322ori-F"
+                     /note="pBR322 origin, forward primer"
+ORIGIN
+        1 tcctgtcggg tttcgccacc tctgacttga gcgtcgattt ttgtgatgct cgtcaggggg
+       61 gcggagccta tggaaaaacg ccagcaacgc ggccttttta cggttcctgg ccttttgctg
+      121 gccttttgct cacatgttct ttcctgcgtt atcccctgat tctgtggata accgtattac
+      181 cgcctttgag tgagctgata ccgctcgccg cagccgaacg accgagcgca gcgagtcagt
+      241 gagcgaggaa gcggaagagc gcccaatacg caaaccgcct ctccccgcgc gttggccgat
+      301 tcattaatca ctctgtggtc tcaaatgaaa gcgttaacgg ccaggcaaca agaggtgttt
+      361 gatctcatcc gtgatcacat cagccagaca ggtatgccgc cgacgcgtgc ggaaatcgcg
+      421 cagcgtttgg ggttccgttc cccaaacgcg gctgaagaac atctgaaggc gctggcacgc
+      481 aaaggcgtta ttgaaattgt ttccggcgca tcacgcggga ttcgtctgtt gcaggaagag
+      541 gaagaagggt tgccgctggt aggtcgtgtg gctgccggtg aaccgtcgag cgcccccccg
+      601 accgatgtca gcctggggga cgagctccac ttagacggcg aggacgtggc gatggcgcat
+      661 gccgacgcgc tagacgattt cgatctggac atgttggggg acggggattc cccgggtccg
+      721 ggatttaccc cccacgactc cgccccctac ggcgctctgg atatggccga cttcgagttt
+      781 gagcagatgt ttaccgatgc ccttggaatt gacgagtacg gtggggatcc gtctgctgga
+      841 gacatgagag ctgccaacct ttggccaagc ccgctcatga tcaaacgctc taagaagaac
+      901 agcctggcct tgtccctgac ggccgaccag atggtcagtg ccttgttgga tgctgagccc
+      961 cccatactct attccgagta tgatcctacc agacccttca gtgaagcttc gatgatgggc
+     1021 ttactgacca acctggcaga cagggagctg gttcacatga tcaactgggc gaagagggtg
+     1081 ccaggctttg tggatttgac cctccatgat caggtccacc ttctagaatg tgcctggcta
+     1141 gagatcctga tgattggtct tgtctggcgc tccatggagc acccagggaa gctactgttt
+     1201 gctcctaact tgctcttgga caggaaccag ggaaaatgtg tagagggcat ggtggagatc
+     1261 ttcgacatgc tgctggctac atcatctcgg ttccgcatga tgaatctgca gggagaggag
+     1321 tttgtgtgcc tcaaatctat tattttgctt aattctggag tgtacacatt tctgtccagc
+     1381 accctgaagt ctctggaaga gaaggaccat atccaccgag tcctggacaa gatcacagac
+     1441 actttgatcc acctgatggc caaggcaggc ctgaccctgc agcagcagca ccagcggctg
+     1501 gcccagctcc tcctcatcct ctcccacatc aggcacatga gtaacaaagg catggagcat
+     1561 ctgtacagca tgaagtgcaa gaacgtggtg cccctctatg acctgctgct ggagatgctg
+     1621 gacgcccacc gcctacatgc gcccactagc cgtggagggg catccgtgga ggagacggac
+     1681 caaagccact tggccactgc gggctctact tcatcgcatt ccttgcaaaa gtattacatc
+     1741 acgggggagg cagagggttt ccctgccaca gtctgagctt gctttgagac cacgaagtgg
+     1801 ctcttcagtg gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata
+     1861 ataatggttt cttagacgtc aggtggcact tttcggggaa atgtgcgcgg aacccctatt
+     1921 tgtttatttt tctaaataca ttcaaatatg tatccgctca tgagacaata accctgataa
+     1981 atgcttcaat aatattgaaa aaggaagagt atgcgctcac gcaactggtc cagaaccttg
+     2041 accgaacgca gcggtggtaa cggcgcagtg gcggttttca tggcttgtta tgactgtttt
+     2101 tttttggggt acagtctatg cctcgggcat ccaagcagca agcgcgttac gccgtgggtc
+     2161 gatgtttgat gttatggagc agcaacgatg ttacgcagca gggcagtcgc cctaaaacaa
+     2221 agttaaacat catgagggaa gcggtgatcg ccgaagtatc gactcaacta tcagaggtag
+     2281 ttggcgtcat cgagcgccat ctcgaaccga cgttgctggc cgtacatttg tacggctccg
+     2341 cagtggatgg cggcctgaag ccacacagcg atattgattt gctggttacg gtgaccgtaa
+     2401 ggcttgatga aacaacgcgg cgagctttga tcaacgacct tttggaaact tcggcttccc
+     2461 ctggagagag cgagattctc cgcgctgtag aagtcaccat tgttgtgcac gacgacatca
+     2521 ttccgtggcg ttatccagct aagcgcgaac tgcaatttgg agaatggcag cgcaatgaca
+     2581 ttcttgcagg tatcttcgag ccagccacga tcgacattga tctggctatc ttgctgacaa
+     2641 aagcaagaga acatagcgtt gccttggtag gtccagcggc ggaggaactc tttgatccgg
+     2701 ttcctgaaca ggatctattt gaggcgctaa atgaaacctt aacgctatgg aactcgccgc
+     2761 ccgactgggc tggcgatgag cgaaatgtag tgcttacgtt gtcccgcatt tggtacagcg
+     2821 cagtaaccgg caaaatcgcg ccgaaggatg tcgctgccga ctgggcaatg gagcgcctgc
+     2881 cggcccagta tcagcccgtc atacttgaag ctagacaggc ttatcttgga caagaagaag
+     2941 atcgcttggc ctcgcgcgca gatcagttgg aagaatttgt ccattacgta aaaggcgaga
+     3001 tcaccaaggt agtcggcaaa taactgtcag accaagttta ctcatatata ctttagattg
+     3061 atttaaaact tcatttttaa tttaaaagga tctaggtgaa gatccttttt gataatctca
+     3121 tgaccaaaat cccttaacgt gagttttcgt tccactgagc gtcagacccc gtagaaaaga
+     3181 tcaaaggatc ttcttgagat cctttttttc tgcgcgtaat ctgctgcttg caaacaaaaa
+     3241 aaccaccgct accagcggtg gtttgtttgc cggatcaaga gctaccaact ctttttccga
+     3301 aggtaactgg cttcagcaga gcgcagatac caaatactgt tcttctagtg tagccgtagt
+     3361 taggccacca cttcaagaac tctgtagcac cgcctacata cctcgctctg ctaatcctgt
+     3421 taccagtggc tgctgccagt ggcgataagt cgtgtcttac cgggttggac tcaagacgat
+     3481 agttaccgga taaggcgcag cggtcgggct gaacgggggg ttcgtgcaca cagcccagct
+     3541 tggagcgaac gacctacacc gaactgagat acctacagcg tgagctatga gaaagcgcca
+     3601 cgcttcccga agggagaaag gcggacaggt atccggtaag cggcagggtc ggaacaggag
+     3661 agcgcacgag ggagcttcca gggggaaacg cctggtatct ttatag
+//

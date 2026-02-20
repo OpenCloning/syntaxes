@@ -1,0 +1,97 @@
+well	name	addgene_id	resistance
+A / 1	pJOG130	105336	Chloramphenicol and Kanamycin
+A / 2	pJOG131	105337	Chloramphenicol and Kanamycin
+A / 3	pJOG387	105338	Chloramphenicol and Spectinomycin
+A / 4	pJOG267	105339	Chloramphenicol and Spectinomycin
+A / 5	pJOG562	105340	Chloramphenicol and Kanamycin
+A / 6	pJOG417	105341	Ampicillin
+A / 7	pJOG418	105342	Kanamycin
+A / 8	pCK011	105343	Chloramphenicol and Ampicillin
+A / 9	pCK012	105344	Chloramphenicol and Kanamycin
+A / 10	pCK013	105345	Chloramphenicol and Gentamicin
+A / 11	pCK014	105346	Chloramphenicol and Gentamicin
+A / 12	pCK015	105347	Chloramphenicol and Gentamicin
+B / 1	pCK016	105348	Chloramphenicol and Gentamicin
+B / 2	pTRV2-GG	105349	Spectinomycin
+B / 3	pTEI036	105350	Spectinomycin
+B / 4	pTEI042	105351	Spectinomycin
+B / 5	pJOG644	105352	Spectinomycin
+B / 6	pTEI038	105353	Spectinomycin
+B / 7	pJOG640	105354	Spectinomycin
+B / 8	pJOG684	105355	Spectinomycin
+B / 9	pJOG603	105356	Spectinomycin
+B / 10	pTEI044	105357	Spectinomycin
+B / 11	pJOG301	105358	Spectinomycin
+B / 12	pAGM28521	105359	Spectinomycin
+C / 1	pJOG299	105360	Spectinomycin
+C / 2	pJOG298	105361	Spectinomycin
+C / 3	pJOG295	105362	Spectinomycin
+C / 4	pJOG300	105363	Spectinomycin
+C / 5	pJOG025	105364	Spectinomycin
+C / 6	pJOG123	105365	Spectinomycin
+C / 7	pJOG026	105366	Spectinomycin
+C / 8	pJOG124	105367	Spectinomycin
+C / 9	pJOG466	105368	Spectinomycin
+C / 10	pJOG467	105369	Spectinomycin
+C / 11	pJOG010	105370	Spectinomycin
+C / 12	pJOG648	105371	Spectinomycin
+D / 1	pTEI067	105372	Spectinomycin
+D / 2	pTEI068	105373	Spectinomycin
+D / 3	pTEI069	105374	Spectinomycin
+D / 4	pTEI070	105375	Spectinomycin
+D / 5	pTEI071	105376	Spectinomycin
+D / 6	pTEI73	105377	Spectinomycin
+D / 7	pCK019	105378	Spectinomycin
+D / 8	pCK020	105379	Spectinomycin
+D / 9	pCK021	105380	Spectinomycin
+D / 10	pAGM1761	105381	Spectinomycin
+D / 11	pJOG020	105382	Spectinomycin
+D / 12	pJOG575	105383	Spectinomycin
+E / 1	pJOG022	105384	Spectinomycin
+E / 2	pJOG213	105385	Spectinomycin
+E / 3	pJOG004	105386	Spectinomycin
+E / 4	pJOG535	105387	Spectinomycin
+E / 5	pJOG577	105388	Spectinomycin
+E / 6	pJOG638	105389	Spectinomycin
+E / 7	pJOG639	105390	Spectinomycin
+E / 8	pJOG170	105391	Spectinomycin
+E / 9	pJOG176	105392	Spectinomycin
+E / 10	pJOG169	105393	Spectinomycin
+E / 11	pJOG175	105394	Spectinomycin
+E / 12	pJOG168	105395	Spectinomycin
+F / 1	pJOG174	105396	Spectinomycin
+F / 2	pJOG142	105397	Spectinomycin
+F / 3	pJOG143	105398	Spectinomycin
+F / 4	pJOG140	105399	Spectinomycin
+F / 5	pJOG141	105400	Spectinomycin
+F / 6	pJOG824	105401	Spectinomycin
+F / 7	pAGM16456	105402	Spectinomycin
+F / 8	pAGM16467	105403	Spectinomycin
+F / 9	pAGM16418	105404	Spectinomycin
+F / 10	pAGM16429	105405	Spectinomycin
+F / 11	pJOG642	105406	Spectinomycin
+F / 12	pJOG317	105407	Spectinomycin
+G / 1	pJOG331	105408	Spectinomycin
+G / 2	pJOG658	105409	Spectinomycin
+G / 3	pJOG659	105410	Spectinomycin
+G / 4	pJOG643	105411	Spectinomycin
+G / 5	pCK032	105412	Spectinomycin
+G / 6	pTEI037	105413	Spectinomycin
+G / 7	pTEI041	105414	Spectinomycin
+G / 8	pCK025	105415	Spectinomycin
+G / 9	pAGM16841	105416	Spectinomycin
+G / 10	pJOG173	105417	Spectinomycin
+G / 11	pJOG172	105418	Spectinomycin
+G / 12	pJOG171	105419	Spectinomycin
+H / 1	pJOG021	105420	Spectinomycin
+H / 2	pJOG351	105421	Spectinomycin
+H / 3	pJOG031	105422	Spectinomycin
+H / 4	pJOG536	105423	Spectinomycin
+H / 5	pJOG545	105424	Spectinomycin
+H / 6	pCK039	105425	Spectinomycin
+H / 7	pCK038	105426	Spectinomycin
+H / 8	pJOG641	105427	Spectinomycin
+H / 9	pTEI039	105428	Spectinomycin
+H / 10	pCK26	105429	Spectinomycin
+H / 11	pJOG822	105430	Spectinomycin
+H / 12	pJOG587	105431	Spectinomycin
