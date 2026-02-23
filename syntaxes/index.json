@@ -184,7 +184,7 @@
     "kits": [],
     "syntaxes": [
       {
-        "name": "GoldenBraid - Level 1 alpha",
+        "name": "GoldenBraid - Level 1 α",
         "description": "Clone a Transcriptional Unit into an α backbone using BsaI",
         "path": "golden_braid_alpha1.json"
       },
