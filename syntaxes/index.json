@@ -175,5 +175,29 @@
     "description": "An Extension of the Modular Yeast Toolkit for Use in E. coli",
     "plasmid_files": "other_plasmids/ctk",
     "kits": []
+  },
+  {
+    "name": "GoldenBraid",
+    "path": "golden_braid",
+    "description": "Iterative assembly method, popular in plant biology",
+    "plasmid_files": "other_plasmids/golden_braid/gb_starter_kit",
+    "kits": [],
+    "syntaxes": [
+      {
+        "name": "GoldenBraid - Level 1 alpha",
+        "description": "Clone a Transcriptional Unit into an α backbone using BsaI",
+        "path": "golden_braid_alpha1.json"
+      },
+      {
+        "name": "GoldenBraid - Level 2 - 2 α plasmids into Ω backbone",
+        "description": "Combine 2 α plasmids into a Ω backbone using BsmBI",
+        "path": "golden_braid_2alpha_into_omega.json"
+      },
+      {
+        "name": "GoldenBraid - Level 2 - 2 Ω plasmids into α backbone",
+        "description": "Combine 2 Ω plasmids into an α backbone using BsaI",
+        "path": "golden_braid_2omega_into_alpha.json"
+      }
+    ]
   }
 ]

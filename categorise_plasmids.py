@@ -11,6 +11,10 @@ with open('other_plasmids/ctk/plasmid_names.csv', 'r') as f:
     lines = [line.split(',') for line in f.readlines()[1:]]
     ctk_plasmid_names = {plasmid: description for plasmid, _, description, _ in lines}
 
+with open('other_plasmids/golden_braid/gb_starter_kit/plasmid_names.tsv', 'r') as f:
+    lines = [line.split('\t') for line in f.readlines()[1:]]
+    golden_braid_starter_kit_plasmid_names = {plasmid: description for plasmid, description in lines}
+
 
 def merge_syntaxes(syntax_file1: str, syntax_file2: str) -> Syntax:
     syntax1 = Syntax.model_validate_json(open(syntax_file1).read())
@@ -146,6 +150,10 @@ for syntax_entry in index:
                                 plasmid_name = f'{ctk_plasmid_names[plasmid_id]} ({plasmid_name})'
                             elif resp[0]['longest_feature'] is not None:
                                 plasmid_name = f"{resp[0]['longest_feature'].qualifiers['label'][0]} ({plasmid_name})"
+                        elif syntax_path == "golden_braid":
+                            plasmid_id = plasmid_file[:-3]
+                            if plasmid_id in golden_braid_starter_kit_plasmid_names:
+                                plasmid_name = f'{golden_braid_starter_kit_plasmid_names[plasmid_id]} ({plasmid_name})'
 
                         plasmids_to_export.append(
                             {

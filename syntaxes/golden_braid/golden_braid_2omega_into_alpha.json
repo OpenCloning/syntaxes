@@ -1,0 +1,53 @@
+{
+  "syntaxName": "GoldenBraid - 2Ω plasmids + α",
+  "assemblyEnzyme": "BsaI",
+  "domesticationEnzyme": "",
+  "relatedDois": [],
+  "submitters": [],
+  "overhangNames": {
+    "GGAG": "",
+    "GTCA": "",
+    "CGCT": ""
+  },
+  "parts": [
+    {
+      "id": 1,
+      "name": "Ω1",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "GGAG",
+      "right_overhang": "GTCA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#b9e817"
+    },
+    {
+      "id": 2,
+      "name": "Ω2",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "GTCA",
+      "right_overhang": "CGCT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#c27516"
+    },
+    {
+      "id": 3,
+      "name": "α Backbone",
+      "info": "",
+      "glyph": "origin-of-replication",
+      "left_overhang": "CGCT",
+      "right_overhang": "GGAG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "silver"
+    }
+  ]
+}

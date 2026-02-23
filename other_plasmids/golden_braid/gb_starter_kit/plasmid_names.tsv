@@ -1,0 +1,78 @@
+﻿GB0015	pDGB3_alpha1
+GB0016	pDGB3_alpha1R
+GB0017	pDGB3_alpha2
+GB0018	pDGB3_alpha2R
+GB0019	pDGB3_omega1
+GB0020	pDGB3_omega1R
+GB0021	pDGB3_omega2
+GB0022	pDGB3_omega2R
+GB0023	TU for BASTA resistance gene plant expression
+GB0025	CDS of the Blue Fluorescent Protein
+GB0029	Arabidopsis thaliana seed promoter
+GB0030	CaMV 35S promoter
+GB0035	Arabidopsis thaliana heat shock protein 18.2 terminator
+GB0036	CaMV 35S terminator
+GB0037	Agrobacterium tumefaciens terminator
+GB0038	CDS of the Silencing suppressor p19 protein (P19) of Tomato bushy stunt virus (TBSV)
+GB0045	Arabidopsis thaliana Meristem Layer 1 promoter
+GB0050	pMini35s(-60,UTR)
+GB0053	CDS of the Yellow Fluorescent Protein
+GB0056	CDS of the Renilla protein
+GB0064	Promoter Solanum Lycopersicum NH
+GB0067	Tobacco etch virus HcPro protein
+GB0068	N-terminus of the YFP for BiFC
+GB0069	C-terminus of the YFP for BiFC
+GB0072	Agrobacterium tumefaciens Nopaline synthase promoter
+GB0080	Solanum lycopersicum promoter
+GB0082	Solanum lycopersicum fruit promoter
+GB0083	Solanum lycopersicum promoter
+GB0096	 CDS of Luciferase
+GB0100	CDS of the Red fluorescent protein from Discosoma sp.
+GB0106	Twister plasmid to swap inserts from an alpha2 or alpha2R vector to any omega level vector
+GB0107	Twister plasmid to swap inserts from an alpha1 or alpha1R vector to any omega level vector
+GB0109	TU for Renilla Luciferase protein plant expression driven by the 35S promoter
+GB0110	TU for Firefly Luciferase protein plant expression driven by the 35S promoter
+GB0112	TU for Firefly Luciferase Protein plant expression driven by the Nos promoter
+GB0118	LexA Operon
+GB0143	 S. Lycopersicum T2A11 terminator
+GB0144	S. lycopersicum pTE8 terminator
+GB0145	S. Lycopersicum Ubiquitin carrier protein promoter
+GB0153	Arabidopsis thaliana heat shock protein 18.2 promoter
+GB0155	Arabidopsis thaliana heat shock protein 70B promoter
+GB0158	Twister plasmid to swap inserts from an omega2 or omega2R vector to any alpha level vector
+GB0160	Module for the expression of the Renilla Luciferase with the silencing suppressor P19
+GB0179	6xUAS (upstream activating sequence)
+GB0192	Arabidopsis thaliana actin2 gene promoter (without 5' UTR)
+GB0193	5'-untranslated region of Arabidopsis thaliana actin2 gene
+GB0208	CDS of the reporter gene GUS β-glucuronidase from E. coli
+GB0209	TU for the expression of YFP under the regulation of the 35S promoter and Tnos terminator
+GB0210	Terminator of the Act2 gene
+GB0211	CDS of the Hygromycin resistance gene
+GB0219	Terminator of the A. thaliana Ubq3 gene
+GB0222	CaMV dual 35S Promoter
+GB0223	Arabidopsis thaliana polyubiquitin 10 promoter
+GB0226	TU for kanamycin resistance gene plant expression
+GB0235	Transcriptional unit for Hygromycin resistance gene plant expression
+GB0307	New domesticator for level 0 parts with chloramphenicol resistance (pUPD2)
+GB0361	TU for DsRed expression under the regulation of the 35S promoter and Tnos terminator
+GB0466	Twister plasmid to swap inserts from an omega1 or omega1R vector to any alpha level vector
+GB0475	pDGB1_alpha1
+GB0476	pDGB1_alpha2
+GB0477	pDGB1_alpha1R
+GB0478	pDGB1_alpha2R
+GB0479	pDGB1_omega1
+GB0480	pDGB1_omega2
+GB0481	pDGB1_omega1R
+GB0482	pDGB1_omega2R
+GB0534	6XLacI Operon fused to CaMV 35s minimal promoter
+GB0673	LacI binding Domain fused to SRDX (Super Repressor Domain X) Transcriptional repressor
+GB0703	LacI binding Domain fused to BDR Transcriptional repressor
+GB0732	LexA Binding Domain fused to SRDX (Super Repressor Domain X) Transcriptional Repressor
+GB0733	4XLexA Operon fused to CaMV 35s minimal promoter
+GB0734	Gal4 binding domain fused to the BRD (B3 Repression Domain) Transcriptional repressor
+GB0914	Solanum lycopersicum fruit specific promoter
+GB1116	Module for the expression of the Firefly Luciferase, the Renilla Luciferase and the P19 silencing suppressor (standard reference in pCambia for luciferase experiments)
+GB1181	Transcriptional unit for kanamycin resistance gene plant expression under the regulation of the Nos promoter.
+GB1203	TU for the expression of the silencing suppressor P19 driven by the 35s promoter
+GB2237	GFP coding sequence
+GB3549	Construct made to have the nptII selection gene in an omega plasmid.
