@@ -1,6 +1,6 @@
 {
   "syntaxName": "GoldenPiCS - Transcription Unit",
-  "assemblyEnzyme": "BpiI",
+  "assemblyEnzymes": ["BpiI"],
   "domesticationEnzyme": "BsaI",
   "relatedDois": [
     "10.1186/s12918-017-0492-3"

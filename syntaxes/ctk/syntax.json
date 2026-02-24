@@ -1,6 +1,6 @@
 {
   "syntaxName": "The Coli Toolkit (CTK)",
-  "assemblyEnzyme": "BsaI",
+  "assemblyEnzymes": ["BsaI"],
   "domesticationEnzyme": "BsmBI",
   "relatedDois": [
     "10.1021/acssynbio.5c00489"

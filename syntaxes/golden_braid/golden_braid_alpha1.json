@@ -1,6 +1,6 @@
 {
   "syntaxName": "GoldenBraid - Transcriptional Unit into alpha",
-  "assemblyEnzyme": "BsaI",
+  "assemblyEnzymes": ["BsaI"],
   "domesticationEnzyme": "BsaI",
   "relatedDois": [],
   "submitters": [],

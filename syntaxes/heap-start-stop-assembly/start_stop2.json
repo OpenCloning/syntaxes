@@ -1,6 +1,6 @@
 {
   "syntaxName": "Start-Stop Assembly - Level 2",
-  "assemblyEnzyme": "BsaI",
+  "assemblyEnzymes": ["BsaI"],
   "domesticationEnzyme": "",
   "relatedDois": [
     "10.1093/nar/gky1182"

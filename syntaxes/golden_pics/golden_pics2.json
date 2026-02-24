@@ -1,6 +1,6 @@
 {
   "syntaxName": "GoldenPiCS - Multigene Constructs",
-  "assemblyEnzyme": "BsaI",
+  "assemblyEnzymes": ["BsaI"],
   "domesticationEnzyme": "BsaI",
   "relatedDois": [],
   "submitters": [],

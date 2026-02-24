@@ -1,6 +1,6 @@
 {
   "syntaxName": "GoldenBraid - 2 α plasmids + 1 Ω",
-  "assemblyEnzyme": "BsmBI",
+  "assemblyEnzymes": ["BsmBI"],
   "domesticationEnzyme": "BsaI",
   "relatedDois": [],
   "submitters": [],

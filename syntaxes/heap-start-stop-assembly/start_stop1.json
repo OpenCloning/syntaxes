@@ -1,6 +1,6 @@
 {
   "syntaxName": "Start-Stop Assembly - Level 1",
-  "assemblyEnzyme": "SapI",
+  "assemblyEnzymes": ["SapI"],
   "domesticationEnzyme": "",
   "relatedDois": [
     "10.1093/nar/gky1182"

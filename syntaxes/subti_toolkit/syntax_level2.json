@@ -1,6 +1,6 @@
 {
   "syntaxName": "SubtiToolKit - Level 2",
-  "assemblyEnzyme": "BsaI",
+  "assemblyEnzymes": ["BsaI"],
   "domesticationEnzyme": "BpiI",
   "relatedDois": [
     "10.1016/j.tibtech.2025.02.004"
