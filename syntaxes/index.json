@@ -189,8 +189,13 @@
         "path": "golden_braid_alpha1.json"
       },
       {
+        "name": "GoldenBraid - Level 1 Ω",
+        "description": "Clone a Transcriptional Unit into an Ω backbone using BtgZI and BsmBI",
+        "path": "golden_braid_omega1.json"
+      },
+      {
         "name": "GoldenBraid - Level 2 - 2 α plasmids into Ω backbone",
-        "description": "Combine 2 α plasmids into a Ω backbone using BsmBI",
+        "description": "Combine 2 α plasmids into an Ω backbone using BsmBI",
         "path": "golden_braid_2alpha_into_omega.json"
       },
       {

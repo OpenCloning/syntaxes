@@ -158,7 +158,7 @@ for syntax_entry in index:
                         plasmids_to_export.append(
                             {
                                 'type': 'loadedFile',
-                                'plasmid_name': plasmid_name,
+                                'plasmid_name': plasmid_name.replace('\n', '').replace('\r', ''),
                                 'file_name': plasmid_file,
                                 'left_overhang': resp[0]['key'].split('-')[0],
                                 'right_overhang': resp[0]['key'].split('-')[1],

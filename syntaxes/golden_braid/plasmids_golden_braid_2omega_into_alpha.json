@@ -11,7 +11,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "pDGB3_alpha1R\n (pDGB3_alpha1R)",
+        "plasmid_name": "pDGB3_alpha1R (pDGB3_alpha1R)",
         "file_name": "GB0016.gb",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
@@ -21,7 +21,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "pDGB3_alpha2\n (pDGB3_alpha2)",
+        "plasmid_name": "pDGB3_alpha2 (pDGB3_alpha2)",
         "file_name": "GB0017.gb",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
@@ -31,7 +31,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "pDGB3_alpha2R\n (pDGB3_alpha2R)",
+        "plasmid_name": "pDGB3_alpha2R (pDGB3_alpha2R)",
         "file_name": "GB0018.gb",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
@@ -41,7 +41,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "pDGB3_omega1\n (pDGB3_omega1)",
+        "plasmid_name": "pDGB3_omega1 (pDGB3_omega1)",
         "file_name": "GB0019.gb",
         "left_overhang": "GGAG",
         "right_overhang": "GTCA",
@@ -51,7 +51,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "pDGB3_omega1R\n (pDGB3_omega1R)",
+        "plasmid_name": "pDGB3_omega1R (pDGB3_omega1R)",
         "file_name": "GB0020.gb",
         "left_overhang": "GGAG",
         "right_overhang": "GTCA",
@@ -61,7 +61,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "pDGB3_omega2\n (pDGB3_omega2)",
+        "plasmid_name": "pDGB3_omega2 (pDGB3_omega2)",
         "file_name": "GB0021.gb",
         "left_overhang": "GTCA",
         "right_overhang": "CGCT",
@@ -71,7 +71,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "pDGB3_omega2R\n (pDGB3_omega2R)",
+        "plasmid_name": "pDGB3_omega2R (pDGB3_omega2R)",
         "file_name": "GB0022.gb",
         "left_overhang": "GTCA",
         "right_overhang": "CGCT",
@@ -81,7 +81,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "TU for BASTA resistance gene plant expression\n (GB0023)",
+        "plasmid_name": "TU for BASTA resistance gene plant expression (GB0023)",
         "file_name": "GB0023.gb",
         "left_overhang": "GGAG",
         "right_overhang": "CGCT",
@@ -91,7 +91,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "pDGB1_alpha1\n (pDGB1_alpha1)",
+        "plasmid_name": "pDGB1_alpha1 (pDGB1_alpha1)",
         "file_name": "GB0475.gb",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
@@ -101,7 +101,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "pDGB1_alpha2\n (pDGB1_alpha2)",
+        "plasmid_name": "pDGB1_alpha2 (pDGB1_alpha2)",
         "file_name": "GB0476.gb",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
@@ -111,7 +111,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "pDGB1_alpha1R\n (pDGB1_alpha1R)",
+        "plasmid_name": "pDGB1_alpha1R (pDGB1_alpha1R)",
         "file_name": "GB0477.gb",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
@@ -121,7 +121,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "pDGB1_alpha2R\n (pDGB1_alpha2R)",
+        "plasmid_name": "pDGB1_alpha2R (pDGB1_alpha2R)",
         "file_name": "GB0478.gb",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
@@ -131,7 +131,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "pDGB1_omega1\n (pDGB1_omega1)",
+        "plasmid_name": "pDGB1_omega1 (pDGB1_omega1)",
         "file_name": "GB0479.gb",
         "left_overhang": "GGAG",
         "right_overhang": "GTCA",
@@ -141,7 +141,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "pDGB1_omega2\n (pDGB1_omega2)",
+        "plasmid_name": "pDGB1_omega2 (pDGB1_omega2)",
         "file_name": "GB0480.gb",
         "left_overhang": "GTCA",
         "right_overhang": "CGCT",
@@ -151,7 +151,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "pDGB1_omega1R\n (pDGB1_omega1R)",
+        "plasmid_name": "pDGB1_omega1R (pDGB1_omega1R)",
         "file_name": "GB0481.gb",
         "left_overhang": "GGAG",
         "right_overhang": "GTCA",
@@ -161,7 +161,7 @@
     },
     {
         "type": "loadedFile",
-        "plasmid_name": "pDGB1_omega2R\n (pDGB1_omega2R)",
+        "plasmid_name": "pDGB1_omega2R (pDGB1_omega2R)",
         "file_name": "GB0482.gb",
         "left_overhang": "GTCA",
         "right_overhang": "CGCT",
