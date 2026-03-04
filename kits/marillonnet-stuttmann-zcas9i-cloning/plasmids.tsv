@@ -1,0 +1,74 @@
+well	name	addgene_id	resistance
+A / 1	pAGM41991	153219	Spectinomycin
+A / 2	pAGM38869	153220	Spectinomycin
+A / 3	pAGM47523	153221	Spectinomycin
+A / 4	pAGM9037	153225	Spectinomycin
+A / 5	pAGM35171	153222	Ampicillin
+A / 6	pICH67131	153223	Ampicillin
+A / 7	pAGM51323	153224	Ampicillin
+A / 8	pDGE347	153228	Chloramphenicol and Spectinomycin
+A / 9	pDGE651	153229	Chloramphenicol and Spectinomycin
+A / 10	pDGE652	153230	Chloramphenicol and Spectinomycin
+A / 11	pDGE666	153231	Chloramphenicol and Spectinomycin
+A / 12	pDGE667	153232	Chloramphenicol and Spectinomycin
+B / 1	pDGE668	153233	Chloramphenicol and Spectinomycin
+B / 2	pDGE463	153234	Chloramphenicol and Spectinomycin
+B / 3	pDGE669	153235	Chloramphenicol and Spectinomycin
+B / 4	pDGE670	153236	Chloramphenicol and Spectinomycin
+B / 5	pDGE671	153237	Chloramphenicol and Spectinomycin
+B / 6	pDGE672	153238	Chloramphenicol and Spectinomycin
+B / 7	pDGE673	153239	Chloramphenicol and Spectinomycin
+B / 8	pAGM55261	153210	Kanamycin
+B / 9	pAGM55273	153211	Kanamycin
+B / 10	pAGM55285	153212	Kanamycin
+B / 11	pAGM55297	153213	Kanamycin
+B / 12	pAGM65879	153214	Kanamycin
+C / 1	pAGM65881	153215	Kanamycin
+C / 2	pAGM65893	153216	Kanamycin
+C / 3	pAGM65905	153217	Kanamycin
+C / 4	pAGM37443	153218	Kanamycin
+C / 5	pAGM51559	153226	Kanamycin
+C / 6	pAGM55361	153227	Kanamycin
+C / 7	pDGE508	153280	Kanamycin
+C / 8	pDGE509	153281	Kanamycin
+C / 9	pDGE510	153282	Kanamycin
+C / 10	pDGE331	153240	Chloramphenicol and Ampicillin
+C / 11	pDGE332	153241	Chloramphenicol and Ampicillin
+C / 12	pDGE333	153242	Chloramphenicol and Ampicillin
+D / 1	pDGE334	153243	Chloramphenicol and Ampicillin
+D / 2	pDGE335	153244	Chloramphenicol and Ampicillin
+D / 3	pDGE336	153245	Chloramphenicol and Ampicillin
+D / 4	pDGE337	153246	Chloramphenicol and Ampicillin
+D / 5	pDGE495	153247	Chloramphenicol and Ampicillin
+D / 6	pDGE496	153248	Chloramphenicol and Ampicillin
+D / 7	pDGE497	153249	Chloramphenicol and Ampicillin
+D / 8	pDGE341	153250	Chloramphenicol and Ampicillin
+D / 9	pDGE342	153251	Chloramphenicol and Ampicillin
+D / 10	pDGE654	153252	Chloramphenicol and Ampicillin
+D / 11	pDGE655	153253	Chloramphenicol and Ampicillin
+D / 12	pDGE656	153254	Chloramphenicol and Ampicillin
+E / 1	pDGE657	153255	Chloramphenicol and Ampicillin
+E / 2	pDGE658	153256	Chloramphenicol and Ampicillin
+E / 3	pDGE659	153257	Chloramphenicol and Ampicillin
+E / 4	pDGE660	153258	Chloramphenicol and Ampicillin
+E / 5	pDGE661	153259	Chloramphenicol and Ampicillin
+E / 6	pDGE662	153260	Chloramphenicol and Ampicillin
+E / 7	pDGE663	153261	Chloramphenicol and Ampicillin
+E / 8	pDGE664	153262	Chloramphenicol and Ampicillin
+E / 9	pDGE665	153263	Chloramphenicol and Ampicillin
+E / 10	pDGE473	153264	Chloramphenicol and Ampicillin
+E / 11	pDGE474	153265	Chloramphenicol and Ampicillin
+E / 12	pDGE475	153266	Chloramphenicol and Ampicillin
+F / 1	pDGE476	153267	Chloramphenicol and Ampicillin
+F / 2	pDGE477	153268	Chloramphenicol and Ampicillin
+F / 3	pDGE478	153269	Chloramphenicol and Ampicillin
+F / 4	pDGE479	153270	Chloramphenicol and Ampicillin
+F / 5	pDGE498	153271	Chloramphenicol and Ampicillin
+F / 6	pDGE499	153272	Chloramphenicol and Ampicillin
+F / 7	pDGE500	153273	Chloramphenicol and Ampicillin
+F / 8	pDGE501	153274	Chloramphenicol and Ampicillin
+F / 9	pDGE502	153275	Chloramphenicol and Ampicillin
+F / 10	pDGE503	153276	Chloramphenicol and Kanamycin
+F / 11	pDGE504	153277	Chloramphenicol and Kanamycin
+F / 12	pDGE505	153278	Chloramphenicol and Kanamycin
+G / 1	pDGE506	153279	Chloramphenicol and Kanamycin

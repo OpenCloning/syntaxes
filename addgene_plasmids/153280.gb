@@ -1,0 +1,93 @@
+LOCUS       pDGE508                 2045 bp    DNA     circular SYN 15-DEC-2025
+DEFINITION  End-linker for cloning 2 sgRNA arrays into any recipient vector.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+            .
+REFERENCE   1  (bases 1 to 2045)
+  AUTHORS   Stuttmann J, Barthel K, Martin P, Ordon J, Erickson JL, Herr R,
+            Ferik F, Kretschmer C, Berner T, Keilwagen J, Marillonnet S, Bonas U
+  TITLE     Highly efficient multiplex editing: One-shot generation of 8x
+            Nicotiana benthamiana and 12x Arabidopsis mutants.
+  JOURNAL   Plant J. 2021 Feb 12. doi: 10.1111/tpj.15197.
+   PUBMED   33577114
+REFERENCE   2  (bases 1 to 2045)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Dec 15, 2025 from SnapGene Server 8.0.1
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; journalName: "Plant J.
+            2021 Feb 12. doi: 10.1111/tpj.15197."
+            Sequence Label: pDGE508
+FEATURES             Location/Qualifiers
+     source          1..2045
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     primer_bind     252..269
+                     /label="L4440"
+                     /note="L4440 vector, forward primer"
+     primer_bind     complement(399..417)
+                     /label="pBRforEco"
+                     /note="pBR322 vectors, upsteam of EcoRI site, forward
+                     primer"
+     promoter        485..589
+                     /gene="bla"
+                     /label="AmpR promoter"
+     CDS             590..1384
+                     /codon_start=1
+                     /gene="aphA-3"
+                     /product="aminoglycoside phosphotransferase"
+                     /label="KanR"
+                     /note="confers resistance to kanamycin"
+                     /translation="MAKMRISPELKKLIEKYRCVKDTEGMSPAKVYKLVGENENLYLKM
+                     TDSRYKGTTYDVEREKDMMLWLEGKLPVPKVLHFERHDGWSNLLMSEADGVLCSEEYED
+                     EQSPEKIIELYAECIRLFHSIDISDCPYTNSLDSRLAELDYLLNNDLADVDCENWEEDT
+                     PFKDPRELYDFLKTEKPEEELVFSHGDLGDSNIFVKDGKVSGFIDLGRSGRADKWYDIA
+                     FCVRSLREDIGEEQYVELFFDLLGIKPDWEKIKYYILLDELF"
+     rep_origin      join(1555..2045,1..98)
+                     /direction=RIGHT
+                     /label="ori"
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+     primer_bind     join(2044..2045,1..18)
+                     /label="pBR322ori-F"
+                     /note="pBR322 origin, forward primer"
+ORIGIN
+        1 gaaacgcctg gtatctttat agtcctgtcg ggtttcgcca cctctgactt gagcgtcgat
+       61 ttttgtgatg ctcgtcaggg gggcggagcc tatggaaaaa cgccagcaac gcggcctttt
+      121 tacggttcct ggccttttgc tggccttttg ctcacatgtt ctttcctgcg ttatcccctg
+      181 attctgtgga taaccgtatt accgcctttg agtgagctga taccgctcgc cgcagccgaa
+      241 cgaccgagcg cagcgagtca gtgagcgagg aagcggaaga gcgcccaata cgcaaaccgc
+      301 ctctccccgc gcgttggccg attcattaat cactctgtgg tctcacggta taagctttag
+      361 ctttgagacc acgaagtggc tcttcagtgg acgaaagggc ctcgtgatac gcctattttt
+      421 ataggttaat gtcatgataa taatggtttc ttagacgtca ggtggcactt ttcggggaaa
+      481 tgtgcgcgga acccctattt gtttattttt ctaaatacat tcaaatatgt atccgctcat
+      541 gagacaataa ccctgataaa tgcttcaata atattgaaaa aggaagagta tggctaaaat
+      601 gagaatatca ccggaattga aaaaactgat cgaaaaatac cgctgcgtaa aagatacgga
+      661 aggaatgtct cctgctaagg tatataagct ggtgggagaa aatgaaaacc tatatttaaa
+      721 aatgacggac agccggtata aagggaccac ctatgatgtg gaacgggaaa aggacatgat
+      781 gctatggctg gaaggaaagc tgcctgttcc aaaggtcctg cactttgaac ggcatgatgg
+      841 ctggagcaat ctgctcatga gtgaggccga tggcgtcctt tgctcggaag agtatgaaga
+      901 tgaacaaagc cctgaaaaga ttatcgagct gtatgcggag tgcatcaggc tctttcactc
+      961 catcgacata tcggattgtc cctatacgaa tagcttagac agccgcttag ccgaattgga
+     1021 ttacttactg aataacgatc tggccgatgt ggattgcgaa aactgggaag aggacactcc
+     1081 atttaaagat ccgcgcgagc tgtatgattt tttaaagacg gaaaagcccg aagaggaact
+     1141 tgtcttttcc cacggcgacc tgggagacag caacatcttt gtgaaagatg gcaaagtaag
+     1201 tggctttatt gatcttggga gaagcggcag ggcggacaag tggtatgaca ttgccttctg
+     1261 cgtccggtcg ctcagggagg atatcgggga agaacagtat gtcgagctat tttttgactt
+     1321 actggggatc aagcctgatt gggagaaaat aaaatattat attttactgg atgaattgtt
+     1381 ttagctgtca gaccaagttt actcatatat actttagatt gatttaaaac ttcattttta
+     1441 atttaaaagg atctaggtga agatcctttt tgataatctc atgaccaaaa tcccttaacg
+     1501 tgagttttcg ttccactgag cgtcagaccc cgtagaaaag atcaaaggat cttcttgaga
+     1561 tccttttttt ctgcgcgtaa tctgctgctt gcaaacaaaa aaaccaccgc taccagcggt
+     1621 ggtttgtttg ccggatcaag agctaccaac tctttttccg aaggtaactg gcttcagcag
+     1681 agcgcagata ccaaatactg ttcttctagt gtagccgtag ttaggccacc acttcaagaa
+     1741 ctctgtagca ccgcctacat acctcgctct gctaatcctg ttaccagtgg ctgctgccag
+     1801 tggcgataag tcgtgtctta ccgggttgga ctcaagacga tagttaccgg ataaggcgca
+     1861 gcggtcgggc tgaacggggg gttcgtgcac acagcccagc ttggagcgaa cgacctacac
+     1921 cgaactgaga tacctacagc gtgagctatg agaaagcgcc acgcttcccg aagggagaaa
+     1981 ggcggacagg tatccggtaa gcggcagggt cggaacagga gagcgcacga gggagcttcc
+     2041 agggg
+//

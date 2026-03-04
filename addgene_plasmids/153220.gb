@@ -1,0 +1,89 @@
+LOCUS       pAGM38869               2166 bp    DNA     circular SYN 15-DEC-2025
+DEFINITION  Level 0 Arabidopsis U6-promoter vector.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+            .
+REFERENCE   1  (bases 1 to 2166)
+  AUTHORS   Grutzner R, Martin P, Horn C, Mortensen S, Cram EJ, Lee-Parsons CWT,
+            Stuttmann J, Marillonnet S
+  TITLE     High-efficiency genome editing in plants mediated by a Cas9 gene
+            containing multiple introns.
+  JOURNAL   Plant Commun. 2020 Nov 23;2(2):100135. doi:
+            10.1016/j.xplc.2020.100135. eCollection 2021 Mar 8.
+   PUBMED   33898975
+REFERENCE   2  (bases 1 to 2166)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Dec 15, 2025 from SnapGene Server 8.0.1
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; journalName: "Plant
+            Commun."; date: "2020-11-23"; volume: "2(2):100135. doi"; pages: "
+            10.1016/j.xplc.2020.100135. eCollection 2021 Mar 8"
+            Sequence Label: pAGM38869
+FEATURES             Location/Qualifiers
+     source          1..2166
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     CDS             297..1088
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy,
+                     1985)"
+                     /label="SmR"
+                     /note="confers resistance to spectinomycin and
+                     streptomycin"
+                     /translation="MGEAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKPH
+                     SDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYPAK
+                     RELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQDLF
+                     EALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPAQYQP
+                     VILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+     rep_origin      1429..2017
+                     /direction=RIGHT
+                     /label="ori"
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+     primer_bind     1918..1937
+                     /label="pBR322ori-F"
+                     /note="pBR322 origin, forward primer"
+ORIGIN
+        1 cgagaccacg aagtgccgag gcacgaaccc agtggacata agcctgttcg gttcgtaagc
+       61 tgtaatgcaa gtagcgtatg cgctcacgca actggtccag aaccttgacc gaacgcagcg
+      121 gtggtaacgg cgcagtggcg gttttcatgg cttgttatga ctgttttttt ggggtacagt
+      181 ctatgcctcg ggcatccaag cagcaagcgc gttacgccgt gggtcgatgt ttgatgttat
+      241 ggagcagcaa cgatgttacg cagcagggca gtcgccctaa aacaaagtta aacatcatgg
+      301 gggaagcggt gatcgccgaa gtatcgactc aactatcaga ggtagttggc gtcatcgagc
+      361 gccatctcga accgacgttg ctggccgtac atttgtacgg ctccgcagtg gatggcggcc
+      421 tgaagccaca cagcgatatt gatttgctgg ttacggtgac cgtaaggctt gatgaaacaa
+      481 cgcggcgagc tttgatcaac gaccttttgg aaacttcggc ttcccctgga gagagcgaga
+      541 ttctccgcgc tgtagaagtc accattgttg tgcacgacga catcattccg tggcgttatc
+      601 cagctaagcg cgaactgcaa tttggagaat ggcagcgcaa tgacattctt gcaggtatct
+      661 tcgagccagc cacgatcgac attgatctgg ctatcttgct gacaaaagca agagaacata
+      721 gcgttgcctt ggtaggtcca gcggcggagg aactctttga tccggttcct gaacaggatc
+      781 tatttgaggc gctaaatgaa accttaacgc tatggaactc gccgcccgac tgggctggcg
+      841 atgagcgaaa tgtagtgctt acgttgtccc gcatttggta cagcgcagta accggcaaaa
+      901 tcgcgccgaa ggatgtcgct gccgactggg caatggagcg cctgccggcc cagtatcagc
+      961 ccgtcatact tgaagctaga caggcttatc ttggacaaga agaagatcgc ttggcctcgc
+     1021 gcgcagatca gttggaagaa tttgtccatt acgtgaaagg cgagatcacc aaggtagtcg
+     1081 gcaaataatg tctagctaga aattcgttca agccgacgcc gcttcgcggc gcggcttaac
+     1141 tcaagcgtta gatgcactaa gcacataatt gctcacagcc aaactatcag gtcaagtctg
+     1201 cttttattat ttttaagcgt gcataataag ccctacacaa attgggagat atatcatgct
+     1261 gtcagaccaa gtttactcat atatacttta gattgattta aaacttcatt tttaatttaa
+     1321 aaggatctag gtgaagatcc tttttgataa tctcatgacc aaaatccctt aacgtgagtt
+     1381 ttcgttccac tgagcgtcag accccgtaga aaagatcaaa ggatcttctt gagatccttt
+     1441 ttttctgcgc gtaatctgct gcttgcaaac aaaaaaacca ccgctaccag cggtggtttg
+     1501 tttgccggat caagagctac caactctttt tccgaaggta actggcttca gcagagcgca
+     1561 gataccaaat actgttcttc tagtgtagcc gtagttaggc caccacttca agaactctgt
+     1621 agcaccgcct acatacctcg ctctgctaat cctgttacca gtggctgctg ccagtggcga
+     1681 taagtcgtgt cttaccgggt tggactcaag acgatagtta ccggataagg cgcagcggtc
+     1741 gggctgaacg gggggttcgt gcacacagcc cagcttggag cgaacgacct acaccgaact
+     1801 gagataccta cagcgtgagc tatgagaaag cgccacgctt cccgaaggga gaaaggcgga
+     1861 caggtatccg gtaagcggca gggtcggaac aggagagcgc acgagggagc ttccaggggg
+     1921 aaacgcctgg tatctttata gtcctgtcgg gtttcgccac ctctgacttg agcgtcgatt
+     1981 tttgtgatgc tcgtcagggg ggcggagcct atggaaaaac gccagcaacg cggccttttt
+     2041 acggttcctg cactctgtgg tctcaggagg cccatttaag ttgaaaacaa tcttcaaaag
+     2101 tcccacatcg cttagataag aaaacgaagc tgagtttata tacagctaga gtcgaagtag
+     2161 tgattg
+//
