@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "plasmid_name": "pICH47732 (forward TU)",
+        "plasmid_name": "pICH47732 (Pos 1 - forward TU)",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
         "key": "CGCT-GGAG",
@@ -15,7 +15,7 @@
     },
     {
         "id": 2,
-        "plasmid_name": "pICH47742 (forward TU)",
+        "plasmid_name": "pICH47742 (Pos 2 - forward TU)",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
         "key": "CGCT-GGAG",
@@ -29,7 +29,7 @@
     },
     {
         "id": 3,
-        "plasmid_name": "pICH47751 (forward TU)",
+        "plasmid_name": "pICH47751 (Pos 3 - forward TU)",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
         "key": "CGCT-GGAG",
@@ -43,7 +43,7 @@
     },
     {
         "id": 4,
-        "plasmid_name": "pICH47761 (forward TU)",
+        "plasmid_name": "pICH47761 (Pos 4 - forward TU)",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
         "key": "CGCT-GGAG",
@@ -57,7 +57,7 @@
     },
     {
         "id": 5,
-        "plasmid_name": "pICH47772 (forward TU)",
+        "plasmid_name": "pICH47772 (Pos 5 - forward TU)",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
         "key": "CGCT-GGAG",
@@ -71,7 +71,7 @@
     },
     {
         "id": 6,
-        "plasmid_name": "pICH47781 (forward TU)",
+        "plasmid_name": "pICH47781 (Pos 6 - forward TU)",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
         "key": "CGCT-GGAG",
@@ -99,7 +99,7 @@
     },
     {
         "id": 8,
-        "plasmid_name": "pICH47802 (reverse TU)",
+        "plasmid_name": "pICH47802 (Pos 1 - reverse TU)",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
         "key": "CGCT-GGAG",
@@ -113,7 +113,7 @@
     },
     {
         "id": 9,
-        "plasmid_name": "pICH47811 (reverse TU)",
+        "plasmid_name": "pICH47811 (Pos 2 - reverse TU)",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
         "key": "CGCT-GGAG",
@@ -127,7 +127,7 @@
     },
     {
         "id": 10,
-        "plasmid_name": "pICH47822 (reverse TU)",
+        "plasmid_name": "pICH47822 (Pos 3 - reverse TU)",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
         "key": "CGCT-GGAG",
@@ -141,7 +141,7 @@
     },
     {
         "id": 11,
-        "plasmid_name": "pICH47831 (reverse TU)",
+        "plasmid_name": "pICH47831 (Pos 4 - reverse TU)",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
         "key": "CGCT-GGAG",
@@ -155,7 +155,7 @@
     },
     {
         "id": 12,
-        "plasmid_name": "pICH47841 (reverse TU)",
+        "plasmid_name": "pICH47841 (Pos 5 - reverse TU)",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
         "key": "CGCT-GGAG",
@@ -169,7 +169,7 @@
     },
     {
         "id": 13,
-        "plasmid_name": "pICH47852 (reverse TU)",
+        "plasmid_name": "pICH47852 (Pos 6 - reverse TU)",
         "left_overhang": "CGCT",
         "right_overhang": "GGAG",
         "key": "CGCT-GGAG",

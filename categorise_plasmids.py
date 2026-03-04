@@ -31,7 +31,6 @@ def merge_syntaxes(syntax_file1: str, syntax_file2: str) -> Syntax:
 
 index_file = os.path.join("syntaxes", "index.json")
 index = json.load(open(index_file))
-index = index[-1:]
 
 for syntax_entry in index:
     # Load the syntax
