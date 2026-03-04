@@ -365,7 +365,7 @@
     },
     {
         "id": 27,
-        "plasmid_name": "\"pPOM034_P7_3\"\"Lys3\" (3'Lys3)",
+        "plasmid_name": "pPOM034_P7_3\"Lys3 (3'Lys3)",
         "left_overhang": "GAGT",
         "right_overhang": "CCGA",
         "key": "GAGT-CCGA",
@@ -393,7 +393,7 @@
     },
     {
         "id": 29,
-        "plasmid_name": "\"pPOM036_P7_3\"\"Ura4\" (3'Ura4)",
+        "plasmid_name": "pPOM036_P7_3\"Ura4 (3'Ura4)",
         "left_overhang": "GAGT",
         "right_overhang": "CCGA",
         "key": "GAGT-CCGA",

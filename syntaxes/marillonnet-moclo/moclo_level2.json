@@ -1,0 +1,207 @@
+{
+  "syntaxName": "MoClo - Level 2",
+  "assemblyEnzymes": [
+    "BpiI"
+  ],
+  "domesticationEnzyme": "BpiI",
+  "relatedDois": [
+    "10.1371/journal.pone.0016765"
+  ],
+  "submitters": [
+    "0000-0002-8666-9746"
+  ],
+  "overhangNames": {
+    "TGCC": "",
+    "GCAA": "",
+    "ACTA": "",
+    "TTAC": "",
+    "CAGA": "",
+    "TGTG": "",
+    "GAGC": "",
+    "GGGA": ""
+  },
+  "parts": [
+    {
+      "id": 1,
+      "name": "1",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "TGCC",
+      "right_overhang": "GCAA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#a65287"
+    },
+    {
+      "id": 2,
+      "name": "2",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "GCAA",
+      "right_overhang": "ACTA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#e987b4"
+    },
+    {
+      "id": 3,
+      "name": "3",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "ACTA",
+      "right_overhang": "TTAC",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#195615"
+    },
+    {
+      "id": 4,
+      "name": "4",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "TTAC",
+      "right_overhang": "CAGA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "pink"
+    },
+    {
+      "id": 5,
+      "name": "5",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "CAGA",
+      "right_overhang": "TGTG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#00BF8C"
+    },
+    {
+      "id": 6,
+      "name": "6",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "TGTG",
+      "right_overhang": "GAGC",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#812cb4"
+    },
+    {
+      "id": 7,
+      "name": "7 / EL6",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "GAGC",
+      "right_overhang": "GGGA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#76b532"
+    },
+    {
+      "name": "Backbone",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "GGGA",
+      "right_overhang": "TGCC",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#46807c",
+      "id": 8
+    },
+    {
+      "name": "EL2",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "ACTA",
+      "right_overhang": "GGGA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#be623f",
+      "id": 9
+    },
+    {
+      "name": "EL1",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "GCAA",
+      "right_overhang": "GGGA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#c084f5",
+      "id": 10
+    },
+    {
+      "name": "EL3",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "TTAC",
+      "right_overhang": "GGGA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "cyan",
+      "id": 11
+    },
+    {
+      "name": "EL4",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "CAGA",
+      "right_overhang": "GGGA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#0092BF",
+      "id": 12
+    },
+    {
+      "name": "EL5",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "TGTG",
+      "right_overhang": "GGGA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#87ddf3",
+      "id": 13
+    },
+    {
+      "name": "EL7",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "TGCC",
+      "right_overhang": "GGGA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#219653",
+      "id": 14
+    }
+  ]
+}

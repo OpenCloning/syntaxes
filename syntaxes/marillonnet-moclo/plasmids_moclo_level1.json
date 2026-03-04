@@ -1,0 +1,1402 @@
+[
+    {
+        "id": 1,
+        "plasmid_name": "pICH47732 (forward TU)",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48000"
+        }
+    },
+    {
+        "id": 2,
+        "plasmid_name": "pICH47742 (forward TU)",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48001"
+        }
+    },
+    {
+        "id": 3,
+        "plasmid_name": "pICH47751 (forward TU)",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48002"
+        }
+    },
+    {
+        "id": 4,
+        "plasmid_name": "pICH47761 (forward TU)",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48003"
+        }
+    },
+    {
+        "id": 5,
+        "plasmid_name": "pICH47772 (forward TU)",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48004"
+        }
+    },
+    {
+        "id": 6,
+        "plasmid_name": "pICH47781 (forward TU)",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48005"
+        }
+    },
+    {
+        "id": 7,
+        "plasmid_name": "pICH47791 (forward TU)",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48006"
+        }
+    },
+    {
+        "id": 8,
+        "plasmid_name": "pICH47802 (reverse TU)",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48007"
+        }
+    },
+    {
+        "id": 9,
+        "plasmid_name": "pICH47811 (reverse TU)",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48008"
+        }
+    },
+    {
+        "id": 10,
+        "plasmid_name": "pICH47822 (reverse TU)",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48009"
+        }
+    },
+    {
+        "id": 11,
+        "plasmid_name": "pICH47831 (reverse TU)",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48010"
+        }
+    },
+    {
+        "id": 12,
+        "plasmid_name": "pICH47841 (reverse TU)",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48011"
+        }
+    },
+    {
+        "id": 13,
+        "plasmid_name": "pICH47852 (reverse TU)",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48012"
+        }
+    },
+    {
+        "id": 14,
+        "plasmid_name": "pICH47861 (reverse TU)",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48013"
+        }
+    },
+    {
+        "id": 15,
+        "plasmid_name": "pICH86966",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48075"
+        }
+    },
+    {
+        "id": 16,
+        "plasmid_name": "pICH86988",
+        "left_overhang": "GCTT",
+        "right_overhang": "AATG",
+        "key": "GCTT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48076"
+        }
+    },
+    {
+        "id": 17,
+        "plasmid_name": "pAGT707 (5'UTR, \u03a9 (Tobacco Mosaic Virus))",
+        "left_overhang": "TACT",
+        "right_overhang": "CCAT",
+        "key": "TACT-CCAT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "51835"
+        }
+    },
+    {
+        "id": 18,
+        "plasmid_name": "pICH71411 (3'UTR, polyadenylation signal/terminator, RbcS3C (S. lycopersicum))",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50345"
+        }
+    },
+    {
+        "id": 19,
+        "plasmid_name": "pICH71431 (3'UTR, polyadenylation signal/terminator, ATPase (S. lycopersicum))",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50344"
+        }
+    },
+    {
+        "id": 20,
+        "plasmid_name": "pICH41432 (3'UTR, polyadenylation signal/terminator, ocs (A. tumefaciens))",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50343"
+        }
+    },
+    {
+        "id": 21,
+        "plasmid_name": "pICH77911 (3'UTR, polyadenylation signal/terminator, ags (A. tumefaciens))",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50342"
+        }
+    },
+    {
+        "id": 22,
+        "plasmid_name": "pICH77901 (3'UTR, polyadenylation signal/terminator, mas (A. tumefaciens))",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50341"
+        }
+    },
+    {
+        "id": 23,
+        "plasmid_name": "pICH44300 (3'UTR, polyadenylation signal/terminator, act2 (A. thaliana))",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50340"
+        }
+    },
+    {
+        "id": 24,
+        "plasmid_name": "pICH41421 (3'UTR, polyadenylation signal/terminator, nos (A. tumefaciens))",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50339"
+        }
+    },
+    {
+        "id": 25,
+        "plasmid_name": "pICH72400 (3'UTR, polyadenylation signal/terminator, Atug7 (A. tumefaciens))",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50338"
+        }
+    },
+    {
+        "id": 26,
+        "plasmid_name": "pICH41414 (3'UTR, polyadenylation signal/terminator, 35s (Cauliflower Mosaic Virus))",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50337"
+        }
+    },
+    {
+        "id": 27,
+        "plasmid_name": "pICSL70008 (pFAST-R selection cassette (monomeric tagRFP from E. quadricolor fused to the coding sequence of OLE1 (A. thaliana))",
+        "left_overhang": "GGAG",
+        "right_overhang": "CGCT",
+        "key": "GGAG-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50336"
+        }
+    },
+    {
+        "id": 28,
+        "plasmid_name": "pICSL70005 (bialaphos resistance cassette (Nos promoter (A. tumefaciens) + phosphinothricin acetyl transferase (S. hygroscopicus) + Nos terminator from (A. tumefaciens)))",
+        "left_overhang": "GGAG",
+        "right_overhang": "CGCT",
+        "key": "GGAG-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50335"
+        }
+    },
+    {
+        "id": 29,
+        "plasmid_name": "pICSL70004 (kanamycin/neomycin/paromomycin resistance cassette (Nos promoter (A. tumefaciens) + NptII (E.coli) + Ocs terminator (A. tumefaciens)))",
+        "left_overhang": "GGAG",
+        "right_overhang": "CGCT",
+        "key": "GGAG-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50334"
+        }
+    },
+    {
+        "id": 30,
+        "plasmid_name": "pICSL70002 (BASTA resistance cassette (Act2 promoter (A. thaliana) + BirA (E.coli) + 35s terminator (Cauliflower Mosaic Virus)))",
+        "left_overhang": "GGAG",
+        "right_overhang": "CGCT",
+        "key": "GGAG-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50333"
+        }
+    },
+    {
+        "id": 31,
+        "plasmid_name": "pICSL80016 (CDS no stop codon, \u03b2-glucuronidase (E. coli) with two introns)",
+        "left_overhang": "AATG",
+        "right_overhang": "TTCG",
+        "key": "AATG-TTCG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50332"
+        }
+    },
+    {
+        "id": 32,
+        "plasmid_name": "pICSL80012 (CDS, YFP variant of GFP (A. victoria))",
+        "left_overhang": "AGGT",
+        "right_overhang": "GCTT",
+        "key": "AGGT-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50331"
+        }
+    },
+    {
+        "id": 33,
+        "plasmid_name": "pICH44022 (CDS, P19 suppressor of gene silencing (Tomato Bushy Stunt Virus))",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50330"
+        }
+    },
+    {
+        "id": 34,
+        "plasmid_name": "pICH42222 (CDS, phosphinothricin acetyl transferase, (S. hygroscopicus))",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50328"
+        }
+    },
+    {
+        "id": 35,
+        "plasmid_name": "pICH75111 (CDS, \u03b2-glucuronidase (E. coli) with two introns)",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50327"
+        }
+    },
+    {
+        "id": 36,
+        "plasmid_name": "pICSL80001 (CDS, luciferase (P. pyralis))",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50326"
+        }
+    },
+    {
+        "id": 37,
+        "plasmid_name": "pICSL80004 (CDS, plant codon-optimsed variant of turbo RFP (Entacmaea quadricolor))",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50325"
+        }
+    },
+    {
+        "id": 38,
+        "plasmid_name": "pICH49477 (CDS, DsRed variant of RFP (Discosoma sp.))",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50324"
+        }
+    },
+    {
+        "id": 39,
+        "plasmid_name": "pICSL80007 (CDS, mCherry variant of RFP (Discosoma sp.))",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50323"
+        }
+    },
+    {
+        "id": 40,
+        "plasmid_name": "pICSL80005 (CDS, variant of turboGFP codon-optimised for plants (Pontellina plumata))",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50322"
+        }
+    },
+    {
+        "id": 41,
+        "plasmid_name": "pICH41531 (CDS, GFP (A. victoria))",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50321"
+        }
+    },
+    {
+        "id": 42,
+        "plasmid_name": "pICSL80014 (CDS, YFP variant of GFP (A. victoria))",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50320"
+        }
+    },
+    {
+        "id": 43,
+        "plasmid_name": "pICSL50006 (CDS, luciferase (Photinus pyralis))",
+        "left_overhang": "TTCG",
+        "right_overhang": "GCTT",
+        "key": "TTCG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50319"
+        }
+    },
+    {
+        "id": 44,
+        "plasmid_name": "pICSL50015 (CDS, mNEON (Branchistoma lanceolatum))",
+        "left_overhang": "TTCG",
+        "right_overhang": "GCTT",
+        "key": "TTCG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50318"
+        }
+    },
+    {
+        "id": 45,
+        "plasmid_name": "pICSL50011 (CDS, EOS photoactivatable fluorescent protein (L. hemprichii))",
+        "left_overhang": "TTCG",
+        "right_overhang": "GCTT",
+        "key": "TTCG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50317"
+        }
+    },
+    {
+        "id": 46,
+        "plasmid_name": "pICSL50004 (CDS, mCherry variant of RFP (Discosoma sp.))",
+        "left_overhang": "TTCG",
+        "right_overhang": "GCTT",
+        "key": "TTCG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50316"
+        }
+    },
+    {
+        "id": 47,
+        "plasmid_name": "pICSL50016 (CDS, variant of turboGFP codon-optimised for plants (P. plumata) with intron, U5 small nuclear ribonucleoprotein component  (A. thaliana)36)",
+        "left_overhang": "TTCG",
+        "right_overhang": "GCTT",
+        "key": "TTCG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50315"
+        }
+    },
+    {
+        "id": 48,
+        "plasmid_name": "pICSL50008 (CDS, GFP (A. victoria))",
+        "left_overhang": "TTCG",
+        "right_overhang": "GCTT",
+        "key": "TTCG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50314"
+        }
+    },
+    {
+        "id": 49,
+        "plasmid_name": "pICSL50014 (C terminal HBP tag (HA-PreScission-Biotin))",
+        "left_overhang": "TTCG",
+        "right_overhang": "GCTT",
+        "key": "TTCG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50313"
+        }
+    },
+    {
+        "id": 50,
+        "plasmid_name": "pICSL50013 (C terminal T7 tag (bacteriophage T7 gene 10))",
+        "left_overhang": "TTCG",
+        "right_overhang": "GCTT",
+        "key": "TTCG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50312"
+        }
+    },
+    {
+        "id": 51,
+        "plasmid_name": "pICSL50012 (C terminal V5 tag (Simian Virus 5))",
+        "left_overhang": "TTCG",
+        "right_overhang": "GCTT",
+        "key": "TTCG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50311"
+        }
+    },
+    {
+        "id": 52,
+        "plasmid_name": "pICSL50010 (C terminal Myc tag (4x Myc))",
+        "left_overhang": "TTCG",
+        "right_overhang": "GCTT",
+        "key": "TTCG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50310"
+        }
+    },
+    {
+        "id": 53,
+        "plasmid_name": "pICSL50009 (C terminal HA tag (6x Human influenza hemagglutinin))",
+        "left_overhang": "TTCG",
+        "right_overhang": "GCTT",
+        "key": "TTCG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50309"
+        }
+    },
+    {
+        "id": 54,
+        "plasmid_name": "pICSL50007 (C terminal FLAG tag (3xFLAG octapeptide))",
+        "left_overhang": "TTCG",
+        "right_overhang": "GCTT",
+        "key": "TTCG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50308"
+        }
+    },
+    {
+        "id": 55,
+        "plasmid_name": "pICH37431 (signal peptide, RAmy3A (O. sativa))",
+        "left_overhang": "AATG",
+        "right_overhang": "AGGT",
+        "key": "AATG-AGGT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50306"
+        }
+    },
+    {
+        "id": 56,
+        "plasmid_name": "pICSL30010 (CDS no stop codon, mEOS2 photoactivatable fluorescent protein (Lobophyllia hemprichii))",
+        "left_overhang": "CCAT",
+        "right_overhang": "AATG",
+        "key": "CCAT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50305"
+        }
+    },
+    {
+        "id": 57,
+        "plasmid_name": "pICSL30003 (CDS, no stop codon, mCherry variant of RFP (Discosoma sp.))",
+        "left_overhang": "CCAT",
+        "right_overhang": "AATG",
+        "key": "CCAT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50304"
+        }
+    },
+    {
+        "id": 58,
+        "plasmid_name": "pICSL30006 (CDS no stop codon, GFP (A. victoria))",
+        "left_overhang": "CCAT",
+        "right_overhang": "AATG",
+        "key": "CCAT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50303"
+        }
+    },
+    {
+        "id": 59,
+        "plasmid_name": "pICSL30004 (CDS no stop codon, YFP variant of GFP (Aequorea victoria))",
+        "left_overhang": "CCAT",
+        "right_overhang": "AATG",
+        "key": "CCAT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50302"
+        }
+    },
+    {
+        "id": 60,
+        "plasmid_name": "pICSL30009 (N terminal Myc tag (4x Myc))",
+        "left_overhang": "CCAT",
+        "right_overhang": "AATG",
+        "key": "CCAT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50301"
+        }
+    },
+    {
+        "id": 61,
+        "plasmid_name": "pICSL30005 (N terminal FLAG tag (3x FLAG octapeptide))",
+        "left_overhang": "CCAT",
+        "right_overhang": "AATG",
+        "key": "CCAT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50299"
+        }
+    },
+    {
+        "id": 62,
+        "plasmid_name": "pAGM1467 (5'UTR, \u03a9 (Tobacco Mosaic Virus)  + HIS tag + enterokinase  (EK) cleavage site)",
+        "left_overhang": "TACT",
+        "right_overhang": "AATG",
+        "key": "TACT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50298"
+        }
+    },
+    {
+        "id": 63,
+        "plasmid_name": "pAGM5343 (5'UTR, \u03a9 (Tobacco Mosaic Virus)  + signal peptide, RAmy3A (O. sativa) + HIS tag)",
+        "left_overhang": "TACT",
+        "right_overhang": "AATG",
+        "key": "TACT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50297"
+        }
+    },
+    {
+        "id": 64,
+        "plasmid_name": "pAGM5355 (5'UTR, \u03a9 (Tobacco Mosaic Virus) + chloroplast transit peptide, RbcS (synthetic) + HIS tag)",
+        "left_overhang": "TACT",
+        "right_overhang": "AATG",
+        "key": "TACT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50296"
+        }
+    },
+    {
+        "id": 65,
+        "plasmid_name": "pAGM1482 (5'UTR, \u03a9 (Tobacco Mosaic Virus)  + mitochondrial localisation signal ScCoxIV (Saccharomyces cerevisiae))",
+        "left_overhang": "TACT",
+        "right_overhang": "AATG",
+        "key": "TACT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50295"
+        }
+    },
+    {
+        "id": 66,
+        "plasmid_name": "pAGM5331 (5'UTR, \u03a9 (Tobacco Mosaic Virus) + nuclear localisation signal (Simian Virus40))",
+        "left_overhang": "TACT",
+        "right_overhang": "AATG",
+        "key": "TACT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50294"
+        }
+    },
+    {
+        "id": 67,
+        "plasmid_name": "pICH78141 (5'UTR, \u03a9 (Tobacco Mosaic Virus) + signal peptide, RAmy3A (Oryza sativa))",
+        "left_overhang": "TACT",
+        "right_overhang": "AATG",
+        "key": "TACT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50293"
+        }
+    },
+    {
+        "id": 68,
+        "plasmid_name": "pICH78133 (5'UTR, \u03a9 (Tobacco Mosaic Virus) + chloroplast transit peptide, RbcS (synthetic))",
+        "left_overhang": "TACT",
+        "right_overhang": "AATG",
+        "key": "TACT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50292"
+        }
+    },
+    {
+        "id": 69,
+        "plasmid_name": "pAGM1479 (5'UTR, \u03a9 (Tobacco Mosaic Virus) + N-terminal HIS tag (6x polyhistidine))",
+        "left_overhang": "TACT",
+        "right_overhang": "AATG",
+        "key": "TACT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50291"
+        }
+    },
+    {
+        "id": 70,
+        "plasmid_name": "pICH44179 (5' UTR, RbcS2B (AT5g38420, A. thaliana))",
+        "left_overhang": "TACT",
+        "right_overhang": "AATG",
+        "key": "TACT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50290"
+        }
+    },
+    {
+        "id": 71,
+        "plasmid_name": "pICH44188 (5'UTR BSMV (Barley Stripe Mosaic Virus))",
+        "left_overhang": "TACT",
+        "right_overhang": "AATG",
+        "key": "TACT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50289"
+        }
+    },
+    {
+        "id": 72,
+        "plasmid_name": "pICH44233 (5'UTR CMV2 (Cucumber Mosaic Virus))",
+        "left_overhang": "TACT",
+        "right_overhang": "AATG",
+        "key": "TACT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50288"
+        }
+    },
+    {
+        "id": 73,
+        "plasmid_name": "pICH44222 (5'UTR CMV1 (Cucumber Mosaic Virus))",
+        "left_overhang": "TACT",
+        "right_overhang": "AATG",
+        "key": "TACT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50287"
+        }
+    },
+    {
+        "id": 74,
+        "plasmid_name": "pICH44199 (5'UTR, \u03a9 (Potato Virus X))",
+        "left_overhang": "TACT",
+        "right_overhang": "AATG",
+        "key": "TACT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50286"
+        }
+    },
+    {
+        "id": 75,
+        "plasmid_name": "pICH41402 (5'UTR, \u03a9 (Tobacco Mosaic Virus))",
+        "left_overhang": "TACT",
+        "right_overhang": "AATG",
+        "key": "TACT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50285"
+        }
+    },
+    {
+        "id": 76,
+        "plasmid_name": "pICH71311 (promoter and 5'UTR, RbcS3A (S. lycopersicum))",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50282"
+        }
+    },
+    {
+        "id": 77,
+        "plasmid_name": "pICH71301 (promoter and 5'UTR, RbcS2 (S. lycopersicum))",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50281"
+        }
+    },
+    {
+        "id": 78,
+        "plasmid_name": "pICH71292 (promoter and 5'UTR, RbcS2 (S. lycopersicum))",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50280"
+        }
+    },
+    {
+        "id": 79,
+        "plasmid_name": "pICH87655 (promoter, cab2 (AT1g29930, A. thaliana) and 5'UTR, \u03a9 (Tobacco Mosaic Virus))",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50279"
+        }
+    },
+    {
+        "id": 80,
+        "plasmid_name": "pICH45214 (promoter + 5' UTR, LHB1B1 (AT2g34430, A. thaliana))",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50278"
+        }
+    },
+    {
+        "id": 81,
+        "plasmid_name": "pICH45195 (promoter + 5' UTR, RbcS2B (AT5g38420, A. thaliana))",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50275"
+        }
+    },
+    {
+        "id": 82,
+        "plasmid_name": "pICH87644 (promoter, act2 (AT3G18780, A. thaliana) and 5'UTR, \u03a9 (Tobacco Mosaic Virus))",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50274"
+        }
+    },
+    {
+        "id": 83,
+        "plasmid_name": "pICH88103 (Promoter + 5'UTR, ocs, (A. tumefaciens) + 5'UTR)",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50273"
+        }
+    },
+    {
+        "id": 84,
+        "plasmid_name": "pICH85281 (Promoter + 5'UTR, mas, (A. tumefaciens) + 5'UTR)",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50272"
+        }
+    },
+    {
+        "id": 85,
+        "plasmid_name": "pICH87633 (promoter, nos, (Agrobacterium tumefaciens) + 5'UTR, \u03a9 (Tobacco Mosaic Virus))",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50271"
+        }
+    },
+    {
+        "id": 86,
+        "plasmid_name": "pICSL12006 (promoter + 5'UTR (Cassava Vein Mosaic Virus))",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50270"
+        }
+    },
+    {
+        "id": 87,
+        "plasmid_name": "pICH51288 (promoter (double), 35s (Cauliflower Mosaic Virus) + 5'UTR, \u03a9 (Tobacco Mosaic Virus))",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50269"
+        }
+    },
+    {
+        "id": 88,
+        "plasmid_name": "pICH51266 (promoter (1.3 kb ), 35s (Cauliflower Mosaic Virus) + 5'UTR \u03a9 (Tobacco Mosaic Virus))",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50267"
+        }
+    },
+    {
+        "id": 89,
+        "plasmid_name": "pICSL13002 (promoter (0.4 kb ) + 5'UTR, 35s (Cauliflower Mosaic Virus))",
+        "left_overhang": "GGAG",
+        "right_overhang": "CCAT",
+        "key": "GGAG-CCAT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50266"
+        }
+    },
+    {
+        "id": 90,
+        "plasmid_name": "pICSL13001 (promoter (1.3 kb) + 5'UTR, 35s (Cauliflower Mosaic Virus))",
+        "left_overhang": "GGAG",
+        "right_overhang": "CCAT",
+        "key": "GGAG-CCAT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50265"
+        }
+    },
+    {
+        "id": 91,
+        "plasmid_name": "pICH45131 (promoter, LHB1B2 (AT2g34420, A. thaliana))",
+        "left_overhang": "GGAG",
+        "right_overhang": "TACT",
+        "key": "GGAG-TACT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50262"
+        }
+    },
+    {
+        "id": 92,
+        "plasmid_name": "pICH45125 (promoter, LHB1B1 (AT2g34430, A. thaliana))",
+        "left_overhang": "GGAG",
+        "right_overhang": "TACT",
+        "key": "GGAG-TACT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50261"
+        }
+    },
+    {
+        "id": 93,
+        "plasmid_name": "pICH45173 (promoter, RbcS1B (AT5g38430, A. thaliana))",
+        "left_overhang": "GGAG",
+        "right_overhang": "TACT",
+        "key": "GGAG-TACT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50259"
+        }
+    },
+    {
+        "id": 94,
+        "plasmid_name": "pICH44157 (promoter, RbcS2B (AT5g38420, A. thaliana))",
+        "left_overhang": "GGAG",
+        "right_overhang": "TACT",
+        "key": "GGAG-TACT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50258"
+        }
+    },
+    {
+        "id": 95,
+        "plasmid_name": "pICH42760 (promoter, spm (Z. mays))",
+        "left_overhang": "GGAG",
+        "right_overhang": "TACT",
+        "key": "GGAG-TACT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50257"
+        }
+    },
+    {
+        "id": 96,
+        "plasmid_name": "pICH50581 (promoter, act2 (AT3G18780, Arabidopsis thaliana))",
+        "left_overhang": "GGAG",
+        "right_overhang": "TACT",
+        "key": "GGAG-TACT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50256"
+        }
+    },
+    {
+        "id": 97,
+        "plasmid_name": "pICH42211 (promoter nos (A. tumefaciens))",
+        "left_overhang": "GGAG",
+        "right_overhang": "TACT",
+        "key": "GGAG-TACT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50255"
+        }
+    },
+    {
+        "id": 98,
+        "plasmid_name": "pICH45089 (promoter (double), 35s (Cauliflower Mosaic Virus))",
+        "left_overhang": "GGAG",
+        "right_overhang": "TACT",
+        "key": "GGAG-TACT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50254"
+        }
+    },
+    {
+        "id": 99,
+        "plasmid_name": "pICH41388 (promoter (0.4 kb), 35s (Cauliflower Mosaic Virus))",
+        "left_overhang": "GGAG",
+        "right_overhang": "TACT",
+        "key": "GGAG-TACT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50253"
+        }
+    },
+    {
+        "id": 100,
+        "plasmid_name": "pICH41373 (promoter (1.3 kb), 35s (Cauliflower Mosaic Virus))",
+        "left_overhang": "GGAG",
+        "right_overhang": "TACT",
+        "key": "GGAG-TACT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "50252"
+        }
+    }
+]

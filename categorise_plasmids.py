@@ -6,6 +6,7 @@ import shutil
 import glob
 import re
 import warnings
+import pandas
 
 with open('other_plasmids/ctk/plasmid_names.csv', 'r') as f:
     lines = [line.split(',') for line in f.readlines()[1:]]
@@ -30,6 +31,7 @@ def merge_syntaxes(syntax_file1: str, syntax_file2: str) -> Syntax:
 
 index_file = os.path.join("syntaxes", "index.json")
 index = json.load(open(index_file))
+index = index[-1:]
 
 for syntax_entry in index:
     # Load the syntax
@@ -51,8 +53,10 @@ for syntax_entry in index:
         syntax_files = [
             os.path.join("syntaxes", syntax_entry["path"], syntax["path"]) for syntax in syntax_entry["syntaxes"]
         ]
+        syntax_entries = syntax_entry["syntaxes"]
     else:
         syntax_files = [syntax_file]
+        syntax_entries = [syntax_entry]
 
     if len(syntax_entry["kits"]) > 0:
         for syntax_index, syntax_file in enumerate(syntax_files):
@@ -64,13 +68,16 @@ for syntax_entry in index:
                 associated_kit: dict
                 kit_path = os.path.join("kits", associated_kit["kit"])
                 plasmid_names = associated_kit.get("names", None)
+                exclude_plasmids = syntax_entries[syntax_index].get("exclude", None)
                 associated_plasmids_tsv = os.path.join(kit_path, "plasmids.tsv")
-                associated_plasmids_tsv_lines = open(associated_plasmids_tsv).readlines()
-                for line in associated_plasmids_tsv_lines[1:]:
-                    ls = line.split("\t")
-                    well, name, addgene_id, resistance = ls[:4]
-                    content = '' if len(ls) < 5 else ls[4]
+                df = pandas.read_csv(associated_plasmids_tsv, sep="\t", dtype=str)
+                df = df.fillna("")
+                for _i, row in df.iterrows():
+                    name, addgene_id = row["name"], row["addgene_id"]
+                    content = row["content"] if "content" in row else ""
                     if plasmid_names is not None and name not in plasmid_names:
+                        continue
+                    if exclude_plasmids is not None and name in exclude_plasmids:
                         continue
                     content = content.strip()
                     seq = parse(f'addgene_plasmids/{addgene_id}.gb')[0]

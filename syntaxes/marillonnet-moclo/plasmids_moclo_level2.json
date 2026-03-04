@@ -1,0 +1,436 @@
+[
+    {
+        "id": 1,
+        "plasmid_name": "pAGM4673 (Backbone - ColE1 and RK2 oris)",
+        "left_overhang": "GGGA",
+        "right_overhang": "TGCC",
+        "key": "GGGA-TGCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48014"
+        }
+    },
+    {
+        "id": 2,
+        "plasmid_name": "pAGM4723 (Backbone - ColE1 and pVS1 oris)",
+        "left_overhang": "GGGA",
+        "right_overhang": "TGCC",
+        "key": "GGGA-TGCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48015"
+        }
+    },
+    {
+        "id": 3,
+        "plasmid_name": "pICH41722 (L1E)",
+        "left_overhang": "GCAA",
+        "right_overhang": "GGGA",
+        "key": "GCAA-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48016"
+        }
+    },
+    {
+        "id": 4,
+        "plasmid_name": "pICH41744 (L2E)",
+        "left_overhang": "ACTA",
+        "right_overhang": "GGGA",
+        "key": "ACTA-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48017"
+        }
+    },
+    {
+        "id": 5,
+        "plasmid_name": "pICH41766 (L3E)",
+        "left_overhang": "TTAC",
+        "right_overhang": "GGGA",
+        "key": "TTAC-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48018"
+        }
+    },
+    {
+        "id": 6,
+        "plasmid_name": "pICH41780 (L4E)",
+        "left_overhang": "CAGA",
+        "right_overhang": "GGGA",
+        "key": "CAGA-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48019"
+        }
+    },
+    {
+        "id": 7,
+        "plasmid_name": "pICH41800 (L5E)",
+        "left_overhang": "TGTG",
+        "right_overhang": "GGGA",
+        "key": "TGTG-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48020"
+        }
+    },
+    {
+        "id": 8,
+        "plasmid_name": "pICH41822 (L6E)",
+        "left_overhang": "GAGC",
+        "right_overhang": "GGGA",
+        "key": "GAGC-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48021"
+        }
+    },
+    {
+        "id": 9,
+        "plasmid_name": "pICH49244 (ELB7 - LacZ)",
+        "left_overhang": "TGCC",
+        "right_overhang": "GGGA",
+        "key": "TGCC-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48029"
+        }
+    },
+    {
+        "id": 10,
+        "plasmid_name": "pICH49255 (ELB1 - LacZ)",
+        "left_overhang": "GCAA",
+        "right_overhang": "GGGA",
+        "key": "GCAA-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48023"
+        }
+    },
+    {
+        "id": 11,
+        "plasmid_name": "pICH49266 (ELB2 - LacZ)",
+        "left_overhang": "ACTA",
+        "right_overhang": "GGGA",
+        "key": "ACTA-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48024"
+        }
+    },
+    {
+        "id": 12,
+        "plasmid_name": "pICH49277 (ELB3 - LacZ)",
+        "left_overhang": "TTAC",
+        "right_overhang": "GGGA",
+        "key": "TTAC-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48025"
+        }
+    },
+    {
+        "id": 13,
+        "plasmid_name": "pICH49283 (ELB4 - LacZ)",
+        "left_overhang": "CAGA",
+        "right_overhang": "GGGA",
+        "key": "CAGA-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48026"
+        }
+    },
+    {
+        "id": 14,
+        "plasmid_name": "pICH49299 (ELB5 - LacZ)",
+        "left_overhang": "TGTG",
+        "right_overhang": "GGGA",
+        "key": "TGTG-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48027"
+        }
+    },
+    {
+        "id": 15,
+        "plasmid_name": "pICH49300 (ELB6 - LacZ)",
+        "left_overhang": "GAGC",
+        "right_overhang": "GGGA",
+        "key": "GAGC-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48028"
+        }
+    },
+    {
+        "id": 16,
+        "plasmid_name": "pICH50866 (L7E)",
+        "left_overhang": "TGCC",
+        "right_overhang": "GGGA",
+        "key": "TGCC-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48022"
+        }
+    },
+    {
+        "id": 17,
+        "plasmid_name": "pICH54011 (dummy1)",
+        "left_overhang": "TGCC",
+        "right_overhang": "GCAA",
+        "key": "TGCC-GCAA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48065"
+        }
+    },
+    {
+        "id": 18,
+        "plasmid_name": "pICH54022 (dummy2)",
+        "left_overhang": "GCAA",
+        "right_overhang": "ACTA",
+        "key": "GCAA-ACTA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48066"
+        }
+    },
+    {
+        "id": 19,
+        "plasmid_name": "pICH54033 (dummy3)",
+        "left_overhang": "ACTA",
+        "right_overhang": "TTAC",
+        "key": "ACTA-TTAC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48067"
+        }
+    },
+    {
+        "id": 20,
+        "plasmid_name": "pICH54044 (dummy4)",
+        "left_overhang": "TTAC",
+        "right_overhang": "CAGA",
+        "key": "TTAC-CAGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48068"
+        }
+    },
+    {
+        "id": 21,
+        "plasmid_name": "pICH54055 (dummy5)",
+        "left_overhang": "CAGA",
+        "right_overhang": "TGTG",
+        "key": "CAGA-TGTG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48069"
+        }
+    },
+    {
+        "id": 22,
+        "plasmid_name": "pICH54066 (dummy6)",
+        "left_overhang": "TGTG",
+        "right_overhang": "GAGC",
+        "key": "TGTG-GAGC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48070"
+        }
+    },
+    {
+        "id": 23,
+        "plasmid_name": "pICH54077 (dummy7)",
+        "left_overhang": "GAGC",
+        "right_overhang": "TGCC",
+        "key": "GAGC-TGCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48071"
+        }
+    },
+    {
+        "id": 24,
+        "plasmid_name": "pICH83955 (ELR7 - Vio)",
+        "left_overhang": "TGCC",
+        "right_overhang": "GGGA",
+        "key": "TGCC-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48036"
+        }
+    },
+    {
+        "id": 25,
+        "plasmid_name": "pICH83966 (ELR1 - Vio)",
+        "left_overhang": "GCAA",
+        "right_overhang": "GGGA",
+        "key": "GCAA-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48030"
+        }
+    },
+    {
+        "id": 26,
+        "plasmid_name": "pICH83977 (ELR2 - Vio)",
+        "left_overhang": "ACTA",
+        "right_overhang": "GGGA",
+        "key": "ACTA-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48031"
+        }
+    },
+    {
+        "id": 27,
+        "plasmid_name": "pICH83988 (ELR3 - Vio)",
+        "left_overhang": "TTAC",
+        "right_overhang": "GGGA",
+        "key": "TTAC-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48032"
+        }
+    },
+    {
+        "id": 28,
+        "plasmid_name": "pICH83999 (ELR4 - Vio)",
+        "left_overhang": "CAGA",
+        "right_overhang": "GGGA",
+        "key": "CAGA-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48033"
+        }
+    },
+    {
+        "id": 29,
+        "plasmid_name": "pICH84000 (ELR5 - Vio)",
+        "left_overhang": "TGTG",
+        "right_overhang": "GGGA",
+        "key": "TGTG-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48034"
+        }
+    },
+    {
+        "id": 30,
+        "plasmid_name": "pICH84011 (ELR6 - Vio)",
+        "left_overhang": "GAGC",
+        "right_overhang": "GGGA",
+        "key": "GAGC-GGGA",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48035"
+        }
+    },
+    {
+        "id": 31,
+        "plasmid_name": "pICH89921",
+        "left_overhang": "GGGA",
+        "right_overhang": "TGCC",
+        "key": "GGGA-TGCC",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "48072"
+        }
+    }
+]

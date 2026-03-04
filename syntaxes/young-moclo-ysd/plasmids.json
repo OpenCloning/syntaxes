@@ -1681,7 +1681,7 @@
     },
     {
         "id": 121,
-        "plasmid_name": "pYSD099 (\"LEU2, CEN/ARS empty vector (GFP dropout)\")",
+        "plasmid_name": "pYSD099 (LEU2, CEN/ARS empty vector (GFP dropout))",
         "left_overhang": "GCTG",
         "right_overhang": "AACG",
         "key": "GCTG-AACG",

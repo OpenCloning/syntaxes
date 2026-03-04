@@ -1,0 +1,102 @@
+LOCUS       pICH78141               2413 bp    DNA     circular SYN 15-JAN-2026
+DEFINITION  synthetic circular DNA.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+            .
+REFERENCE   1  (bases 1 to 2413)
+  AUTHORS   Engler C, Youles M, Gruetzner R, Ehnert TM, Werner S, Jones JD,
+            Patron NJ, Marillonnet S
+  TITLE     A golden gate modular cloning toolbox for plants.
+  JOURNAL   ACS Synth Biol. 2014 Nov 21;3(11):839-43. doi: 10.1021/sb4001504.
+            Epub 2014 Feb 20.
+   PUBMED   24933124
+REFERENCE   2  (bases 1 to 2413)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Jan 15, 2026 from SnapGene Server 8.0.1
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; doi: "10.1021/sb4001504";
+            journalName: "ACS Synth Biol"; date: "2014-11-21- 21"; volume: "3";
+            issue: "11"; pages: "839-43"
+            Sequence Label: pICH78141
+FEATURES             Location/Qualifiers
+     source          1..2413
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     primer_bind     240..259
+                     /label="pBR322ori-F"
+                     /note="pBR322 origin, forward primer"
+     primer_bind     493..510
+                     /label="L4440"
+                     /note="L4440 vector, forward primer"
+     primer_bind     complement(790..808)
+                     /label="pBRforEco"
+                     /note="pBR322 vectors, upsteam of EcoRI site, forward
+                     primer"
+     promoter        876..980
+                     /gene="bla"
+                     /label="AmpR promoter"
+     CDS             1202..1993
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy,
+                     1985)"
+                     /label="SmR"
+                     /note="confers resistance to spectinomycin and
+                     streptomycin"
+                     /translation="MREAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKPH
+                     SDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYPAK
+                     RELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQDLF
+                     EALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPAQYQP
+                     VILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+     rep_origin      join(2164..2413,1..339)
+                     /direction=RIGHT
+                     /label="ori"
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+ORIGIN
+        1 gataagtcgt gtcttaccgg gttggactca agacgatagt taccggataa ggcgcagcgg
+       61 tcgggctgaa cggggggttc gtgcacacag cccagcttgg agcgaacgac ctacaccgaa
+      121 ctgagatacc tacagcgtga gctatgagaa agcgccacgc ttcccgaagg gagaaaggcg
+      181 gacaggtatc cggtaagcgg cagggtcgga acaggagagc gcacgaggga gcttccaggg
+      241 ggaaacgcct ggtatcttta tagtcctgtc gggtttcgcc acctctgact tgagcgtcga
+      301 tttttgtgat gctcgtcagg ggggcggagc ctatggaaaa acgccagcaa cgcggccttt
+      361 ttacggttcc tggccttttg ctggcctttt gctcacatgt tctttcctgc gttatcccct
+      421 gattctgtgg ataaccgtat taccgccttt gagtgagctg ataccgctcg ccgcagccga
+      481 acgaccgagc gcagcgagtc agtgagcgag gaagcggaag agcgcccaat acgcaaaccg
+      541 cctctccccg cgcgttggcc gattcattaa tcactctgtg gtctcatact gtataagagc
+      601 tcatttttac aacaattacc aacaacaaca aacaacaaac aacattacaa ttacatttac
+      661 aattatcgat aacatgggga agcaaatggc cgccctgtgt ggctttctcc tcgtggcgtt
+      721 gctctggctc acgcccgacg tcgcgtcagc aatgtgagac cacgaagtgg ctcttcagtg
+      781 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt
+      841 cttagacgtc aggtggcact tttcggggaa atgtgcgcgg aacccctatt tgtttatttt
+      901 tctaaataca ttcaaatatg tatccgctca tgagacaata accctgataa atgcttcaat
+      961 aatattgaaa aaggaagagt atgcgctcac gcaactggtc cagaaccttg accgaacgca
+     1021 gcggtggtaa cggcgcagtg gcggttttca tggcttgtta tgactgtttt tttttggggt
+     1081 acagtctatg cctcgggcat ccaagcagca agcgcgttac gccgtgggtc gatgtttgat
+     1141 gttatggagc agcaacgatg ttacgcagca gggcagtcgc cctaaaacaa agttaaacat
+     1201 catgagggaa gcggtgatcg ccgaagtatc gactcaacta tcagaggtag ttggcgtcat
+     1261 cgagcgccat ctcgaaccga cgttgctggc cgtacatttg tacggctccg cagtggatgg
+     1321 cggcctgaag ccacacagcg atattgattt gctggttacg gtgaccgtaa ggcttgatga
+     1381 aacaacgcgg cgagctttga tcaacgacct tttggaaact tcggcttccc ctggagagag
+     1441 cgagattctc cgcgctgtag aagtcaccat tgttgtgcac gacgacatca ttccgtggcg
+     1501 ttatccagct aagcgcgaac tgcaatttgg agaatggcag cgcaatgaca ttcttgcagg
+     1561 tatcttcgag ccagccacga tcgacattga tctggctatc ttgctgacaa aagcaagaga
+     1621 acatagcgtt gccttggtag gtccagcggc ggaggaactc tttgatccgg ttcctgaaca
+     1681 ggatctattt gaggcgctaa atgaaacctt aacgctatgg aactcgccgc ccgactgggc
+     1741 tggcgatgag cgaaatgtag tgcttacgtt gtcccgcatt tggtacagcg cagtaaccgg
+     1801 caaaatcgcg ccgaaggatg tcgctgccga ctgggcaatg gagcgcctgc cggcccagta
+     1861 tcagcccgtc atacttgaag ctagacaggc ttatcttgga caagaagaag atcgcttggc
+     1921 ctcgcgcgca gatcagttgg aagaatttgt ccattacgta aaaggcgaga tcaccaaggt
+     1981 agtcggcaaa taactgtcag accaagttta ctcatatata ctttagattg atttaaaact
+     2041 tcatttttaa tttaaaagga tctaggtgaa gatccttttt gataatctca tgaccaaaat
+     2101 cccttaacgt gagttttcgt tccactgagc gtcagacccc gtagaaaaga tcaaaggatc
+     2161 ttcttgagat cctttttttc tgcgcgtaat ctgctgcttg caaacaaaaa aaccaccgct
+     2221 accagcggtg gtttgtttgc cggatcaaga gctaccaact ctttttccga aggtaactgg
+     2281 cttcagcaga gcgcagatac caaatactgt tcttctagtg tagccgtagt taggccacca
+     2341 cttcaagaac tctgtagcac cgcctacata cctcgctctg ctaatcctgt taccagtggc
+     2401 tgctgccagt ggc
+//

@@ -1,0 +1,106 @@
+LOCUS       pICH77911               2659 bp    DNA     circular SYN 15-JAN-2026
+DEFINITION  synthetic circular DNA.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+            .
+REFERENCE   1  (bases 1 to 2659)
+  AUTHORS   Engler C, Youles M, Gruetzner R, Ehnert TM, Werner S, Jones JD,
+            Patron NJ, Marillonnet S
+  TITLE     A golden gate modular cloning toolbox for plants.
+  JOURNAL   ACS Synth Biol. 2014 Nov 21;3(11):839-43. doi: 10.1021/sb4001504.
+            Epub 2014 Feb 20.
+   PUBMED   24933124
+REFERENCE   2  (bases 1 to 2659)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Jan 15, 2026 from SnapGene Server 8.0.1
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; doi: "10.1021/sb4001504";
+            journalName: "ACS Synth Biol"; date: "2014-11-21- 21"; volume: "3";
+            issue: "11"; pages: "839-43"
+            Sequence Label: pICH77911
+FEATURES             Location/Qualifiers
+     source          1..2659
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     rep_origin      420..1008
+                     /direction=RIGHT
+                     /label="ori"
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+     primer_bind     909..928
+                     /label="pBR322ori-F"
+                     /note="pBR322 origin, forward primer"
+     primer_bind     1162..1179
+                     /label="L4440"
+                     /note="L4440 vector, forward primer"
+     primer_bind     complement(1705..1723)
+                     /label="pBRforEco"
+                     /note="pBR322 vectors, upsteam of EcoRI site, forward
+                     primer"
+     promoter        1791..1895
+                     /gene="bla"
+                     /label="AmpR promoter"
+     CDS             join(2117..2659,1..249)
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy,
+                     1985)"
+                     /label="SmR"
+                     /note="confers resistance to spectinomycin and
+                     streptomycin"
+                     /translation="MREAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKPH
+                     SDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYPAK
+                     RELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQDLF
+                     EALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPAQYQP
+                     VILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+ORIGIN
+        1 gatgagcgaa atgtagtgct tacgttgtcc cgcatttggt acagcgcagt aaccggcaaa
+       61 atcgcgccga aggatgtcgc tgccgactgg gcaatggagc gcctgccggc ccagtatcag
+      121 cccgtcatac ttgaagctag acaggcttat cttggacaag aagaagatcg cttggcctcg
+      181 cgcgcagatc agttggaaga atttgtccat tacgtaaaag gcgagatcac caaggtagtc
+      241 ggcaaataac tgtcagacca agtttactca tatatacttt agattgattt aaaacttcat
+      301 ttttaattta aaaggatcta ggtgaagatc ctttttgata atctcatgac caaaatccct
+      361 taacgtgagt tttcgttcca ctgagcgtca gaccccgtag aaaagatcaa aggatcttct
+      421 tgagatcctt tttttctgcg cgtaatctgc tgcttgcaaa caaaaaaacc accgctacca
+      481 gcggtggttt gtttgccgga tcaagagcta ccaactcttt ttccgaaggt aactggcttc
+      541 agcagagcgc agataccaaa tactgttctt ctagtgtagc cgtagttagg ccaccacttc
+      601 aagaactctg tagcaccgcc tacatacctc gctctgctaa tcctgttacc agtggctgct
+      661 gccagtggcg ataagtcgtg tcttaccggg ttggactcaa gacgatagtt accggataag
+      721 gcgcagcggt cgggctgaac ggggggttcg tgcacacagc ccagcttgga gcgaacgacc
+      781 tacaccgaac tgagatacct acagcgtgag ctatgagaaa gcgccacgct tcccgaaggg
+      841 agaaaggcgg acaggtatcc ggtaagcggc agggtcggaa caggagagcg cacgagggag
+      901 cttccagggg gaaacgcctg gtatctttat agtcctgtcg ggtttcgcca cctctgactt
+      961 gagcgtcgat ttttgtgatg ctcgtcaggg gggcggagcc tatggaaaaa cgccagcaac
+     1021 gcggcctttt tacggttcct ggccttttgc tggccttttg ctcacatgtt ctttcctgcg
+     1081 ttatcccctg attctgtgga taaccgtatt accgcctttg agtgagctga taccgctcgc
+     1141 cgcagccgaa cgaccgagcg cagcgagtca gtgagcgagg aagcggaaga gcgcccaata
+     1201 cgcaaaccgc ctctccccgc gcgttggccg attcattaat cactctgtgg tctcagcttg
+     1261 aattaacaga ggtggatgga cagacccgtt cttacaccgg actgggcgcg ggataggata
+     1321 ttcagattgg gatgggattg agcttaaagc cggcgctgac accatgctca aggtaggcaa
+     1381 tgtcctcagc gtcgagcccg gcatctatgt cgagggcatt ggtggagcgc gcttcgggga
+     1441 taccgtgctt gtaactgaga gcggatatga ggccctcact ccgcttgatc ttggcaaaga
+     1501 tatttgacgc atttattagt atgtgttaat tttcatttgc agtgcagtat tttctattcg
+     1561 atctttatgt aattcgttac aattaataaa tattcaaatc agattattga ctgtcatttg
+     1621 tatcaaatcg tgtttaatgg atatttttat tataatattg atgatcgctt gagaccacga
+     1681 agtggctctt cagtggacga aagggcctcg tgatacgcct atttttatag gttaatgtca
+     1741 tgataataat ggtttcttag acgtcaggtg gcacttttcg gggaaatgtg cgcggaaccc
+     1801 ctatttgttt atttttctaa atacattcaa atatgtatcc gctcatgaga caataaccct
+     1861 gataaatgct tcaataatat tgaaaaagga agagtatgcg ctcacgcaac tggtccagaa
+     1921 ccttgaccga acgcagcggt ggtaacggcg cagtggcggt tttcatggct tgttatgact
+     1981 gttttttttt ggggtacagt ctatgcctcg ggcatccaag cagcaagcgc gttacgccgt
+     2041 gggtcgatgt ttgatgttat ggagcagcaa cgatgttacg cagcagggca gtcgccctaa
+     2101 aacaaagtta aacatcatga gggaagcggt gatcgccgaa gtatcgactc aactatcaga
+     2161 ggtagttggc gtcatcgagc gccatctcga accgacgttg ctggccgtac atttgtacgg
+     2221 ctccgcagtg gatggcggcc tgaagccaca cagcgatatt gatttgctgg ttacggtgac
+     2281 cgtaaggctt gatgaaacaa cgcggcgagc tttgatcaac gaccttttgg aaacttcggc
+     2341 ttcccctgga gagagcgaga ttctccgcgc tgtagaagtc accattgttg tgcacgacga
+     2401 catcattccg tggcgttatc cagctaagcg cgaactgcaa tttggagaat ggcagcgcaa
+     2461 tgacattctt gcaggtatct tcgagccagc cacgatcgac attgatctgg ctatcttgct
+     2521 gacaaaagca agagaacata gcgttgcctt ggtaggtcca gcggcggagg aactctttga
+     2581 tccggttcct gaacaggatc tatttgaggc gctaaatgaa accttaacgc tatggaactc
+     2641 gccgcccgac tgggctggc
+//

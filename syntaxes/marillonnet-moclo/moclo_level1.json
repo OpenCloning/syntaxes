@@ -1,0 +1,195 @@
+{
+  "syntaxName": "MoClo - Level 1",
+  "assemblyEnzymes": [
+    "BsaI"
+  ],
+  "domesticationEnzyme": "",
+  "relatedDois": [
+    "10.1371/journal.pone.0016765"
+  ],
+  "submitters": [
+    "0000-0002-8666-9746"
+  ],
+  "overhangNames": {
+    "GGAG": "",
+    "TACT": "",
+    "AATG": "",
+    "AGGT": "",
+    "GCTT": "",
+    "CGCT": "",
+    "CCAT": "",
+    "TTCG": "",
+    "GGTA": ""
+  },
+  "parts": [
+    {
+      "id": 1,
+      "name": "Promoter",
+      "info": "",
+      "glyph": "promoter",
+      "left_overhang": "GGAG",
+      "right_overhang": "TACT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "white"
+    },
+    {
+      "id": 2,
+      "name": "5'UTR",
+      "info": "",
+      "glyph": "assembly-scar",
+      "left_overhang": "TACT",
+      "right_overhang": "AATG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 2,
+      "color": "#F6F06B"
+    },
+    {
+      "id": 3,
+      "name": "Signal Peptide / CDS1",
+      "info": "",
+      "glyph": "cds",
+      "left_overhang": "AATG",
+      "right_overhang": "AGGT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 2,
+      "right_codon_start": 2,
+      "color": "#F89837"
+    },
+    {
+      "id": 4,
+      "name": "CDS (secreted)",
+      "info": "",
+      "glyph": "cds-stop",
+      "left_overhang": "AGGT",
+      "right_overhang": "GCTT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 2,
+      "right_codon_start": 0,
+      "color": "#9BCE74"
+    },
+    {
+      "id": 5,
+      "name": "Terminator",
+      "info": "",
+      "glyph": "terminator",
+      "left_overhang": "GCTT",
+      "right_overhang": "CGCT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#1CA49F"
+    },
+    {
+      "id": 6,
+      "name": "Backbone",
+      "info": "",
+      "glyph": "origin-of-replication",
+      "left_overhang": "CGCT",
+      "right_overhang": "GGAG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "silver"
+    },
+    {
+      "name": "CDS (cytosolic)",
+      "info": "",
+      "glyph": "cds-stop",
+      "left_overhang": "AATG",
+      "right_overhang": "GCTT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 2,
+      "right_codon_start": 0,
+      "color": "#FDCC99",
+      "id": 7
+    },
+    {
+      "name": "Pro + 5'UTR(f)",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "GGAG",
+      "right_overhang": "CCAT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#A8D379",
+      "id": 8
+    },
+    {
+      "name": "NT1",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "CCAT",
+      "right_overhang": "AATG",
+      "left_inside": "G",
+      "right_inside": "",
+      "left_codon_start": 3,
+      "right_codon_start": 2,
+      "color": "#D0E1F4",
+      "id": 9
+    },
+    {
+      "name": "CDS2 (ns)",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "AGGT",
+      "right_overhang": "TTCG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 2,
+      "right_codon_start": 2,
+      "color": "#78AAD6",
+      "id": 10
+    },
+    {
+      "name": "CT",
+      "info": "",
+      "glyph": "cds-stop",
+      "left_overhang": "TTCG",
+      "right_overhang": "GCTT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 2,
+      "right_codon_start": 0,
+      "color": "#3C97AC",
+      "id": 11
+    },
+    {
+      "name": "3'UTR",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "GCTT",
+      "right_overhang": "GGTA",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#E2A8A5",
+      "id": 12
+    },
+    {
+      "name": "Terminator (2)",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "GGTA",
+      "right_overhang": "CGCT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#A74A44",
+      "id": 13
+    }
+  ]
+}

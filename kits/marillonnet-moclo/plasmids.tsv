@@ -1,96 +1,96 @@
-well	name	addgene_id	resistance	content
-A / 1	pAGM1311	47983	Kanamycin	
-A / 2	pICH53399	47991	Spectinomycin	
-A / 3	pICH41331	47999	Spectinomycin	
-A / 4	pICH47802	48007	Ampicillin	
-A / 5	pAGM4723	48015	Kanamycin	
-A / 6	pICH49255	48023	Ampicillin	
-A / 7	pICH83977	48031	Ampicillin	
-A / 8	pAGM8055	48039	Spectinomycin	
-A / 9	pICH50900	48047	Ampicillin	
-A / 10	pICH75366	48055	Kanamycin	
-A / 11	pICH79300	48063	Ampicillin	
-A / 12	pICH54077	48071	Ampicillin	
-B / 1	pICH41233	47984	Spectinomycin	
-B / 2	pICH41246	47992	Spectinomycin	
-B / 3	pICH47732	48000	Ampicillin	
-B / 4	pICH47811	48008	Ampicillin	
-B / 5	pICH41722	48016	Spectinomycin	
-B / 6	pICH49266	48024	Ampicillin	
-B / 7	pICH83988	48032	Ampicillin	
-B / 8	pAGM8067	48040	Spectinomycin	
-B / 9	pICH50914	48048	Ampicillin	
-B / 10	pICH75377	48056	Kanamycin	
-B / 11	pICH79311	48064	Ampicillin	
-B / 12	pICH89921	48072	Kanamycin	
-C / 1	pAGM1263	47985	Spectinomycin	
-C / 2	pICH41264	47993	Spectinomycin	
-C / 3	pICH47742	48001	Ampicillin	
-C / 4	pICH47822	48009	Ampicillin	
-C / 5	pICH41744	48017	Spectinomycin	
-C / 6	pICH49277	48025	Ampicillin	
-C / 7	pICH83999	48033	Ampicillin	
-C / 8	pAGM8079	48041	Spectinomycin	
-C / 9	pICH50927	48049	Ampicillin	
-C / 10	pICH75388	48057	Kanamycin	
-C / 11	pICH54011	48065	Ampicillin	
-C / 12	pICH82113	48073	Kanamycin	
-D / 1	pAGM1276	47986	Spectinomycin	
-D / 2	pICH41276	47994	Spectinomycin	
-D / 3	pICH47751	48002	Ampicillin	
-D / 4	pICH47831	48010	Ampicillin	
-D / 5	pICH41766	48018	Spectinomycin	
-D / 6	pICH49283	48026	Ampicillin	
-D / 7	pICH84000	48034	Ampicillin	
-D / 8	pAGM8081	48042	Spectinomycin	
-D / 9	pICH50932	48050	Ampicillin	
-D / 10	pICH79255	48058	Ampicillin	
-D / 11	pICH54022	48066	Ampicillin	
-D / 12	pICH82094	48074	Kanamycin	
-E / 1	pICH41258	47987	Spectinomycin	
-E / 2	pAGM1251	47995	Spectinomycin	
-E / 3	pICH47761	48003	Ampicillin	
-E / 4	pICH47841	48011	Ampicillin	
-E / 5	pICH41780	48019	Spectinomycin	
-E / 6	pICH49299	48027	Ampicillin	
-E / 7	pICH84011	48035	Ampicillin	
-E / 8	pAGM8093	48043	Spectinomycin	
-E / 9	pICH75322	48051	Kanamycin	
-E / 10	pICH79264	48059	Ampicillin	
-E / 11	pICH54033	48067	Ampicillin	
-E / 12	pICH86966	48075	Kanamycin	
-F / 1	pAGM1299	47988	Spectinomycin	
-F / 2	pAGM1287	47996	Spectinomycin	
-F / 3	pICH47772	48004	Ampicillin	
-F / 4	pICH47852	48012	Ampicillin	
-F / 5	pICH41800	48020	Spectinomycin	
-F / 6	pICH49300	48028	Ampicillin	
-F / 7	pICH83955	48036	Ampicillin	
-F / 8	pICH50872	48044	Ampicillin	
-F / 9	pICH75334	48052	Kanamycin	
-F / 10	pICH79277	48060	Ampicillin	
-F / 11	pICH54044	48068	Ampicillin	
-F / 12	pICH86988	48076	Kanamycin	
-G / 1	pAGM1301	47989	Spectinomycin	
-G / 2	pICH41295	47997	Spectinomycin	
-G / 3	pICH47781	48005	Ampicillin	
-G / 4	pICH47861	48013	Ampicillin	
-G / 5	pICH41822	48021	Spectinomycin	
-G / 6	pICH49244	48029	Ampicillin	
-G / 7	pAGM8031	48037	Spectinomycin	
-G / 8	pICH50881	48045	Ampicillin	
-G / 9	pICH75344	48053	Kanamycin	
-G / 10	pICH79289	48061	Ampicillin	
-G / 11	pICH54055	48069	Ampicillin	
-G / 12	pAGM9121	51833	Spectinomycin	
-H / 1	pICH53388	47990	Spectinomycin	
-H / 2	pICH41308	47998	Spectinomycin	
-H / 3	pICH47791	48006	Ampicillin	
-H / 4	pAGM4673	48014	Kanamycin	
-H / 5	pICH50866	48022	Spectinomycin	
-H / 6	pICH83966	48030	Ampicillin	
-H / 7	pAGM8043	48038	Spectinomycin	
-H / 8	pICH50892	48046	Ampicillin	
-H / 9	pICH75355	48054	Kanamycin	
-H / 10	pICH79290	48062	Ampicillin	
-H / 11	pICH54066	48070	Ampicillin	
+well	name	addgene_id	resistance	content	level
+E / 2	pAGM1251	47995	Spectinomycin		Level 0
+C / 1	pAGM1263	47985	Spectinomycin		Level 0
+D / 1	pAGM1276	47986	Spectinomycin		Level 0
+F / 2	pAGM1287	47996	Spectinomycin		Level 0
+F / 1	pAGM1299	47988	Spectinomycin		Level 0
+G / 1	pAGM1301	47989	Spectinomycin		Level 0
+A / 1	pAGM1311	47983	Kanamycin	Universal Cloning vector	Level 0
+H / 4	pAGM4673	48014	Kanamycin	Backbone - ColE1 and RK2 oris	Level 2
+A / 5	pAGM4723	48015	Kanamycin	Backbone - ColE1 and pVS1 oris	Level 2
+G / 7	pAGM8031	48037	Spectinomycin		Level M
+H / 7	pAGM8043	48038	Spectinomycin		Level M
+A / 8	pAGM8055	48039	Spectinomycin		Level M
+B / 8	pAGM8067	48040	Spectinomycin		Level M
+C / 8	pAGM8079	48041	Spectinomycin		Level M
+D / 8	pAGM8081	48042	Spectinomycin		Level M
+E / 8	pAGM8093	48043	Spectinomycin		Level M
+G / 12	pAGM9121	51833	Spectinomycin		
+B / 1	pICH41233	47984	Spectinomycin		Level 0
+B / 2	pICH41246	47992	Spectinomycin		Level 0
+E / 1	pICH41258	47987	Spectinomycin		Level 0
+C / 2	pICH41264	47993	Spectinomycin		Level 0
+D / 2	pICH41276	47994	Spectinomycin		Level 0
+G / 2	pICH41295	47997	Spectinomycin		Level 0
+H / 2	pICH41308	47998	Spectinomycin		Level 0
+A / 3	pICH41331	47999	Spectinomycin		Level 0
+B / 5	pICH41722	48016	Spectinomycin	L1E	Level 2
+C / 5	pICH41744	48017	Spectinomycin	L2E	Level 2
+D / 5	pICH41766	48018	Spectinomycin	L3E	Level 2
+E / 5	pICH41780	48019	Spectinomycin	L4E	Level 2
+F / 5	pICH41800	48020	Spectinomycin	L5E	Level 2
+G / 5	pICH41822	48021	Spectinomycin	L6E	Level 2
+B / 3	pICH47732	48000	Ampicillin	forward TU	Level 1
+C / 3	pICH47742	48001	Ampicillin	forward TU	Level 1
+D / 3	pICH47751	48002	Ampicillin	forward TU	Level 1
+E / 3	pICH47761	48003	Ampicillin	forward TU	Level 1
+F / 3	pICH47772	48004	Ampicillin	forward TU	Level 1
+G / 3	pICH47781	48005	Ampicillin	forward TU	Level 1
+H / 3	pICH47791	48006	Ampicillin	forward TU	Level 1
+A / 4	pICH47802	48007	Ampicillin	reverse TU	Level 1
+B / 4	pICH47811	48008	Ampicillin	reverse TU	Level 1
+C / 4	pICH47822	48009	Ampicillin	reverse TU	Level 1
+D / 4	pICH47831	48010	Ampicillin	reverse TU	Level 1
+E / 4	pICH47841	48011	Ampicillin	reverse TU	Level 1
+F / 4	pICH47852	48012	Ampicillin	reverse TU	Level 1
+G / 4	pICH47861	48013	Ampicillin	reverse TU	Level 1
+G / 6	pICH49244	48029	Ampicillin	ELB7 - LacZ	Level 2
+A / 6	pICH49255	48023	Ampicillin	ELB1 - LacZ	Level 2
+B / 6	pICH49266	48024	Ampicillin	ELB2 - LacZ	Level 2
+C / 6	pICH49277	48025	Ampicillin	ELB3 - LacZ	Level 2
+D / 6	pICH49283	48026	Ampicillin	ELB4 - LacZ	Level 2
+E / 6	pICH49299	48027	Ampicillin	ELB5 - LacZ	Level 2
+F / 6	pICH49300	48028	Ampicillin	ELB6 - LacZ	Level 2
+H / 5	pICH50866	48022	Spectinomycin	L7E	Level1
+F / 8	pICH50872	48044	Ampicillin	L1E - AmpR	Level M
+G / 8	pICH50881	48045	Ampicillin	L2E - AmpR	Level M
+H / 8	pICH50892	48046	Ampicillin	L3E - AmpR	Level M
+A / 9	pICH50900	48047	Ampicillin	L4E - AmpR	Level M
+B / 9	pICH50914	48048	Ampicillin	L5E - AmpR	Level M
+C / 9	pICH50927	48049	Ampicillin	L6E - AmpR	Level M
+D / 9	pICH50932	48050	Ampicillin	L7E - AmpR	Level M
+H / 1	pICH53388	47990	Spectinomycin		Level 0
+A / 2	pICH53399	47991	Spectinomycin		Level 0
+C / 11	pICH54011	48065	Ampicillin	dummy1	Level 2
+D / 11	pICH54022	48066	Ampicillin	dummy2	Level 2
+E / 11	pICH54033	48067	Ampicillin	dummy3	Level 2
+F / 11	pICH54044	48068	Ampicillin	dummy4	Level 2
+G / 11	pICH54055	48069	Ampicillin	dummy5	Level 2
+H / 11	pICH54066	48070	Ampicillin	dummy6	Level 2
+A / 12	pICH54077	48071	Ampicillin	dummy7	Level 2
+E / 9	pICH75322	48051	Kanamycin		
+F / 9	pICH75334	48052	Kanamycin		
+G / 9	pICH75344	48053	Kanamycin		
+H / 9	pICH75355	48054	Kanamycin		
+A / 10	pICH75366	48055	Kanamycin		
+B / 10	pICH75377	48056	Kanamycin		
+C / 10	pICH75388	48057	Kanamycin		
+D / 10	pICH79255	48058	Ampicillin		
+E / 10	pICH79264	48059	Ampicillin		
+F / 10	pICH79277	48060	Ampicillin		
+G / 10	pICH79289	48061	Ampicillin		
+H / 10	pICH79290	48062	Ampicillin		
+A / 11	pICH79300	48063	Ampicillin		
+B / 11	pICH79311	48064	Ampicillin		
+D / 12	pICH82094	48074	Kanamycin		
+C / 12	pICH82113	48073	Kanamycin		
+F / 7	pICH83955	48036	Ampicillin	ELR7 - Vio	Level 2
+H / 6	pICH83966	48030	Ampicillin	ELR1 - Vio	Level 2
+A / 7	pICH83977	48031	Ampicillin	ELR2 - Vio	Level 2
+B / 7	pICH83988	48032	Ampicillin	ELR3 - Vio	Level 2
+C / 7	pICH83999	48033	Ampicillin	ELR4 - Vio	Level 2
+D / 7	pICH84000	48034	Ampicillin	ELR5 - Vio	Level 2
+E / 7	pICH84011	48035	Ampicillin	ELR6 - Vio	Level 2
+E / 12	pICH86966	48075	Kanamycin		
+F / 12	pICH86988	48076	Kanamycin		
+B / 12	pICH89921	48072	Kanamycin		

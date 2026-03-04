@@ -6,6 +6,7 @@ import glob
 from opencloning.dna_functions import request_from_addgene
 import asyncio
 import time
+import pandas
 
 kits = glob.glob("kits/*")
 existing_plasmids = glob.glob("addgene_plasmids/*.gb")
@@ -17,8 +18,9 @@ for kit in kits:
         raise Exception(f"Expected 1 plasmid file in {kit}, but found {len(plasmids)}")
     plasmids_file = plasmids[0]
     with open(plasmids_file, "r") as f:
-        plasmids_lines = f.readlines()
-    addgene_ids = [line.split("\t")[2] for line in plasmids_lines[1:]]
+        df = pandas.read_csv(f, sep="\t", dtype=str)
+        df = df.fillna("")
+    addgene_ids = df["addgene_id"].tolist()
 
     requests_made = 0
     for addgene_id in addgene_ids:

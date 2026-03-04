@@ -1,0 +1,105 @@
+LOCUS       pICH88103               2612 bp    DNA     circular SYN 15-JAN-2026
+DEFINITION  synthetic circular DNA.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+            .
+REFERENCE   1  (bases 1 to 2612)
+  AUTHORS   Engler C, Youles M, Gruetzner R, Ehnert TM, Werner S, Jones JD,
+            Patron NJ, Marillonnet S
+  TITLE     A golden gate modular cloning toolbox for plants.
+  JOURNAL   ACS Synth Biol. 2014 Nov 21;3(11):839-43. doi: 10.1021/sb4001504.
+            Epub 2014 Feb 20.
+   PUBMED   24933124
+REFERENCE   2  (bases 1 to 2612)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Jan 15, 2026 from SnapGene Server 8.0.1
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; doi: "10.1021/sb4001504";
+            journalName: "ACS Synth Biol"; date: "2014-11-21- 21"; volume: "3";
+            issue: "11"; pages: "839-43"
+            Sequence Label: pICH88103
+FEATURES             Location/Qualifiers
+     source          1..2612
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     promoter        complement(52..156)
+                     /gene="bla"
+                     /label="AmpR promoter"
+     primer_bind     224..242
+                     /label="pBRforEco"
+                     /note="pBR322 vectors, upsteam of EcoRI site, forward
+                     primer"
+     primer_bind     complement(721..738)
+                     /label="L4440"
+                     /note="L4440 vector, forward primer"
+     rep_origin      complement(892..1480)
+                     /direction=LEFT
+                     /label="ori"
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+     primer_bind     complement(972..991)
+                     /label="pBR322ori-F"
+                     /note="pBR322 origin, forward primer"
+     CDS             complement(1651..2442)
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy,
+                     1985)"
+                     /label="SmR"
+                     /note="confers resistance to spectinomycin and
+                     streptomycin"
+                     /translation="MREAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKPH
+                     SDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYPAK
+                     RELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQDLF
+                     EALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPAQYQP
+                     VILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+ORIGIN
+        1 gttaccaccg ctgcgttcgg tcaaggttct ggaccagttg cgtgagcgca tactcttcct
+       61 ttttcaatat tattgaagca tttatcaggg ttattgtctc atgagcggat acatatttga
+      121 atgtatttag aaaaataaac aaataggggt tccgcgcaca tttccccgaa aagtgccacc
+      181 tgacgtctaa gaaaccatta ttatcatgac attaacctat aaaaataggc gtatcacgag
+      241 gccctttcgt ccactgaaga gccacttcgt ggtctcacat ttggtagatt gcaaatataa
+      301 tggtttggcg attatccttg aggccacacc tttaaataga tcaatgaatg ggcaagtatt
+      361 gacttgcgat aatcctttaa ctttctgcct accatcaatg tggatgagtt gtcggtaaaa
+      421 aggatcttac aggccaaatt cgctcttagc cgtacaatat tactcaccgg tgcgatgccc
+      481 cccatcgtag gtgaaggtgg aaattaatga tccatcttga gagcacaggc ccacaacagc
+      541 taccagtttc ctcaagggtc caccaaaaac gtaagcgctt acgtacatgg tcgataagaa
+      601 aaggcaattt gtagatgtta acatccaacg tcgctttcag ctcctgagac cacagagtga
+      661 ttaatgaatc ggccaacgcg cggggagagg cggtttgcgt attgggcgct cttccgcttc
+      721 ctcgctcact gactcgctgc gctcggtcgt tcggctgcgg cgagcggtat cagctcactc
+      781 aaaggcggta atacggttat ccacagaatc aggggataac gcaggaaaga acatgtgagc
+      841 aaaaggccag caaaaggcca ggaaccgtaa aaaggccgcg ttgctggcgt ttttccatag
+      901 gctccgcccc cctgacgagc atcacaaaaa tcgacgctca agtcagaggt ggcgaaaccc
+      961 gacaggacta taaagatacc aggcgtttcc ccctggaagc tccctcgtgc gctctcctgt
+     1021 tccgaccctg ccgcttaccg gatacctgtc cgcctttctc ccttcgggaa gcgtggcgct
+     1081 ttctcatagc tcacgctgta ggtatctcag ttcggtgtag gtcgttcgct ccaagctggg
+     1141 ctgtgtgcac gaaccccccg ttcagcccga ccgctgcgcc ttatccggta actatcgtct
+     1201 tgagtccaac ccggtaagac acgacttatc gccactggca gcagccactg gtaacaggat
+     1261 tagcagagcg aggtatgtag gcggtgctac agagttcttg aagtggtggc ctaactacgg
+     1321 ctacactaga agaacagtat ttggtatctg cgctctgctg aagccagtta ccttcggaaa
+     1381 aagagttggt agctcttgat ccggcaaaca aaccaccgct ggtagcggtg gtttttttgt
+     1441 ttgcaagcag cagattacgc gcagaaaaaa aggatctcaa gaagatcctt tgatcttttc
+     1501 tacggggtct gacgctcagt ggaacgaaaa ctcacgttaa gggattttgg tcatgagatt
+     1561 atcaaaaagg atcttcacct agatcctttt aaattaaaaa tgaagtttta aatcaatcta
+     1621 aagtatatat gagtaaactt ggtctgacag ttatttgccg actaccttgg tgatctcgcc
+     1681 ttttacgtaa tggacaaatt cttccaactg atctgcgcgc gaggccaagc gatcttcttc
+     1741 ttgtccaaga taagcctgtc tagcttcaag tatgacgggc tgatactggg ccggcaggcg
+     1801 ctccattgcc cagtcggcag cgacatcctt cggcgcgatt ttgccggtta ctgcgctgta
+     1861 ccaaatgcgg gacaacgtaa gcactacatt tcgctcatcg ccagcccagt cgggcggcga
+     1921 gttccatagc gttaaggttt catttagcgc ctcaaataga tcctgttcag gaaccggatc
+     1981 aaagagttcc tccgccgctg gacctaccaa ggcaacgcta tgttctcttg cttttgtcag
+     2041 caagatagcc agatcaatgt cgatcgtggc tggctcgaag atacctgcaa gaatgtcatt
+     2101 gcgctgccat tctccaaatt gcagttcgcg cttagctgga taacgccacg gaatgatgtc
+     2161 gtcgtgcaca acaatggtga cttctacagc gcggagaatc tcgctctctc caggggaagc
+     2221 cgaagtttcc aaaaggtcgt tgatcaaagc tcgccgcgtt gtttcatcaa gccttacggt
+     2281 caccgtaacc agcaaatcaa tatcgctgtg tggcttcagg ccgccatcca ctgcggagcc
+     2341 gtacaaatgt acggccagca acgtcggttc gagatggcgc tcgatgacgc caactacctc
+     2401 tgatagttga gtcgatactt cggcgatcac cgcttccctc atgatgttta actttgtttt
+     2461 agggcgactg ccctgctgcg taacatcgtt gctgctccat aacatcaaac atcgacccac
+     2521 ggcgtaacgc gcttgctgct tggatgcccg aggcatagac tgtaccccaa aaaaaaacag
+     2581 tcataacaag ccatgaaaac cgccactgcg cc
+//

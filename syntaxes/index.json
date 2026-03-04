@@ -204,5 +204,96 @@
         "path": "golden_braid_2omega_into_alpha.json"
       }
     ]
+  },
+  {
+    "name": "MoClo (Marillonnet Lab)",
+    "path": "marillonnet-moclo",
+    "description": "Golden Gate Modular Cloning Toolbox for Plants",
+    "kits": [
+      {
+        "kit": "marillonnet-moclo"
+      },
+      {
+        "kit": "patron-moclo"
+      }
+    ],
+    "syntaxes": [
+      {
+        "name": "MoClo - Level 1",
+        "description": "Build a Transcriptional Unit",
+        "path": "moclo_level1.json",
+        "exclude": [
+          "pAGM1251",
+          "pAGM1263",
+          "pAGM1276",
+          "pAGM1287",
+          "pAGM1299",
+          "pAGM1301",
+          "pAGM1311",
+          "pICH41233",
+          "pICH41246",
+          "pICH41258",
+          "pICH41264",
+          "pICH41276",
+          "pICH41295",
+          "pICH41308",
+          "pICH41331",
+          "pICH53388",
+          "pICH53399"
+        ]
+      },
+      {
+        "name": "MoClo - Level 2",
+        "description": "Clone one or several Transcriptional Units and an End Linker into a Backbone",
+        "path": "moclo_level2.json",
+        "exclude": [
+          "pAGM1251",
+          "pAGM1263",
+          "pAGM1276",
+          "pAGM1287",
+          "pAGM1299",
+          "pAGM1301",
+          "pAGM1311",
+          "pICH41233",
+          "pICH41246",
+          "pICH41258",
+          "pICH41264",
+          "pICH41276",
+          "pICH41295",
+          "pICH41308",
+          "pICH41331",
+          "pICH53388",
+          "pICH53399",
+          "pICH47732",
+          "pICH47742",
+          "pICH47751",
+          "pICH47761",
+          "pICH47772",
+          "pICH47781",
+          "pICH47791",
+          "pICH47802",
+          "pICH47811",
+          "pICH47822",
+          "pICH47831",
+          "pICH47841",
+          "pICH47852",
+          "pICH47861",
+          "pAGM8031",
+          "pAGM8043",
+          "pAGM8055",
+          "pAGM8067",
+          "pAGM8079",
+          "pAGM8081",
+          "pAGM8093",
+          "pICH50872",
+          "pICH50881",
+          "pICH50892",
+          "pICH50900",
+          "pICH50914",
+          "pICH50927",
+          "pICH50932"
+        ]
+      }
+    ]
   }
 ]
