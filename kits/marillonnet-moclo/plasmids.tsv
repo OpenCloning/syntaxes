@@ -30,19 +30,19 @@ D / 5	pICH41766	48018	Spectinomycin	L3E	Level 2
 E / 5	pICH41780	48019	Spectinomycin	L4E	Level 2
 F / 5	pICH41800	48020	Spectinomycin	L5E	Level 2
 G / 5	pICH41822	48021	Spectinomycin	L6E	Level 2
-B / 3	pICH47732	48000	Ampicillin	forward TU	Level 1
-C / 3	pICH47742	48001	Ampicillin	forward TU	Level 1
-D / 3	pICH47751	48002	Ampicillin	forward TU	Level 1
-E / 3	pICH47761	48003	Ampicillin	forward TU	Level 1
-F / 3	pICH47772	48004	Ampicillin	forward TU	Level 1
-G / 3	pICH47781	48005	Ampicillin	forward TU	Level 1
+B / 3	pICH47732	48000	Ampicillin	Pos 1 - forward TU	Level 1
+C / 3	pICH47742	48001	Ampicillin	Pos 2 - forward TU	Level 1
+D / 3	pICH47751	48002	Ampicillin	Pos 3 - forward TU	Level 1
+E / 3	pICH47761	48003	Ampicillin	Pos 4 - forward TU	Level 1
+F / 3	pICH47772	48004	Ampicillin	Pos 5 - forward TU	Level 1
+G / 3	pICH47781	48005	Ampicillin	Pos 6 - forward TU	Level 1
 H / 3	pICH47791	48006	Ampicillin	forward TU	Level 1
-A / 4	pICH47802	48007	Ampicillin	reverse TU	Level 1
-B / 4	pICH47811	48008	Ampicillin	reverse TU	Level 1
-C / 4	pICH47822	48009	Ampicillin	reverse TU	Level 1
-D / 4	pICH47831	48010	Ampicillin	reverse TU	Level 1
-E / 4	pICH47841	48011	Ampicillin	reverse TU	Level 1
-F / 4	pICH47852	48012	Ampicillin	reverse TU	Level 1
+A / 4	pICH47802	48007	Ampicillin	Pos 1 - reverse TU	Level 1
+B / 4	pICH47811	48008	Ampicillin	Pos 2 - reverse TU	Level 1
+C / 4	pICH47822	48009	Ampicillin	Pos 3 - reverse TU	Level 1
+D / 4	pICH47831	48010	Ampicillin	Pos 4 - reverse TU	Level 1
+E / 4	pICH47841	48011	Ampicillin	Pos 5 - reverse TU	Level 1
+F / 4	pICH47852	48012	Ampicillin	Pos 6 - reverse TU	Level 1
 G / 4	pICH47861	48013	Ampicillin	reverse TU	Level 1
 G / 6	pICH49244	48029	Ampicillin	ELB7 - LacZ	Level 2
 A / 6	pICH49255	48023	Ampicillin	ELB1 - LacZ	Level 2
