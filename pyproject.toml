@@ -1,45 +1,19 @@
 [project]
-name = "opencloning-syntaxes"
-dynamic = ["version"]
-
-
-[tool.poetry]
-authors = ["Manuel Lera-Ramirez <manulera14@gmail.com>"]
-description = "Repository for Golden Gate based syntaxes"
-license = "MIT"
-name = "opencloning-syntaxes"
+name = "syntaxes"
 version = "0.1.0"
-package-mode = false
+description = "Add your description here"
 readme = "README.md"
-repository = "https://github.com/opencloning/syntaxes"
+authors = [
+    { name = "Manuel Lera-Ramirez", email = "manulera14@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "opencloning>=2.2.2",
+]
 
-[tool.poetry.dependencies]
-python = "^3.11"
-pydantic = "^2.12.5"
-opencloning = {git = "https://github.com/manulera/opencloning_backend", rev = "6290adaa414b247e3e01306a01143afefe964e6a"}
-beautifulsoup4 = "^4.14.3"
-requests = "^2.31.0"
-
-[tool.poetry.group.dev.dependencies]
-autopep8 = "^2.0.4"
-flake8-bugbear = "^24.2.6"
-black = "^24.2.0"
-pre-commit = "^3.6.2"
-watchfiles = "^0.21.0"
-
-[tool.poetry.group.test.dependencies]
-pytest = "8.3.4"
-pre-commit = "^3.6.2"
+[project.scripts]
+syntaxes = "syntaxes:main"
 
 [build-system]
-build-backend = "poetry_dynamic_versioning.backend"
-requires = ["poetry-core>=1.0.0", "poetry-dynamic-versioning"]
-
-[tool.black]
-skip-string-normalization = true
-line-length = 119
-
-[tool.poetry-dynamic-versioning]
-enable = true
-style = "pep440"
-vcs = "git"
+requires = ["uv_build>=0.13.7,<0.14.0"]
+build-backend = "uv_build"

@@ -1,0 +1,141 @@
+LOCUS       pFTK018                 2702 bp    DNA     circular SYN 04-SEP-2026
+DEFINITION  Part Plasmid Entry Vector (LVL0) from the Fungal Modular Cloning
+            ToolKit..
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+            .
+REFERENCE   1  (bases 1 to 2702)
+  AUTHORS   Mozsik L, Pohl C, Meyer V, Bovenberg RAL, Nygard Y, Driessen AJM
+  TITLE     Modular Synthetic Biology Toolkit for Filamentous Fungi.
+  JOURNAL   ACS Synth Biol. 2021 Nov 2. doi: 10.1021/acssynbio.1c00260.
+   PUBMED   34726388
+REFERENCE   2  (bases 1 to 2702)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Sep 4, 2026 from SnapGene Server 8.0.1
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; journalName: "ACS Synth
+            Biol. 2021 Nov 2. doi: 10.1021/acssynbio.1c00260."
+            Sequence Label: pFTK018
+FEATURES             Location/Qualifiers
+     source          1..2702
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     primer_bind     complement(24..42)
+                     /label="pBRforEco"
+                     /note="pBR322 vectors, upsteam of EcoRI site, forward
+                     primer"
+     promoter        110..214
+                     /gene="bla"
+                     /label="AmpR promoter"
+     CDS             434..1225
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy,
+                     1985)"
+                     /label="SmR"
+                     /note="confers resistance to spectinomycin and
+                     streptomycin"
+                     /translation="MREAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKPH
+                     SDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYPAK
+                     RELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQDLF
+                     EALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPAQYQP
+                     VILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+     rep_origin      1396..1984
+                     /direction=RIGHT
+                     /label="ori"
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+     primer_bind     1885..1904
+                     /label="pBR322ori-F"
+                     /note="pBR322 origin, forward primer"
+     primer_bind     2138..2155
+                     /label="L4440"
+                     /note="L4440 vector, forward primer"
+     protein_bind    2265..2283
+                     /gene="tetO"
+                     /label="tet operator"
+                     /bound_moiety="tetracycline repressor TetR"
+                     /note="bacterial operator O2 for the tetR and tetA genes"
+     protein_bind    2307..2325
+                     /gene="tetO"
+                     /label="tet operator"
+                     /bound_moiety="tetracycline repressor TetR"
+                     /note="bacterial operator O2 for the tetR and tetA genes"
+     protein_bind    2349..2367
+                     /gene="tetO"
+                     /label="tet operator"
+                     /bound_moiety="tetracycline repressor TetR"
+                     /note="bacterial operator O2 for the tetR and tetA genes"
+     protein_bind    2391..2409
+                     /gene="tetO"
+                     /label="tet operator"
+                     /bound_moiety="tetracycline repressor TetR"
+                     /note="bacterial operator O2 for the tetR and tetA genes"
+     protein_bind    2433..2451
+                     /gene="tetO"
+                     /label="tet operator"
+                     /bound_moiety="tetracycline repressor TetR"
+                     /note="bacterial operator O2 for the tetR and tetA genes"
+     protein_bind    2475..2493
+                     /gene="tetO"
+                     /label="tet operator"
+                     /bound_moiety="tetracycline repressor TetR"
+                     /note="bacterial operator O2 for the tetR and tetA genes"
+     intron          2563..2678
+                     /gene="gpdA"
+                     /label="gpdA intron"
+                     /note="intron from the Aspergillus nidulans
+                     glyceraldehyde-3-phosphate dehydrogenase gene (Punt et al.,
+                     1990)"
+ORIGIN
+        1 gtggctcttc agtggacgaa agggcctcgt gatacgccta tttttatagg ttaatgtcat
+       61 gataataatg gtttcttaga cgtcaggtgg cacttttcgg ggaaatgtgc gcggaacccc
+      121 tatttgttta tttttctaaa tacattcaaa tatgtatccg ctcatgagac aataaccctg
+      181 ataaatgctt caataatatt gaaaaaggaa gagtatgcgc tcacgcaact ggtccagaac
+      241 cttgaccgaa cgcagcggtg gtaacggcgc agtggcggtt ttcatggctt gttatgactg
+      301 tttttttggg gtacagtcta tgcctcgggc atccaagcag caagcgcgtt acgccgtggg
+      361 tcgatgtttg atgttatgga gcagcaacga tgttacgcag cagggcagtc gccctaaaac
+      421 aaagttaaac atcatgaggg aagcggtgat cgccgaagta tcgactcaac tatcagaggt
+      481 agttggcgtc atcgagcgcc atctcgaacc gacgttgctg gccgtacatt tgtacggctc
+      541 cgcagtggat ggcggcctga agccacacag cgatattgat ttgctggtta cggtgaccgt
+      601 aaggcttgat gaaacaacgc ggcgagcttt gatcaacgac cttttggaaa cttcggcttc
+      661 ccctggagag agcgagattc tccgcgctgt agaagtcacc attgttgtgc acgacgacat
+      721 cattccgtgg cgttatccag ctaagcgcga actgcaattt ggagaatggc agcgcaatga
+      781 cattcttgca ggtatcttcg agccagccac gatcgacatt gatctggcta tcttgctgac
+      841 aaaagcaaga gaacatagcg ttgccttggt aggtccagcg gcggaggaac tctttgatcc
+      901 ggttcctgaa caggatctat ttgaggcgct aaatgaaacc ttaacgctat ggaactcgcc
+      961 gcccgactgg gctggcgatg agcgaaatgt agtgcttacg ttgtcccgca tttggtacag
+     1021 cgcagtaacc ggcaaaatcg cgccgaagga tgtcgctgcc gactgggcaa tggagcgcct
+     1081 gccggcccag tatcagcccg tcatacttga agctagacag gcttatcttg gacaagaaga
+     1141 agatcgcttg gcctcgcgcg cagatcagtt ggaagaattt gtccattacg taaaaggcga
+     1201 gatcaccaag gtagtcggca aataactgtc agaccaagtt tactcatata tactttagat
+     1261 tgatttaaaa cttcattttt aatttaaaag gatctaggtg aagatccttt ttgataatct
+     1321 catgaccaaa atcccttaac gtgagttttc gttccactga gcgtcagacc ccgtagaaaa
+     1381 gatcaaagga tcttcttgag atcctttttt tctgcgcgta atctgctgct tgcaaacaaa
+     1441 aaaaccaccg ctaccagcgg tggtttgttt gccggatcaa gagctaccaa ctctttttcc
+     1501 gaaggtaact ggcttcagca gagcgcagat accaaatact gtccttctag tgtagccgta
+     1561 gttaggccac cacttcaaga actctgtagc accgcctaca tacctcgctc tgctaatcct
+     1621 gttaccagtg gctgctgcca gtggcgataa gtcgtgtctt accgggttgg actcaagacg
+     1681 atagttaccg gataaggcgc agcggtcggg ctgaacgggg ggttcgtgca cacagcccag
+     1741 cttggagcga acgacctaca ccgaactgag atacctacag cgtgagctat gagaaagcgc
+     1801 cacgcttccc gaagggagaa aggcggacag gtatccggta agcggcaggg tcggaacagg
+     1861 agagcgcacg agggagcttc cagggggaaa cgcctggtat ctttatagtc ctgtcgggtt
+     1921 tcgccacctc tgacttgagc gtcgattttt gtgatgctcg tcaggggggc ggagcctatg
+     1981 gaaaaacgcc agcaacgcgg cctttttacg gttcctggcc ttttgctggc cttttgctca
+     2041 catgttcttt cctgcgttat cccctgattc tgtggataac cgtattaccg cctttgagtg
+     2101 agctgatacc gctcgccgca gccgaacgac cgagcgcagc gagtcagtga gcgaggaagc
+     2161 ggaagagcgc ccaatacgca aaccgcctct ccccgcgcgt tggccgattc attaatcact
+     2221 ctgtggtctc aggaggccct ttcgtattca ctcgagttta ccactcccta tcagtgatag
+     2281 agaaaagtga aagtcgagtt taccactccc tatcagtgat agagaaaagt gaaagtcgag
+     2341 tttaccactc cctatcagtg atagagaaaa gtgaaagtcg agtttaccac tccctatcag
+     2401 tgatagagaa aagtgaaagt cgagtttacc actccctatc agtgatagag aaaagtgaaa
+     2461 gtcgagttta ccactcccta tcagtgatag agaaaagtga aagtcgagct ccccatcttc
+     2521 agtatattca tcttcccatc caagaacctt tatttcccct aagtaagtac tttgctacat
+     2581 ccatactcca tccttcccat cccttattcc tttgaacctt tcagttcgag ctttcccact
+     2641 tcatcgcagc ttgactaaca gctaccccgc ttgagcagac atcaccaatg tgagaccacg
+     2701 aa
+//

@@ -1,0 +1,162 @@
+LOCUS       pFTK074                 3884 bp    DNA     circular SYN 04-SEP-2026
+DEFINITION  Part Plasmid Entry Vector (LVL0) from the Fungal Modular Cloning
+            ToolKit..
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+            .
+REFERENCE   1  (bases 1 to 3884)
+  AUTHORS   Mozsik L, Pohl C, Meyer V, Bovenberg RAL, Nygard Y, Driessen AJM
+  TITLE     Modular Synthetic Biology Toolkit for Filamentous Fungi.
+  JOURNAL   ACS Synth Biol. 2021 Nov 2. doi: 10.1021/acssynbio.1c00260.
+   PUBMED   34726388
+REFERENCE   2  (bases 1 to 3884)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Sep 4, 2026 from SnapGene Server 8.0.1
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; journalName: "ACS Synth
+            Biol. 2021 Nov 2. doi: 10.1021/acssynbio.1c00260."
+            Sequence Label: pFTK074
+FEATURES             Location/Qualifiers
+     source          1..3884
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     primer_bind     complement(24..42)
+                     /label="pBRforEco"
+                     /note="pBR322 vectors, upsteam of EcoRI site, forward
+                     primer"
+     promoter        110..214
+                     /gene="bla"
+                     /label="AmpR promoter"
+     CDS             436..1227
+                     /codon_start=1
+                     /gene="aadA"
+                     /product="aminoglycoside adenylyltransferase (Murphy,
+                     1985)"
+                     /label="SmR"
+                     /note="confers resistance to spectinomycin and
+                     streptomycin"
+                     /translation="MREAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKPH
+                     SDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYPAK
+                     RELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQDLF
+                     EALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPAQYQP
+                     VILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK"
+     rep_origin      1398..1986
+                     /direction=RIGHT
+                     /label="ori"
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+     primer_bind     1887..1906
+                     /label="pBR322ori-F"
+                     /note="pBR322 origin, forward primer"
+     primer_bind     2140..2157
+                     /label="L4440"
+                     /note="L4440 vector, forward primer"
+     CDS             2252..2272
+                     /codon_start=1
+                     /product="nuclear localization signal of SV40 (simian virus
+                     40) large T antigen"
+                     /label="SV40 NLS"
+                     /translation="PKKKRKV"
+     CDS             2297..2446
+                     /codon_start=1
+                     /product="tetrameric repeat of the minimal activation
+                     domain of herpes simplex virus VP16 (Beerli et al., 1998)"
+                     /label="VP64"
+                     /translation="DALDDFDLDMLGSDALDDFDLDMLGSDALDDFDLDMLGSDALDDF
+                     DLDML"
+     CDS             2471..2491
+                     /codon_start=1
+                     /product="nuclear localization signal of SV40 (simian virus
+                     40) large T antigen"
+                     /label="SV40 NLS"
+                     /translation="PKKKRKV"
+     CDS             2921..3277
+                     /codon_start=1
+                     /product="transcriptional activation domain of human RelA,
+                     also known as p65 (O'Shea and Perkins, 2008)"
+                     /label="RelA (p65) AD"
+                     /translation="PTQAGEGTLSEALLQLQFDDEDLGALLGNSTDPAVFTDLASVDNS
+                     EFQQLLNQGIPVAPHTTEPMLMEYPEAITRLVTGAQRPPDPAPAPLGAPGLPNGLLSGD
+                     EDFSSIADMDFSALL"
+     CDS             3296..3865
+                     /codon_start=1
+                     /product="transcriptional activation domain from the human
+                     herpesvirus 4 (Epstein-Barr virus) replication and
+                     transcription activator Rta/BRLF1 (Hardwick et al., 1992;
+                     Chavez et al., 2015)"
+                     /label="Rta AD"
+                     /translation="RDSREGMFLPKPEAGSAISDVFEGREVCQPKRIRPFHPPGSPWAN
+                     RPLPASLAPTPTGPVHEPVGSLTPAPVPQPLDPAPAVTPEASHLLEDPDEETSQAVKAL
+                     REMADTVIPQKEEAAICGQMDLSHPPPRGHLDELTTTLESMTEDLNLDSPLTPELNEIL
+                     DTFLNDECLLHAMHISTGLSIFDTSLF"
+ORIGIN
+        1 gtggctcttc agtggacgaa agggcctcgt gatacgccta tttttatagg ttaatgtcat
+       61 gataataatg gtttcttaga cgtcaggtgg cacttttcgg ggaaatgtgc gcggaacccc
+      121 tatttgttta tttttctaaa tacattcaaa tatgtatccg ctcatgagac aataaccctg
+      181 ataaatgctt caataatatt gaaaaaggaa gagtatgcgc tcacgcaact ggtccagaac
+      241 cttgaccgaa cgcagcggtg gtaacggcgc agtggcggtt ttcatggctt gttatgactg
+      301 tttttttttg gggtacagtc tatgcctcgg gcatccaagc agcaagcgcg ttacgccgtg
+      361 ggtcgatgtt tgatgttatg gagcagcaac gatgttacgc agcagggcag tcgccctaaa
+      421 acaaagttaa acatcatgag ggaagcggtg atcgccgaag tatcgactca actatcagag
+      481 gtagttggcg tcatcgagcg ccatctcgaa ccgacgttgc tggccgtaca tttgtacggc
+      541 tccgcagtgg atggcggcct gaagccacac agcgatattg atttgctggt tacggtgacc
+      601 gtaaggcttg atgaaacaac gcggcgagct ttgatcaacg accttttgga aacttcggct
+      661 tcccctggag agagcgagat tctccgcgct gtagaagtca ccattgttgt gcacgacgac
+      721 atcattccgt ggcgttatcc agctaagcgc gaactgcaat ttggagaatg gcagcgcaat
+      781 gacattcttg caggtatctt cgagccagcc acgatcgaca ttgatctggc tatcttgctg
+      841 acaaaagcaa gagaacatag cgttgccttg gtaggtccag cggcggagga actctttgat
+      901 ccggttcctg aacaggatct atttgaggcg ctaaatgaaa ccttaacgct atggaactcg
+      961 ccgcccgact gggctggcga tgagcgaaat gtagtgctta cgttgtcccg catttggtac
+     1021 agcgcagtaa ccggcaaaat cgcgccgaag gatgtcgctg ccgactgggc aatggagcgc
+     1081 ctgccggccc agtatcagcc cgtcatactt gaagctagac aggcttatct tggacaagaa
+     1141 gaagatcgct tggcctcgcg cgcagatcag ttggaagaat ttgtccatta cgtaaaaggc
+     1201 gagatcacca aggtagtcgg caaataactg tcagaccaag tttactcata tatactttag
+     1261 attgatttaa aacttcattt ttaatttaaa aggatctagg tgaagatcct ttttgataat
+     1321 ctcatgacca aaatccctta acgtgagttt tcgttccact gagcgtcaga ccccgtagaa
+     1381 aagatcaaag gatcttcttg agatcctttt tttctgcgcg taatctgctg cttgcaaaca
+     1441 aaaaaaccac cgctaccagc ggtggtttgt ttgccggatc aagagctacc aactcttttt
+     1501 ccgaaggtaa ctggcttcag cagagcgcag ataccaaata ctgttcttct agtgtagccg
+     1561 tagttaggcc accacttcaa gaactctgta gcaccgccta catacctcgc tctgctaatc
+     1621 ctgttaccag tggctgctgc cagtggcgat aagtcgtgtc ttaccgggtt ggactcaaga
+     1681 cgatagttac cggataaggc gcagcggtcg ggctgaacgg ggggttcgtg cacacagccc
+     1741 agcttggagc gaacgaccta caccgaactg agatacctac agcgtgagct atgagaaagc
+     1801 gccacgcttc ccgaagggag aaaggcggac aggtatccgg taagcggcag ggtcggaaca
+     1861 ggagagcgca cgagggagct tccaggggga aacgcctggt atctttatag tcctgtcggg
+     1921 tttcgccacc tctgacttga gcgtcgattt ttgtgatgct cgtcaggggg gcggagccta
+     1981 tggaaaaacg ccagcaacgc ggccttttta cggttcctgg ccttttgctg gccttttgct
+     2041 cacatgttct ttcctgcgtt atcccctgat tctgtggata accgtattac cgcctttgag
+     2101 tgagctgata ccgctcgccg cagccgaacg accgagcgca gcgagtcagt gagcgaggaa
+     2161 gcggaagagc gcccaatacg caaaccgcct ctccccgcgc gttggccgat tcattaatca
+     2221 ctctgtggtc tcaaggtcca gcagggctga ccccaagaag aagaggaagg tggaggccag
+     2281 cggttccgga cgggctgacg cattggacga ttttgatctg gatatgctgg gaagtgacgc
+     2341 cctcgatgat tttgaccttg acatgcttgg ttcggatgcc cttgatgact ttgacctcga
+     2401 catgctcggc agtgacgccc ttgatgattt cgacctggac atgctgatta actctagaag
+     2461 ttccggatct ccgaaaaaga aacgcaaagt tggtagccag tacctgcccg acaccgacga
+     2521 ccggcaccgg atcgaggaaa agcggaagcg gacctacgag acattcaaga gcatcatgaa
+     2581 gaagtccccc ttcagcggcc ccaccgaccc tagacctcca cctagaagaa tcgccgtgcc
+     2641 cagcagatcc agcgccagcg tgccaaaacc tgccccccag ccttacccct tcaccagcag
+     2701 cctgagcacc atcaactacg acgagttccc taccatggtg ttccccagcg gccagatctc
+     2761 tcaggcctct gctctggctc cagcccctcc tcaggtgctg cctcaggctc ctgctcctgc
+     2821 accagctcca gccatggtgt ctgcactggc tcaggcacca gcacccgtgc ctgtgctggc
+     2881 tcctggacct ccacaggctg tggctccacc agcccctaaa cctacacagg ccggcgaggg
+     2941 cacactgtct gaagctctgc tgcagctgca gttcgacgac gaggatctgg gagccctgct
+     3001 gggaaacagc accgatcctg ccgtgttcac cgacctggcc agcgtggaca acagcgagtt
+     3061 ccagcagctg ctgaaccagg gcatccctgt ggcccctcac accaccgagc ccatgctgat
+     3121 ggaatacccc gaggccatca cccggctcgt gacaggcgct cagaggcctc ctgatccagc
+     3181 tcctgcccct ctgggagcac caggcctgcc taatggactg ctgtctggcg acgaggactt
+     3241 cagctctatc gccgacatgg acttctccgc actgctgggt agcggatcgg gatctcggga
+     3301 ttccagggaa gggatgtttt tgccgaagcc tgaggccggc tccgctatta gtgacgtgtt
+     3361 tgagggccgc gaggtgtgcc agccaaaacg aatccggcca tttcatcctc caggaagtcc
+     3421 atgggccaac cgcccactcc ccgccagcct cgcaccaaca ccaaccggtc cagtacatga
+     3481 gccagtcggg tcactgaccc cggcaccagt ccctcagcca ctggatccag cgcccgcagt
+     3541 gactcccgag gccagtcacc tgttggagga tcccgatgaa gagacgagcc aggctgtcaa
+     3601 agcccttcgg gagatggccg atactgtgat tccccagaag gaagaggctg caatctgtgg
+     3661 ccaaatggac ctttcccatc cgcccccaag gggccatctg gatgagctga caaccacact
+     3721 tgagtccatg accgaggatc tgaacctgga ctcacccctg accccggaat tgaacgagat
+     3781 tctggatacc ttcctgaacg acgagtgcct cttgcatgcc atgcatatca gcacaggact
+     3841 gtccatcttc gacacatctt tgttttgagc tttgagacca cgaa
+//

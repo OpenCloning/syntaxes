@@ -1,0 +1,137 @@
+{
+  "syntaxName": "Fungal Modular Cloning Toolkit",
+  "assemblyEnzymes": [
+    "BsaI"
+  ],
+  "domesticationEnzyme": "BsaI",
+  "relatedDois": [],
+  "submitters": [],
+  "overhangNames": {
+    "GGAG": "",
+    "CCAT": "",
+    "AATG": "",
+    "AGGT": "",
+    "TTCG": "",
+    "GCTT": "",
+    "CGCT": ""
+  },
+  "parts": [
+    {
+      "id": 1,
+      "name": "Promoter",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "GGAG",
+      "right_overhang": "CCAT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#42e73c"
+    },
+    {
+      "id": 2,
+      "name": "5' UTR",
+      "info": "",
+      "glyph": "engineered-region",
+      "left_overhang": "CCAT",
+      "right_overhang": "AATG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 2,
+      "color": "#e61205"
+    },
+    {
+      "id": 3,
+      "name": "CDS2",
+      "info": "",
+      "glyph": "cds",
+      "left_overhang": "AATG",
+      "right_overhang": "AGGT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 2,
+      "right_codon_start": 2,
+      "color": "#de7aba"
+    },
+    {
+      "id": 4,
+      "name": "CDS3",
+      "info": "",
+      "glyph": "cds",
+      "left_overhang": "AGGT",
+      "right_overhang": "TTCG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 2,
+      "right_codon_start": 2,
+      "color": "#83cd13"
+    },
+    {
+      "id": 5,
+      "name": "CDS4",
+      "info": "",
+      "glyph": "cds",
+      "left_overhang": "TTCG",
+      "right_overhang": "GCTT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 2,
+      "right_codon_start": 0,
+      "color": "#f89fe2"
+    },
+    {
+      "id": 6,
+      "name": "Terminator + 3'UTR",
+      "info": "",
+      "glyph": "terminator",
+      "left_overhang": "GCTT",
+      "right_overhang": "CGCT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "#6ed9e9"
+    },
+    {
+      "id": 7,
+      "name": "Backbone",
+      "info": "",
+      "glyph": "origin-of-replication",
+      "left_overhang": "CGCT",
+      "right_overhang": "GGAG",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 0,
+      "right_codon_start": 0,
+      "color": "lightgray"
+    },
+    {
+      "name": "CDS1",
+      "info": "",
+      "glyph": "cds",
+      "left_overhang": "AATG",
+      "right_overhang": "GCTT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 2,
+      "right_codon_start": 0,
+      "color": "#b96ac3",
+      "id": 8
+    },
+    {
+      "name": "CDS5",
+      "info": "",
+      "glyph": "cds",
+      "left_overhang": "AGGT",
+      "right_overhang": "GCTT",
+      "left_inside": "",
+      "right_inside": "",
+      "left_codon_start": 2,
+      "right_codon_start": 0,
+      "color": "#acfd3e",
+      "id": 9
+    }
+  ]
+}

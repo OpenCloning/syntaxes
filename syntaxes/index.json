@@ -140,7 +140,6 @@
         "filename_pattern": "^.*-2[ABCD]-.*$"
       }
     ]
-
   },
   {
     "name": "Start-Stop Assembly",
@@ -293,6 +292,16 @@
           "pICH50927",
           "pICH50932"
         ]
+      }
+    ]
+  },
+  {
+    "name": "Fungal Modular Cloning Toolkit",
+    "path": "driessen-modular-cloning-fungi",
+    "description": "Modular Synthetic Biology Toolkit for Filamentous Fungi",
+    "kits": [
+      {
+        "kit": "driessen-modular-cloning-fungi"
       }
     ]
   }

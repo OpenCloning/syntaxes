@@ -1,0 +1,1248 @@
+[
+    {
+        "id": 1,
+        "plasmid_name": "pFTK001",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171273"
+        }
+    },
+    {
+        "id": 2,
+        "plasmid_name": "pFTK002",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171274"
+        }
+    },
+    {
+        "id": 3,
+        "plasmid_name": "pFTK003",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171275"
+        }
+    },
+    {
+        "id": 4,
+        "plasmid_name": "pFTK004",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171276"
+        }
+    },
+    {
+        "id": 5,
+        "plasmid_name": "pFTK005",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171277"
+        }
+    },
+    {
+        "id": 6,
+        "plasmid_name": "pFTK006",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171278"
+        }
+    },
+    {
+        "id": 7,
+        "plasmid_name": "pFTK007",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171279"
+        }
+    },
+    {
+        "id": 8,
+        "plasmid_name": "pFTK008",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171280"
+        }
+    },
+    {
+        "id": 9,
+        "plasmid_name": "pFTK009",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171281"
+        }
+    },
+    {
+        "id": 10,
+        "plasmid_name": "pFTK010",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171282"
+        }
+    },
+    {
+        "id": 11,
+        "plasmid_name": "pFTK011",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171283"
+        }
+    },
+    {
+        "id": 12,
+        "plasmid_name": "pFTK012",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171284"
+        }
+    },
+    {
+        "id": 13,
+        "plasmid_name": "pFTK013",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171285"
+        }
+    },
+    {
+        "id": 14,
+        "plasmid_name": "pFTK014",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171286"
+        }
+    },
+    {
+        "id": 15,
+        "plasmid_name": "pFTK015",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171287"
+        }
+    },
+    {
+        "id": 16,
+        "plasmid_name": "pFTK016",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171288"
+        }
+    },
+    {
+        "id": 17,
+        "plasmid_name": "pFTK017",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171289"
+        }
+    },
+    {
+        "id": 18,
+        "plasmid_name": "pFTK018",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171290"
+        }
+    },
+    {
+        "id": 19,
+        "plasmid_name": "pFTK019",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171291"
+        }
+    },
+    {
+        "id": 20,
+        "plasmid_name": "pFTK020",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171292"
+        }
+    },
+    {
+        "id": 21,
+        "plasmid_name": "pFTK021",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171293"
+        }
+    },
+    {
+        "id": 22,
+        "plasmid_name": "pFTK022",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171294"
+        }
+    },
+    {
+        "id": 23,
+        "plasmid_name": "pFTK023",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171295"
+        }
+    },
+    {
+        "id": 24,
+        "plasmid_name": "pFTK024",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171296"
+        }
+    },
+    {
+        "id": 25,
+        "plasmid_name": "pFTK025",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171297"
+        }
+    },
+    {
+        "id": 26,
+        "plasmid_name": "pFTK026",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171298"
+        }
+    },
+    {
+        "id": 27,
+        "plasmid_name": "pFTK027",
+        "left_overhang": "GGAG",
+        "right_overhang": "AATG",
+        "key": "GGAG-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171299"
+        }
+    },
+    {
+        "id": 28,
+        "plasmid_name": "pFTK028",
+        "left_overhang": "GGAG",
+        "right_overhang": "CCAT",
+        "key": "GGAG-CCAT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171300"
+        }
+    },
+    {
+        "id": 29,
+        "plasmid_name": "pFTK029",
+        "left_overhang": "GGAG",
+        "right_overhang": "CCAT",
+        "key": "GGAG-CCAT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171301"
+        }
+    },
+    {
+        "id": 30,
+        "plasmid_name": "pFTK030",
+        "left_overhang": "GGAG",
+        "right_overhang": "CCAT",
+        "key": "GGAG-CCAT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171302"
+        }
+    },
+    {
+        "id": 31,
+        "plasmid_name": "pFTK031",
+        "left_overhang": "GGAG",
+        "right_overhang": "CCAT",
+        "key": "GGAG-CCAT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171303"
+        }
+    },
+    {
+        "id": 32,
+        "plasmid_name": "pFTK032",
+        "left_overhang": "CCAT",
+        "right_overhang": "AATG",
+        "key": "CCAT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171304"
+        }
+    },
+    {
+        "id": 33,
+        "plasmid_name": "pFTK033",
+        "left_overhang": "CCAT",
+        "right_overhang": "AATG",
+        "key": "CCAT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171305"
+        }
+    },
+    {
+        "id": 34,
+        "plasmid_name": "pFTK034",
+        "left_overhang": "CCAT",
+        "right_overhang": "AATG",
+        "key": "CCAT-AATG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171306"
+        }
+    },
+    {
+        "id": 35,
+        "plasmid_name": "pFTK036",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171308"
+        }
+    },
+    {
+        "id": 36,
+        "plasmid_name": "pFTK037",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171309"
+        }
+    },
+    {
+        "id": 37,
+        "plasmid_name": "pFTK038",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171310"
+        }
+    },
+    {
+        "id": 38,
+        "plasmid_name": "pFTK039",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171311"
+        }
+    },
+    {
+        "id": 39,
+        "plasmid_name": "pFTK040",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171312"
+        }
+    },
+    {
+        "id": 40,
+        "plasmid_name": "pFTK041",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171313"
+        }
+    },
+    {
+        "id": 41,
+        "plasmid_name": "pFTK042",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171314"
+        }
+    },
+    {
+        "id": 42,
+        "plasmid_name": "pFTK043",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171315"
+        }
+    },
+    {
+        "id": 43,
+        "plasmid_name": "pFTK044",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171316"
+        }
+    },
+    {
+        "id": 44,
+        "plasmid_name": "pFTK045",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171317"
+        }
+    },
+    {
+        "id": 45,
+        "plasmid_name": "pFTK046",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171318"
+        }
+    },
+    {
+        "id": 46,
+        "plasmid_name": "pFTK047",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171319"
+        }
+    },
+    {
+        "id": 47,
+        "plasmid_name": "pFTK048",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171320"
+        }
+    },
+    {
+        "id": 48,
+        "plasmid_name": "pFTK049",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171321"
+        }
+    },
+    {
+        "id": 49,
+        "plasmid_name": "pFTK050",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171322"
+        }
+    },
+    {
+        "id": 50,
+        "plasmid_name": "pFTK051",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171323"
+        }
+    },
+    {
+        "id": 51,
+        "plasmid_name": "pFTK052",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171324"
+        }
+    },
+    {
+        "id": 52,
+        "plasmid_name": "pFTK053",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171325"
+        }
+    },
+    {
+        "id": 53,
+        "plasmid_name": "pFTK054",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171326"
+        }
+    },
+    {
+        "id": 54,
+        "plasmid_name": "pFTK055",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171327"
+        }
+    },
+    {
+        "id": 55,
+        "plasmid_name": "pFTK056",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171328"
+        }
+    },
+    {
+        "id": 56,
+        "plasmid_name": "pFTK057",
+        "left_overhang": "AATG",
+        "right_overhang": "GCTT",
+        "key": "AATG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171329"
+        }
+    },
+    {
+        "id": 57,
+        "plasmid_name": "pFTK058",
+        "left_overhang": "AATG",
+        "right_overhang": "AGGT",
+        "key": "AATG-AGGT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171330"
+        }
+    },
+    {
+        "id": 58,
+        "plasmid_name": "pFTK059",
+        "left_overhang": "AATG",
+        "right_overhang": "AGGT",
+        "key": "AATG-AGGT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171331"
+        }
+    },
+    {
+        "id": 59,
+        "plasmid_name": "pFTK060",
+        "left_overhang": "AATG",
+        "right_overhang": "AGGT",
+        "key": "AATG-AGGT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171332"
+        }
+    },
+    {
+        "id": 60,
+        "plasmid_name": "pFTK061",
+        "left_overhang": "AATG",
+        "right_overhang": "AGGT",
+        "key": "AATG-AGGT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171333"
+        }
+    },
+    {
+        "id": 61,
+        "plasmid_name": "pFTK062",
+        "left_overhang": "AATG",
+        "right_overhang": "AGGT",
+        "key": "AATG-AGGT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171334"
+        }
+    },
+    {
+        "id": 62,
+        "plasmid_name": "pFTK063",
+        "left_overhang": "AATG",
+        "right_overhang": "AGGT",
+        "key": "AATG-AGGT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171335"
+        }
+    },
+    {
+        "id": 63,
+        "plasmid_name": "pFTK064",
+        "left_overhang": "AGGT",
+        "right_overhang": "TTCG",
+        "key": "AGGT-TTCG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171336"
+        }
+    },
+    {
+        "id": 64,
+        "plasmid_name": "pFTK065",
+        "left_overhang": "AGGT",
+        "right_overhang": "TTCG",
+        "key": "AGGT-TTCG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171337"
+        }
+    },
+    {
+        "id": 65,
+        "plasmid_name": "pFTK066",
+        "left_overhang": "AGGT",
+        "right_overhang": "TTCG",
+        "key": "AGGT-TTCG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171338"
+        }
+    },
+    {
+        "id": 66,
+        "plasmid_name": "pFTK067",
+        "left_overhang": "AGGT",
+        "right_overhang": "TTCG",
+        "key": "AGGT-TTCG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171339"
+        }
+    },
+    {
+        "id": 67,
+        "plasmid_name": "pFTK068",
+        "left_overhang": "AGGT",
+        "right_overhang": "TTCG",
+        "key": "AGGT-TTCG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171340"
+        }
+    },
+    {
+        "id": 68,
+        "plasmid_name": "pFTK069",
+        "left_overhang": "TTCG",
+        "right_overhang": "GCTT",
+        "key": "TTCG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171341"
+        }
+    },
+    {
+        "id": 69,
+        "plasmid_name": "pFTK070",
+        "left_overhang": "TTCG",
+        "right_overhang": "GCTT",
+        "key": "TTCG-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171342"
+        }
+    },
+    {
+        "id": 70,
+        "plasmid_name": "pFTK071",
+        "left_overhang": "AGGT",
+        "right_overhang": "GCTT",
+        "key": "AGGT-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171343"
+        }
+    },
+    {
+        "id": 71,
+        "plasmid_name": "pFTK072",
+        "left_overhang": "AGGT",
+        "right_overhang": "TTCG",
+        "key": "AGGT-TTCG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171344"
+        }
+    },
+    {
+        "id": 72,
+        "plasmid_name": "pFTK073",
+        "left_overhang": "AGGT",
+        "right_overhang": "TTCG",
+        "key": "AGGT-TTCG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171345"
+        }
+    },
+    {
+        "id": 73,
+        "plasmid_name": "pFTK074",
+        "left_overhang": "AGGT",
+        "right_overhang": "GCTT",
+        "key": "AGGT-GCTT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171346"
+        }
+    },
+    {
+        "id": 74,
+        "plasmid_name": "pFTK075",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171347"
+        }
+    },
+    {
+        "id": 75,
+        "plasmid_name": "pFTK076",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171348"
+        }
+    },
+    {
+        "id": 76,
+        "plasmid_name": "pFTK077",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171349"
+        }
+    },
+    {
+        "id": 77,
+        "plasmid_name": "pFTK078",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171350"
+        }
+    },
+    {
+        "id": 78,
+        "plasmid_name": "pFTK079",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171351"
+        }
+    },
+    {
+        "id": 79,
+        "plasmid_name": "pFTK080",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171352"
+        }
+    },
+    {
+        "id": 80,
+        "plasmid_name": "pFTK081",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171353"
+        }
+    },
+    {
+        "id": 81,
+        "plasmid_name": "pFTK082",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171354"
+        }
+    },
+    {
+        "id": 82,
+        "plasmid_name": "pFTK083",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171355"
+        }
+    },
+    {
+        "id": 83,
+        "plasmid_name": "pFTK084",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171356"
+        }
+    },
+    {
+        "id": 84,
+        "plasmid_name": "pFTK085",
+        "left_overhang": "GCTT",
+        "right_overhang": "CGCT",
+        "key": "GCTT-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171357"
+        }
+    },
+    {
+        "id": 85,
+        "plasmid_name": "pFTK087",
+        "left_overhang": "GGAG",
+        "right_overhang": "CGCT",
+        "key": "GGAG-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171359"
+        }
+    },
+    {
+        "id": 86,
+        "plasmid_name": "pFTK088",
+        "left_overhang": "GGAG",
+        "right_overhang": "CGCT",
+        "key": "GGAG-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171360"
+        }
+    },
+    {
+        "id": 87,
+        "plasmid_name": "pFTK089",
+        "left_overhang": "GGAG",
+        "right_overhang": "CGCT",
+        "key": "GGAG-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171361"
+        }
+    },
+    {
+        "id": 88,
+        "plasmid_name": "pFTK090",
+        "left_overhang": "GGAG",
+        "right_overhang": "CGCT",
+        "key": "GGAG-CGCT",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171362"
+        }
+    },
+    {
+        "id": 89,
+        "plasmid_name": "pFTK094-LM-AMA002.0",
+        "left_overhang": "CGCT",
+        "right_overhang": "GGAG",
+        "key": "CGCT-GGAG",
+        "type": "AddgeneIdSource",
+        "source": {
+            "id": 1,
+            "type": "AddgeneIdSource",
+            "input": [],
+            "repository_id": "171366"
+        }
+    }
+]
