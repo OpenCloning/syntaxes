@@ -20,7 +20,7 @@
       "id": 1,
       "name": "Promoter",
       "info": "",
-      "glyph": "engineered-region",
+      "glyph": "promoter",
       "left_overhang": "GGAG",
       "right_overhang": "CCAT",
       "left_inside": "",
